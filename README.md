@@ -7,7 +7,7 @@ Tämä repositorio on koirien raakaruokinta -kirjan itsenäinen GitHub-päärepo
 - Kaikki jatkossa laadittava ja hyväksytty tekstiaineisto tallennetaan Markdown-muodossa (`.md`).
 - [MASTER.md](MASTER.md) on kirjan tekninen työskentelyn aloituspiste.
 - `01_markdown/` sisältää lähdeaineistoista tehdyt Markdown-versiot.
-- `90_alkuperaiset/` sisältää vain ne alkuperäiset tiedostot, jotka olivat jo siirtyneet tähän repoon ennen Markdown-periaatteen lukitsemista. Niitä ei käytetä jatkotyön ensisijaisina versioina.
+- `90_alkuperaiset/` säilyttää alkuperäisten lähteiden hakemistorakennetta Markdown-esityksinä. Binaariset Word-, PDF-, ZIP-, XLSX- ja kuvatiedostot eivät ole aktiivisen jatkotyön ensisijaisia versioita.
 - [MANIFEST.csv](00_hallinta/MANIFEST.csv) sisältää aineiston tiedostotietoja ja tarkisteita.
 - [Google Drive -lähdeluettelo](00_hallinta/GOOGLE_DRIVE_LAHDELUETTELO.md) kuvaa migraatiossa löydetyt Drive-lähteet.
 
