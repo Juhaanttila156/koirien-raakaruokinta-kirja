@@ -1,25 +1,22 @@
 # Koirien raakaruokinta
 
-Tämä kansio kokoaa koirien raakaruokinta -kirjan löydetyt Google Drive- ja ChatGPT Library -aineistot yhteen Git-versionhallittavaan muotoon.
+Tämä repositorio on koirien raakaruokinta -kirjan itsenäinen GitHub-päärepo. SOTE-koulutus ja raakaruokintakirja pidetään eri repositorioissa.
 
-## Aloita tästä
+## Ensisijainen tallennusmuoto
 
-- [MASTER.md](MASTER.md) on suora Markdown-muunnos uusimmasta selvästi versionumerolla nimetystä kokonaisesta Library-masterista: `JP_Anttila_Koirien_raakaruokinta_koko_kirja_v9.docx`.
-- `01_markdown/` sisältää jokaiselle löydetylle lähdetiedostolle oman Markdown-version. Alkuperäinen tiedostopääte säilyy nimessä, esimerkiksi `nimi.pdf.md` ja `nimi.docx.md`.
-- `90_alkuperaiset/` sisältää alkuperäiset PDF-, DOCX-, ZIP-, XLSX-, kuva- ja tekstitiedostot.
-- [MANIFEST.csv](00_hallinta/MANIFEST.csv) sisältää tiedostokoot ja SHA-256-tarkisteet.
-- [Google Drive -lähdeluettelo](00_hallinta/GOOGLE_DRIVE_LAHDELUETTELO.md) sisältää kaikki 58 löydettyä Drive-lähdettä ja niiden tunnukset.
+- Kaikki jatkossa laadittava ja hyväksytty tekstiaineisto tallennetaan Markdown-muodossa (`.md`).
+- [MASTER.md](MASTER.md) on kirjan tekninen työskentelyn aloituspiste.
+- `01_markdown/` sisältää lähdeaineistoista tehdyt Markdown-versiot.
+- `90_alkuperaiset/` sisältää vain ne alkuperäiset tiedostot, jotka olivat jo siirtyneet tähän repoon ennen Markdown-periaatteen lukitsemista. Niitä ei käytetä jatkotyön ensisijaisina versioina.
+- [MANIFEST.csv](00_hallinta/MANIFEST.csv) sisältää aineiston tiedostotietoja ja tarkisteita.
+- [Google Drive -lähdeluettelo](00_hallinta/GOOGLE_DRIVE_LAHDELUETTELO.md) kuvaa migraatiossa löydetyt Drive-lähteet.
 
-## Aineistomäärä
+## Repositorion erottaminen SOTE-koulutuksesta
 
-- Google Drive: **58** lähdetiedostoa
-- ChatGPT Library: **34** lähdetiedostoa
-- alkuperäisiä tiedostoja: **92**
-- Markdown-pari jokaiselle alkuperäiselle tiedostolle
-- v9-masterin kuvat on erotettu `01_markdown/library-paakansio/assets/`-kansioon ja linkitetty `MASTER.md`-tiedostosta
+SOTE-repossa ollut `09_koirien_raakaruokinta`-kansion Markdown-aineisto tarkistettiin tätä repoa vasten. Kaikki 116 tekstitiedostoa olivat täällä samoilla poluilla ja samoilla Git-blob-tarkisteilla. Raakaruokinta-aineiston aktiivinen kopio poistettiin SOTE-reposta 23.9.2026.
 
-Täydellinen 62 153 290 tavun ZIP-varmuuskopio on GitHub-yhteyden siirtokehyksen vuoksi tallennettu kahteen häviöttömään osaan. [Palautusohje ja tarkistussummat](00_hallinta/SUUREN_ZIPIN_PALAUTUS.md) osoittavat, miten alkuperäinen ZIP kootaan täsmälleen takaisin.
+Vanhojen Word-, PDF-, ZIP-, XLSX- ja kuvatiedostojen alkuperäiset versiot säilyvät tarvittaessa palautettavina Git-historiassa. Jatkotyö tehdään Markdown-tiedostoilla.
 
-Täsmälleen samanlaisia versioita ei ole poistettu. Manifesti ryhmittelee ne tarkistussumman perusteella, jotta myöhempi siivous voidaan tehdä hallitusti.
+Tarkempi siirtotarkastus: [SIIRRON_TILA_2026-09-11.md](00_hallinta/SIIRRON_TILA_2026-09-11.md).
 
 `MASTER.md` on tekninen työskentelyn aloituspiste, ei vielä vakuutus sisällön lääketieteellisestä tai ravitsemustieteellisestä oikeellisuudesta. Sisällön faktantarkistus ja lopullisen julkaisu-masterin valinta ovat erillisiä vaiheita.
