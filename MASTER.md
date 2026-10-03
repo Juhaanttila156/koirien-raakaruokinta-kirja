@@ -8,27 +8,27 @@ Tieteeseen nojaava, kokemuksesta syntynyt opas koiran luonnolliseen ruokintaan
 
 # LUKIJALLE
 
-Tämä kirja tarjoaa tutkimukseen, koiran ravitsemusfysiologiaan ja kirjoittajan pitkäaikaiseen kokemukseen perustuvaa tietoa koirien raakaruokinnasta. Se ei korvaa eläinlääkärin tutkimusta, diagnoosia tai yksilöllistä hoitoa. Kasvavan pennun, tiineen tai imettävän nartun sekä sairaan koiran ruokavalio on suunniteltava erityisen tarkasti. Kun kirjassa tarvitaan ammattilaisen apua, suositeltava asiantuntija on ravitsemukseen ja ruokintaan perehtynyt eläinlääkäri.
+Tämä kirja käsittelee koirien raakaruokintaa tutkimustiedon, koiran ravitsemusfysiologian ja kirjoittajan pitkäaikaisen kokemuksen pohjalta. Se ei korvaa eläinlääkärin tekemää tutkimusta, diagnoosia eikä koiralle laadittua yksilöllistä hoitosuunnitelmaa. Kasvavan pennun, tiineen tai imettävän nartun sekä sairaan koiran ruokavalio on suunniteltava erityisen huolellisesti. Kun tarvitaan ammattilaisen apua, sopivin asiantuntija on koirien ravitsemukseen ja ruokintaan perehtynyt eläinlääkäri.
 
-Kirjan tutkimusväitteet on varustettu lähdeviitteillä. JP:n ja Diegon kokemukset on erotettu tutkimustiedosta selvästi. Yhden koiran pitkä elämä ei ole kontrolloitu koe, mutta se voi kertoa asioita, joita taulukko ei yksin tavoita. Tämän kirjan tarkoitus on pitää nämä kaksi tiedon muotoa rehellisesti rinnakkain.
+Kirjan tutkimusväitteet on varustettu lähdeviitteillä. Tutkimustieto sekä JP:n omat kokemukset Diegon ruokinnasta on erotettu toisistaan selvästi. Yhden koiran pitkä elämä ei ole kontrolloitu tutkimus, mutta pitkäaikaiset havainnot voivat tuoda esiin asioita, joita pelkät taulukot eivät tavoita. Tässä kirjassa nämä kaksi tiedon muotoa kulkevat rehellisesti rinnakkain.
 
 # ALKUSANAT
 
-Kun katsot koirasi silmiin, näet siellä jotain muutakin kuin lemmikin. Näet perheenjäsenen, parhaan ystäväsi ja olennon, joka luottaa sinuun täysin. Se luottaa sinuun silloin, kun avaat oven, ja se luottaa sinuun silloin, kun täytät ruokakupin.
+Kun katsot koiraasi silmiin, näet niissä muutakin kuin lemmikin. Näet perheenjäsenen, parhaan ystäväsi ja olennon, joka luottaa sinuun täysin. Se luottaa sinuun silloin, kun avaat oven, ja myös silloin, kun täytät ruokakupin.
 
-Tämä kirja syntyi rakkaudesta Diegoon, minun Dogo Argentinooni.
+Tämä kirja syntyi rakkaudesta Diegoon, minun dogo argentinooni.
 
-Olemme tottuneet ajattelemaan ruokaa polttoaineena. Koiran kohdalla ruokinta on kuitenkin myös päivittäinen huolenpidon teko. Ruokakuppiin päätyvät valinnat vaikuttavat painoon, lihaksiin, ihoon, turkkiin, ruoansulatukseen ja siihen, miten koira jaksaa elää omaa elämäänsä.
+Olemme tottuneet ajattelemaan ruokaa polttoaineena. Koiralle ruokinta on kuitenkin myös päivittäinen huolenpidon teko. Ruokakuppiin päätyvät valinnat vaikuttavat koiran painoon, lihaksiin, ihoon, turkkiin, ruoansulatukseen ja siihen, miten se jaksaa elää omaa elämäänsä.
 
-Raakaruokinnasta keskustellaan usein leireissä, vaikka koiran kuppi ei tarvitse vastakkainasettelua. Tämän kirjan lähtökohta on raakaruokintamyönteinen: tuoreisiin, mahdollisimman vähän käsiteltyihin eläinperäisiin raaka-aineisiin perustuva ruokavalio voi olla koiralle erinomainen, lajityypillisesti mielekäs ja pitkäaikaisesti toimiva tapa syödä. Ravintoaineiden laskenta ja muutamat käytännön rajat eivät ole vastalause raakaruokinnalle, vaan keino tehdä hyvästä ajatuksesta vahva arki.
+Raakaruokinnasta käytävä keskustelu jakautuu usein vastakkaisiin leireihin, vaikka koiran ruokinnan ei tarvitse perustua vastakkainasetteluun. Tämän kirjan lähtökohta on raakaruokintamyönteinen: tuoreisiin ja mahdollisimman vähän käsiteltyihin eläinperäisiin raaka-aineisiin perustuva ruokavalio voi olla koiralle erinomainen, sen biologisiin tarpeisiin sopiva ja pitkäaikaisesti toimiva tapa syödä. Ravintoaineiden saannin arvioiminen ja muutamat käytännön rajat eivät ole vastalause raakaruokinnalle, vaan keino tehdä hyvästä ajatuksesta turvallinen ja toimiva osa arkea.
 
 ## Kirjan lähtökohta on raakaruokintamyönteinen
 
-Tämän kirjan perusasenne on selvä: hyvin rakennettu raakaruokinta on koiralle varteenotettava, luonnollinen ja käytännössä toimiva ruokintatapa. Kirja kannustaa käyttämään tuoreita, mahdollisimman vähän käsiteltyjä eläinperäisiä raaka-aineita, tuntemaan niiden alkuperän ja katsomaan rehellisesti koiraa. Turvallisuutta ja ravintoaineita käsitellään siksi, että raakaruokinta onnistuisi mahdollisimman hyvin – ei siksi, että lukija pelkäisi aloittaa.
+Tämän kirjan perusasenne on selvä: hyvin rakennettu raakaruokinta on koiralle varteenotettava, luonnollinen ja käytännössä toimiva ruokintatapa. Kirja kannustaa käyttämään tuoreita, mahdollisimman vähän käsiteltyjä eläinperäisiä raaka-aineita, selvittämään niiden alkuperän ja seuraamaan avoimin mielin koiran vointia. Turvallisuutta ja ravintoaineiden saantia käsitellään siksi, että raakaruokinta onnistuisi mahdollisimman hyvin – ei siksi, että lukija pelkäisi aloittaa.
 
-Raakaruokinnan vahvuuksia ovat raaka-aineiden läpinäkyvyys, hyvä maittavuus, eläinperäisen ravinnon ravintotiheys, korkea kosteus ja mahdollisuus rakentaa annos yksilöllisesti. Kun ruokavalio sopii koiralle, onnistuminen näkyy usein arjen kokonaisuudessa: ruokahalussa, kylläisyydessä, lihaskunnossa, turkissa, ulosteen laadussa, liikkumisessa ja palautumisessa. Tätä käytännön tietoa ei tarvitse vähätellä. Se asetetaan tutkimustiedon rinnalle.
+Raakaruokinnan vahvuuksia ovat raaka-aineiden läpinäkyvyys, hyvä maittavuus, eläinperäisen ravinnon suuri ravintoainetiheys, runsas kosteuspitoisuus ja mahdollisuus rakentaa annos yksilöllisesti. Kun ruokavalio sopii koiralle, onnistuminen näkyy usein arjen kokonaisuudessa: ruokahalussa, kylläisyydessä, lihaskunnossa, turkissa, ulosteen laadussa, liikkumisessa ja palautumisessa. Tätä käytännön tietoa ei tarvitse vähätellä. Kirjassa sitä tarkastellaan tutkimustiedon rinnalla, ei sen korvikkeena.
 
-Haluan antaa lukijalle sekä tiedon että rohkeuden katsoa omaa koiraansa. Tutkimus antaa rajat ja auttaa välttämään vaarallisia yleistyksiä. Koira näyttää, miten ruokavalio toimii juuri siinä yksilössä.
+Haluan antaa lukijalle sekä tietoa että rohkeutta seurata omaa koiraansa. Tutkimustieto auttaa hahmottamaan turvalliset rajat ja välttämään vaarallisia yleistyksiä. Koira puolestaan näyttää, miten ruokavalio toimii juuri sillä yksilöllä.
 
 # JOHDANTO
 
