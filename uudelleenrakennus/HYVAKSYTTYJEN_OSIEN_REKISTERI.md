@@ -8,5 +8,6 @@ Tähän tiedostoon merkitään vain kirjoittajan hyväksymät, tulevaan `MASTER_
 | 2 | Luku 1: Biologinen perusta | `luku_01_biologinen_perusta/LUKU_01_VARHAINEN_DRIVE_ALKUPERAINEN.md` | `luku_01_biologinen_perusta/LUKU_01_LUKITTU.md` | HYVÄKSYTTY JA LUKITTU |
 | 3 | Luku 2: Aineenvaihdunta ja energiamalli | `luku_02_aineenvaihdunta/LUKU_02_PALAUTETTU_TYOVERSIO.md` | `luku_02_aineenvaihdunta/LUKU_02_LUKITTU.md` | HYVÄKSYTTY JA LUKITTU |
 | 4 | Luku 3: Mitä teollinen prosessointi tekee koiran ruoalle? | `luku_03_prosessointi/LUKU_03_PALAUTETTU_TYOVERSIO.md` | `luku_03_prosessointi/LUKU_03_LUKITTU.md` | HYVÄKSYTTY JA LUKITTU |
+| 5 | Luku 4: Mahahappo, entsyymit ja suoliston rakenne | `luku_04_ruoansulatus/LUKU_04_PALAUTETTU_TYOVERSIO.md` | `luku_04_ruoansulatus/LUKU_04_LUKITTU.md` | HYVÄKSYTTY JA LUKITTU |
 
 Lähdearkiston tai aikaisempien työversioiden säilyminen ei riipu tästä rekisteristä. Niitä ei poisteta, vaikka toinen versio valitaan julkaistavaan kirjaan.
