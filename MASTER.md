@@ -2658,6 +2658,26 @@ Teollinen lihantuotanto voi tuottaa hyvin valvottua ja käyttökelpoista lihaa. 
 
 Tässä kirjassa käytän tutkimusvertailussa mieluummin ilmaisua intensiivisesti tuotettu karjanliha kuin tehotuotettu liha. Sana kertoo tuotantotavan ilman, että jokainen naudan-, sian- tai lampaanliha niputetaan samaksi. Intensiivisessä tuotannossa eläimen ravinto, kasvu, liikkuminen, eläintiheys ja terveydenhoito ovat ihmisen ohjaamia. Vapaana eläneellä riistalla nämä tekijät määräytyvät luonnossa. Juuri tämä on vertailun ydin.
 
+### Yhdysvaltalainen tutkimusnäyttö naudan lääkejäämistä
+
+Yhdysvaltalainen tutkimusnäyttö vahvistaa, että lääkityn naudan kudoksiin voi jäädä mitattavia antibioottien ja muiden eläinlääkkeiden jäämiä. Varoajan tarkoitus on saada jäämät hyväksytyn toleranssin alapuolelle – ei luvata, että jokainen lääkeaine olisi kaikissa kudoksissa mittaamattomissa. Samalla on erotettava toisistaan sallittu jäämälöydös, raja-arvon ylittävä löydös ja osoitettu terveyshaitta. Ne eivät tarkoita samaa asiaa. (Alwahaimed & Eifert 2026.)
+
+USDA–FSIS:n vuosien 2021–2023 valvonta-aineiston vertaisarvioidussa analyysissä kirjattiin nautaeläimistä 3 107 positiivista lääkejäämälöydöstä. Näistä 1 308 luokiteltiin raja-arvon ylittäviksi. Kaikkien löydösten joukossa tavallisimpia olivat tulatromysiini, keftiofuurin metaboliitti desfuroylceftiofur, oksitetrasykliini ja penisilliini. Raja-arvon ylittävissä löydöksissä korostuivat desfuroylceftiofur, penisilliini, tulehduskipulääke fluniksiini sekä eräät sulfonamidit. Poistolehmillä eli lypsykarjasta teurastetuilla lehmillä oli aineistossa eniten positiivisia löydöksiä. (Alwahaimed & Eifert 2026.)
+
+Lukuja ei saa tulkita niin, että sama osuus kaikesta yhdysvaltalaisesta naudanlihasta sisältäisi liikaa lääkejäämiä. Kolmen vuoden aikana tutkittiin yhteensä 361 153 nautanäytettä, mutta julkaistu positiivisten löydösten aineisto yhdisti tavanomaisen seurannan ja tarkastajien epäilyyn perustuvan riskinäytteenoton. Se ei sisältänyt jokaiselle lääkeaineelle vertailukelpoista testattujen näytteiden kokonaismäärää. Tutkimus kuvaa siksi löydösten rakennetta eikä suoraan niiden yleisyyttä koko lihantuotannossa. (Alwahaimed & Eifert 2026.)
+
+USDA:n toisessa vertaisarvioidussa tutkimuksessa tutkittiin 189 nautaa, joiden ilmoitettiin olevan kasvatettu ilman antibiootteja. Maksa- ja munuaisnäytteistä etsittiin 185 eläinlääkettä, ja vähintään yksi antibiootti vahvistettiin 37 eläimestä eli 20 prosentista. Useita antibiootteja todettiin 11 eläimessä. Tutkijat kuvasivat pitoisuuksia erittäin pieniksi jäämiksi. Tulos osoittaa ongelman erityisesti tuotemerkinnän luotettavuudessa; se ei yksin osoita, että kudokset olisivat ylittäneet elintarviketurvallisuuden toleranssit tai aiheuttaneet terveyshaittaa. (Lehotay ym. 2025.)
+
+Jäämät eivät myöskään jakaudu ruhoon tasaisesti. USDA-ARS:n tutkimuksessa penisilliini G:n pitoisuudet vaihtelivat sekä eri lihasten että saman lihaksen eri kohtien välillä. Yksi tavanomainen lihasnäyte ei siten välttämättä kuvaa koko ruhon jäämätilannetta. (Schneider ym. 2010.) Kansas Staten ja Iowa Staten tutkimuksessa tulatromysiinin pitoisuus oli poikkeavalla paineilmanuoliannostelulla pistoskohdassa ensimmäisenä päivänä moninkertainen tavalliseen lihakseen verrattuna, ja lääkeainetta voitiin mitata kaikista tutkituista kudoksista vielä 24 vuorokauden kuluttua. Tutkimus koski hyväksytystä poikkeavaa antotapaa ja pientä eläinmäärää, joten sitä ei pidä yleistää asianmukaisesti annettuun tavanomaiseen lääkitykseen. Se osoittaa kuitenkin, kuinka voimakkaasti antotapa ja pistoskohta voivat vaikuttaa jäämien säilymiseen. (Lin ym. 2019.)
+
+Naudan luista yhdysvaltalainen näyttö on selvästi heikompaa. Valvonta- ja kudostutkimukset kohdistuvat tavallisesti maksaan, munuaisiin, lihakseen, rasvaan ja pistoskohtaan; luuta ei yleensä tutkita omana elintarvikematriisinaan. Tämä tutkimusaukko ei todista, että luu olisi jäämätön. Erityisesti tetrasykliinien tiedetään sitoutuvan mineralisoituvaan kudokseen, mutta teurasnaudan koiralle annettavaa luuta koskevaa suoraa yhdysvaltalaista vertaisarvioitua tutkimusta en löytänyt.
+
+### Mitä tämä merkitsi omassa ajattelussani Diegon kanssa?
+
+Kasvettuani maatilalla tiesin käytännössä, että tuotantoeläimiä voidaan joutua lääkitsemään niiden elämän aikana. Kun Diegon silmät ja iho rauhoittuivat naudan poistamisen ja riistaan siirtymisen jälkeen, lääkejäämät olivat yksi epäilemäni selitys. Yhdysvaltalainen tutkimus vahvistaa, etteivät jäämät ole kuviteltu ilmiö: niitä voidaan mitata naudan kudoksista, ja joskus valvonnan raja-arvot ylittyvät.
+
+Tutkimus ei kuitenkaan osoita, että juuri lääkejäämät aiheuttivat Diegon oireet. Naudan oma proteiini, rasvakoostumus, herkut, ruokavalion muu muutos tai usean tekijän yhteisvaikutus ovat mahdollisia selityksiä. Naudan proteiini tunnetaan koirien haitallisten ruokareaktioiden mahdollisena laukaisijana, kun taas sallittujen naudan lääkejäämien ja koiran silmien rähmimisen tai iho-oireiden välisestä syy-yhteydestä ei löytynyt suoraa yhdysvaltalaista koiratutkimusta. Siksi kirjassa säilytän molemmat asiat rinnakkain: oman pitkäaikaisen havaintoni ja sen rajan, jota tutkimus ei vielä ylitä.
+
 Suorassa tutkimusvertailussa saksanhirven ja kuusipeuran liha sisälsi noin neljänneksen Aberdeen Angus- ja holstein-naudanlihan raakarasvasta. Hirvieläinten lihassa oli suurempi monityydyttymättömien ja tyydyttyneiden rasvahappojen suhde, ja saksanhirven lihassa oli noin viisinkertainen määrä n-3-monityydyttymättömiä rasvahappoja vertailun naudanlihaan nähden. Tutkimuksen hirvieläimet olivat tarhattuja, joten tulos ei ole suora koe suomalaisesta luonnonriistasta, mutta se osoittaa eläinlajien ja tuotantotapojen välisen ravitsemuksellisen eron. (Bureš ym. 2015.)
 
 Vapaana eläneen saksanhirven kudoksia koskevassa tutkimuksessa eri lihasten rasvapitoisuus oli alle yhden prosentin, kun sisäelinten rasva ja rasvahappoprofiili vaihtelivat kudoksen mukaan. Tutkimus muistuttaa kahdesta riistaruokinnan vahvuudesta: lihasliha voi olla erittäin vähärasvaista ja eri kudokset täydentävät toisiaan ravitsemuksellisesti. Koiran annoksessa tämä tarkoittaa, että puhdas riistaliha antaa vahvan proteiinirungon ja energia sekä rasvahapot voidaan rakentaa koiran tarpeeseen. (Razmaitė ym. 2020.)
@@ -2853,6 +2873,14 @@ Diegolle peura oli vuosien ajan erinomainen pääraaka-aine ja minun tietoinen v
 ## LUVUN 20 LÄHTEET
 
 Bureš ym. 2015 – Quality attributes and composition of meat from red deer, fallow deer and Aberdeen Angus and Holstein cattle
+
+[Alwahaimed & Eifert 2026 – Trends in Veterinary Drug Residues in US Cattle: Analysing USDA Sampling Data](https://doi.org/10.1002/vms3.70941)
+
+[Lehotay ym. 2025 – Antibiotic Residues in Cattle Reported to Be Raised Without Antibiotics](https://doi.org/10.1021/acs.jafc.4c07440)
+
+[Lin ym. 2019 – Tissue residue depletion and estimation of extralabel meat withdrawal intervals for tulathromycin in calves after pneumatic dart administration](https://doi.org/10.1093/jas/skz231)
+
+[Schneider ym. 2010 – Distribution of penicillin G residues in culled dairy cow muscles: implications for residue monitoring](https://doi.org/10.1021/jf101012r)
 
 ECHA 2026 – Lead in shot, bullets and fishing weights; lyijyttömien metsästysammusten saatavuus ja toimivuus
 
