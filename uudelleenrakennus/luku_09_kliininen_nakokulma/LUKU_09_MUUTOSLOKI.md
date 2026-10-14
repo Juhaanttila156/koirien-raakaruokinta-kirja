@@ -1,6 +1,13 @@
 # Luku 9 — muutosloki
 
-Tila: **TYÖVERSIO – ODOTTAA KIRJOITTAJAN HYVÄKSYNTÄÄ**
+Tila: **HYVÄKSYTTY JA LUKITTU 14.10.2026**
+
+## 14.10.2026 — kirjoittajan hyväksyntä
+
+- Kirjoittaja hyväksyi palautetun työversion.
+- Tiedosto `LUKU_09_PALAUTETTU_TYOVERSIO.md` valittiin tulevan kirjan luvuksi 9.
+- Hyväksyntä ja lukitus kirjattiin tiedostoon `LUKU_09_LUKITTU.md`.
+- Alkuperäisversio, lähdevertailu ja aikaisempi muutoshistoria säilytettiin.
 
 ## 14.10.2026 — palautettu työversio laadittu
 
@@ -63,7 +70,7 @@ Tila: **TYÖVERSIO – ODOTTAA KIRJOITTAJAN HYVÄKSYNTÄÄ**
 - pitkä eliminaatiodieetti ei saa jäädä ravitsemuksellisesti puutteelliseksi
 - DogRisk-aineistojen havainnoiva luonne ja vuoden 2021 tutkimuksen kaupalliset rahoittajat tuodaan näkyviin
 
-## Seuraava päätös
+## Lukitus
 
-Kirjoittaja arvioi tiedoston `LUKU_09_PALAUTETTU_TYOVERSIO.md`. Hyväksynnän jälkeen luvulle laaditaan erillinen lukitustiedosto ja hyväksyttyjen osien rekisteri päivitetään. Muutoksia hyväksyttyyn julkaisutekstiin ei tehdä ennen kirjoittajan päätöstä.
+Hyväksytty julkaisuteksti on lukittu. Muutoksia siihen tehdään vain kirjoittajan erillisellä päätöksellä.
 
