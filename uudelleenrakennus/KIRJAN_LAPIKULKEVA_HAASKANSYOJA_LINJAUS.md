@@ -39,6 +39,7 @@ Koiran ja suden haaskojen hyödyntäminen on eri väite kuin teoria, jonka mukaa
 - Luvuissa 4 ja 5 mekanismit yhdistetään mahalaukkuun, suolistoon, mikrobiomiin ja bakteerien käsittelyyn.
 - Muissa luvuissa näkökulma sidotaan luvun omaan aiheeseen ilman tarpeetonta saman tekstin toistoa.
 - Lukuun 11 periaate lisättiin työversioon, ja kirjoittaja hyväksyi sekä lukitsi luvun 15.10.2026.
+- Luvun 12 työversiossa haaskansyöjätausta yhdistetään aikuisen koiran aineenvaihduntaan: biologinen ravintojoustavuus ei suojaa modernin ympäristön jatkuvalta energiaylijäämältä.
 - Kaikissa myöhemmin palautettavissa luvuissa tarkistetaan, miten linjaus liittyy kyseisen luvun aiheeseen.
 
 ## Kirjoittajan omakohtainen ankkuri: Vekku
