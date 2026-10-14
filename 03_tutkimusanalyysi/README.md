@@ -19,11 +19,11 @@ Tavoite on selvittää jokaisesta kirjassa käytetystä tutkimuksesta:
 - Vaihe 2: muut tieteelliset lähteet, kuten opinnäytteet, konferenssiaineistot ja tutkimusraportit.
 - Vaihe 3: viranomaisohjeet, järjestöjen kannanotot, standardit, tietokannat ja kirjat. Näitä ei nimetä tutkimuksiksi, vaikka ne olisivat tieteeseen perustuvia.
 
-## Nykytila 14.10.2026
+## Nykytila 15.10.2026
 
 Kirjan lähdeluettelon teknisessä alkukartoituksessa tunnistettiin 202 lähderiviä ja 128 yksilöllistä DOI-merkkijonoa. Luvut eivät vielä tarkoita 202 eri tutkimusta: luettelossa on päällekkäisyyksiä, lyhytviitteitä ja muita kuin tutkimusartikkeleita.
 
-Ensimmäisessä analyysierässä on tarkastettu 11 luvun 25 ydintekstiin kuuluvaa vertaisarvioitua lähdettä. Yksi luvun ydintekstin vanha tutkimus, Freeman ja Michel (2001), odottaa vielä koko artikkelin rahoitus- ja sidonnaisuusosuuden varmennusta.
+Kahdessa analyysierässä on nyt tarkastettu yhteensä 20 vertaisarvioitua lähdettä: ensimmäisessä erässä 11 luvun 25 ydintekstiin kuuluvaa lähdettä ja toisessa erässä yhdeksän raakaruokinnan mikrobiologista turvallisuutta tai mikrobilääkeresistenssiä käsittelevää alkuperäistutkimusta. Yksi luvun ydintekstin vanha tutkimus, Freeman ja Michel (2001), odottaa vielä koko artikkelin rahoitus- ja sidonnaisuusosuuden varmennusta.
 
 ## Tiedostot
 
@@ -32,6 +32,7 @@ Ensimmäisessä analyysierässä on tarkastettu 11 luvun 25 ydintekstiin kuuluva
 - [Vertaisarvioidut ydintutkimukset, erä 1](02_vertaisarvioidut_ydintutkimukset_era_1.md)
 - [Muut tieteelliset lähteet, vaihe 2](03_muut_tieteelliset_lahteet_vaihe_2.md)
 - [DOI-tunnisteellisten julkaisujen työrekisteri](04_doi_tutkimusehdokkaiden_rekisteri.md)
+- [Vertaisarvioidut tutkimukset, erä 2: mikrobiologinen turvallisuus ja mikrobilääkeresistenssi](05_vertaisarvioidut_mikrobiologinen_turvallisuus_era_2.md)
 
 ## Tulkinnan perussääntö
 
