@@ -1,6 +1,6 @@
 # Luku 12 — muutosloki
 
-Tila: **TYÖVERSIO – ODOTTAA KIRJOITTAJAN HYVÄKSYNTÄÄ**
+Tila: **EHDOLLISESTI HYVÄKSYTTY JA LUKITTU**
 
 ## 15.10.2026 — palautettu työversio laadittu
 
@@ -93,6 +93,10 @@ Tila: **TYÖVERSIO – ODOTTAA KIRJOITTAJAN HYVÄKSYNTÄÄ**
 - ateriarytmin havainnoivasta yhteydestä ei tehdä syyväitettä
 - yhden koiran Vekku-kokemusta ei esitetä tutkimustuloksena tai turvallisuusohjeena.
 
-## Seuraava päätös
+## 14.10.2026 — hyväksytty toistaiseksi
 
-Kirjoittaja arvioi tiedoston `LUKU_12_PALAUTETTU_TYOVERSIO.md`. Hyväksynnän jälkeen luvulle laaditaan erillinen lukitustiedosto ja hyväksyttyjen osien rekisteri päivitetään. Ennen hyväksyntää luku säilyy työversiona.
+- JP Anttila hyväksyi luvun 12 nykyisen palautetun työversion toistaiseksi.
+- Luku valittiin tulevaan `MASTER_PALAUTETTU.md`-kokonaisuuteen ja lukittiin ehdollisesti.
+- Ehdollinen hyväksyntä säilyttää mahdollisuuden avata luku myöhemmin kirjoittajan erillisellä päätöksellä.
+- Julkaisutekstiä, varhaista alkuperäislähdettä tai lähdevertailua ei muutettu hyväksynnän yhteydessä.
+- Päätös dokumentoitiin tiedostoon `LUKU_12_EHDOLLISESTI_LUKITTU.md` ja hyväksyttyjen osien rekisteriin.

@@ -1,6 +1,6 @@
 # Luku 13 — muutosloki
 
-Tila: **TYÖVERSIO – ODOTTAA KIRJOITTAJAN HYVÄKSYNTÄÄ**
+Tila: **EHDOLLISESTI HYVÄKSYTTY JA LUKITTU**
 
 ## 15.10.2026 — palautettu työversio laadittu
 
@@ -92,9 +92,10 @@ Tila: **TYÖVERSIO – ODOTTAA KIRJOITTAJAN HYVÄKSYNTÄÄ**
 - Ruoansulatusoireita, mustaa ulostetta tai suorituskyvyn romahdusta ei normalisoida kovaan työhön kuuluvaksi.
 - Lisäravinteista ei tehdä yleisiä teholupauksia.
 
-## Tila ja hyväksyntä
+## 14.10.2026 — hyväksytty toistaiseksi
 
-- Luku 13 on tallennettu **palautettuna työversiona**.
-- Lukua ei ole lukittu.
-- Lukua ei ole lisätty hyväksyttyjen osien rekisteriin.
-- Hyväksyntä, mahdolliset kirjoittajan omat kokemukset ja lopullinen lukitus odottavat JP Anttilan erillistä päätöstä.
+- JP Anttila hyväksyi luvun 13 nykyisen palautetun työversion toistaiseksi.
+- Luku valittiin tulevaan `MASTER_PALAUTETTU.md`-kokonaisuuteen ja lukittiin ehdollisesti.
+- Ehdollinen hyväksyntä säilyttää mahdollisuuden avata luku myöhemmin kirjoittajan erillisellä päätöksellä.
+- Julkaisutekstiä, varhaista katkennutta alkuperäislähdettä tai lähdevertailua ei muutettu hyväksynnän yhteydessä.
+- Päätös dokumentoitiin tiedostoon `LUKU_13_EHDOLLISESTI_LUKITTU.md` ja hyväksyttyjen osien rekisteriin.

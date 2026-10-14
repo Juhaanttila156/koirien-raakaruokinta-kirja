@@ -16,6 +16,8 @@ Tähän tiedostoon merkitään vain kirjoittajan hyväksymät, tulevaan `MASTER_
 | 10 | Luku 9: Kliininen näkökulma – iho, suolisto ja nivelet biologisessa kontekstissa | `luku_09_kliininen_nakokulma/LUKU_09_PALAUTETTU_TYOVERSIO.md` | `luku_09_kliininen_nakokulma/LUKU_09_LUKITTU.md` | HYVÄKSYTTY JA LUKITTU |
 | 11 | Luku 10: Raakaruokinnan riskit – kriittinen ja tieteellinen arvio | `luku_10_raakaruokinnan_riskit/LUKU_10_PALAUTETTU_TYOVERSIO.md` | `luku_10_raakaruokinnan_riskit/LUKU_10_EHDOLLISESTI_LUKITTU.md` | EHDOLLISESTI HYVÄKSYTTY JA LUKITTU |
 | 12 | Luku 11: Pennut – kasvu, kalsium ja aineenvaihdunnan ohjelmoituminen | `luku_11_pennut_kasvu/LUKU_11_PALAUTETTU_TYOVERSIO.md` | `luku_11_pennut_kasvu/LUKU_11_LUKITTU.md` | HYVÄKSYTTY JA LUKITTU |
+| 13 | Luku 12: Aikuinen koira – metabolinen tasapaino, painonhallinta ja tulehdus | `luku_12_aikuinen_koira/LUKU_12_PALAUTETTU_TYOVERSIO.md` | `luku_12_aikuinen_koira/LUKU_12_EHDOLLISESTI_LUKITTU.md` | EHDOLLISESTI HYVÄKSYTTY JA LUKITTU |
+| 14 | Luku 13: Työ- ja urheilukoirat – rasvaoksidaatio, suorituskyky ja palautuminen | `luku_13_tyo_ja_urheilukoirat/LUKU_13_PALAUTETTU_TYOVERSIO.md` | `luku_13_tyo_ja_urheilukoirat/LUKU_13_EHDOLLISESTI_LUKITTU.md` | EHDOLLISESTI HYVÄKSYTTY JA LUKITTU |
 
 Lähdearkiston tai aikaisempien työversioiden säilyminen ei riipu tästä rekisteristä. Niitä ei poisteta, vaikka toinen versio valitaan julkaistavaan kirjaan.
 
