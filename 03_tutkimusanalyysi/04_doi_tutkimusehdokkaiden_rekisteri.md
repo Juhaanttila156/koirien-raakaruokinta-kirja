@@ -1,6 +1,6 @@
 # DOI-tunnisteellisten julkaisujen työrekisteri
 
-Tämä on kirjan nykyisestä lähdeluettelosta 14.10.2026 koneellisesti poimittu ja DOI:n perusteella deduplikoitu työjono. Rekisterissä on 128 yksilöllistä DOI-tunnistetta.
+Tämä on kirjan nykyisestä lähdeluettelosta 14.10.2026 koneellisesti poimittu ja DOI:n perusteella deduplikoitu työjono. Lähdeluettelosta poimittiin 128 yksilöllistä DOI-tunnistetta. Ensimmäisen analyysierän alkuperäislähdetarkistus täydensi viisi lähdeluettelosta puuttunutta DOI-tunnistetta, joten rekisterissä on nyt 133 DOI-riviä.
 
 DOI ei yksin todista, että julkaisu on vertaisarvioitu tutkimusartikkeli. Jokaisesta rivistä tarkistetaan erikseen julkaisutyyppi, vertaisarviointi, mahdolliset korjaukset tai takaisinvedot, koko teksti, toteuttajat, tilaaja, rahoitus, luontoissuoritukset, sidonnaisuudet ja alkuperäinen tarkoitus. Rivin viite on säilytetty lähdeluettelon siinä muodossa, jossa se oli poimintahetkellä; bibliografiset virheet korjataan varmennuksen yhteydessä.
 
@@ -136,6 +136,11 @@ Status ”tarkistamatta” ei tarkoita, että lähde olisi epäluotettava. Se ta
 | V126 | [10.1002/jsfa.6950](https://doi.org/10.1002/jsfa.6950) | Bureš, D., Bartoň, L., Kotrba, R. & Hakl, J. 2015. Quality attributes and composition of meat from red deer (Cervus elaphus), fallow deer (Dama dama) and Aberdeen Angus and Holstein cattle (Bos taurus). Journal of the Science of Food and Agriculture 95: 2299–2306. | vertaisarviointi, koko teksti ja taustatiedot tarkistamatta |
 | V127 | [10.1016/j.meatsci.2023.109284](https://doi.org/10.1016/j.meatsci.2023.109284) | Needham, T., Bureš, D., Černý, J. & Hoffman, L. C. 2023. Overview of game meat utilisation challenges and opportunities: A European perspective. Meat Science 204: 109284. | vertaisarviointi, koko teksti ja taustatiedot tarkistamatta |
 | V128 | [10.3390/foods9070923](https://doi.org/10.3390/foods9070923) | Razmaitė, V., Pileckas, V., Šiukščius, A. & Juškienė, V. 2020. Fatty Acid Composition of Meat and Edible Offal from Free-Living Red Deer (Cervus elaphus). Foods 9: 923. | vertaisarviointi, koko teksti ja taustatiedot tarkistamatta |
+| V129 | [10.1111/vcp.12852](https://doi.org/10.1111/vcp.12852) | Anturaniemi ym. 2020. The effect of a raw vs dry diet on serum biochemical, hematologic, blood iron, B12, and folate levels in Staffordshire Bull Terriers. Veterinary Clinical Pathology 49: 258–269. | vertaisarvioitu; analysoitu erässä 1 (P002) |
+| V130 | [10.24425/pjvs.2024.149344](https://doi.org/10.24425/pjvs.2024.149344) | Główny ym. 2024. Raw diets for dogs and cats: Potential health benefits and threats. Polish Journal of Veterinary Sciences 27: 151–159. | vertaisarvioitu; analysoitu erässä 1 (P005) |
+| V131 | [10.1016/j.tvjl.2025.106462](https://doi.org/10.1016/j.tvjl.2025.106462) | Holm ym. 2025. Effect of a kibble diet versus a raw meat-based diet on energy metabolism biomarkers in dogs. The Veterinary Journal 314: 106462. | vertaisarvioitu; analysoitu erässä 1 (P006) |
+| V132 | [10.2807/1560-7917.ES.2024.29.18.2300561](https://doi.org/10.2807/1560-7917.ES.2024.29.18.2300561) | Ribeiro-Almeida ym. 2024. Raw meat-based diet for pets as a source of Salmonella and pathogenic Escherichia coli clones. Eurosurveillance 29: 2300561. | vertaisarvioitu; analysoitu erässä 1 (P009) |
+| V133 | [10.1038/s41598-023-27866-z](https://doi.org/10.1038/s41598-023-27866-z) | Vuori ym. 2023. Puppyhood and adolescent diet and the incidence of chronic enteropathy later in life. Scientific Reports 13. | vertaisarvioitu; analysoitu erässä 1 (P012) |
 
 ## Ilman DOI-tunnistetta jo käsitelty vertaisarvioitu lähde
 
