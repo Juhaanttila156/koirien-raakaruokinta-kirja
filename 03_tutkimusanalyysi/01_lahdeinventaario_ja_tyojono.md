@@ -45,12 +45,23 @@ Kaikki lähdeluettelosta poimitut 128 DOI-tunnistetta ovat [deduplikoidussa DOI-
 | P020 | Bernaquez ym. 2025, DOI 10.1038/s43856-025-00919-2 | genominen epidemiaselvitys | analysoitu erässä 2 |
 | P021 | Indra ym. 2025, DOI 10.1111/jpn.70004 | kaupallisten tuotteiden resistenssitutkimus | analysoitu erässä 2; koko PDF:n rahoitusosuus vielä varmennettava |
 
+## Ravitsemustasapainon ja puutostapausten erän 3 tila
+
+| ID | Julkaisu | Tyyppi | Tila |
+|---|---|---|---|
+| P022 | Dillitzer, Becker ja Kienzle 2011, DOI 10.1017/S0007114511002765 | BARF-annosten ravintoaineanalyysi | analysoitu erässä 3; ei erityistä apurahaa |
+| P023 | Choi, Kim ja Jang 2023, DOI 10.4142/jvs.23037 | kaupallisten ruoka-annosten ravintoaineanalyysi | analysoitu erässä 3; lähdeluettelon väärä DOI korjattu |
+| P024 | Tal ym. 2018, PMID 29302100 / PMCID PMC5731398 | kliininen tapausraportti | analysoitu erässä 3; erotettu aiemmasta Dodd-yhdistelmäviitteestä |
+| P025 | Dodd ym. 2021, verkossa 2019, DOI 10.1111/jpn.13118 | kliininen tapausraportti ja DEXA-seuranta | analysoitu erässä 3; kirjoittajien sidonnaisuudet erotettu tutkimusrahoituksesta |
+| P026 | Taylor ym. 2009, DOI 10.2460/javma.234.8.1041 | kliininen tapausraportti | analysoitu osittain erässä 3; koko artikkelin rahoitus- ja kiitososuus varmennettava |
+| P027 | Freeman ym. 2013, DOI 10.2460/javma.243.11.1549 | narratiivinen katsaus | analysoitu erässä 3; rahoittajaa tai tilaajaa ei ilmoitettu |
+
 ## Seuraava vertaisarvioitujen työjono
 
-1. Varmennetaan P004:n ja P021:n rahoitus- ja sidonnaisuusosuudet koko alkuperäisartikkeleista.
-2. Linkitetään P013–P021 kirjan täsmällisiin väitteisiin ja merkitään, onko lähde väitteen ensisijainen vai taustoittava tuki.
-3. Jatketaan suoraan raakaruokaa käsitteleviin ravitsemuksellisen tasapainon, puutosten ja kliinisten tapausraporttien tutkimuksiin.
-4. Tämän jälkeen analysoidaan mikrobiomi- ja aineenvaihduntatutkimukset sekä muut ravitsemus- ja kliiniset taustatutkimukset.
+1. Varmennetaan P004:n, P021:n ja P026:n rahoitus-, kiitos- ja sidonnaisuusosuudet koko alkuperäisartikkeleista.
+2. Linkitetään P013–P027 kirjan täsmällisiin väitteisiin ja merkitään, onko lähde väitteen ensisijainen vai taustoittava tuki.
+3. Jatketaan raakaruokaa käsitteleviin mikrobiomi-, sulavuus- ja aineenvaihduntatutkimuksiin.
+4. Tämän jälkeen analysoidaan muut ravitsemus- ja kliiniset taustatutkimukset.
 5. Varmistetaan jokaisen uuden rivin vertaisarviointi julkaisijan tiedoista; DOI yksin ei ole riittävä todiste.
 6. Siirretään ohjeet, standardit, kirjat, viranomaisverkkosivut ja muut ei-vertaisarvioidut lähteet vaiheeseen 2 tai 3.
 
