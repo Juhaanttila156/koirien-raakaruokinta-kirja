@@ -28,6 +28,28 @@ Suomalainen tieto on tärkeää, mutta sitä pitää tulkita oikeassa mittakaava
 
 Hyvä hygienia katkaisee altistusreittejä. Se ei poista jo tuotteessa olevaa mikrobia eikä muuta saastunutta erää puhtaaksi. Siksi turvallisuus alkaa ennen keittiötä: valmistajan jäljitettävyydestä, eränumerosta, ehjästä pakkauksesta, katkeamattomasta kylmäketjusta ja takaisinvetojen seuraamisesta.
 
+### Koiran vatsahappo on todellinen suojatekijä
+
+Koiran ruoansulatus ei ole steriili putki, eikä raakaruokinnan tavoitteena ole kliinisesti puhdas annos. Terve koira on biologisesti varustautunut käsittelemään lihan, saaliin ja ympäristön mukana tulevaa tavanomaista mikrobialtistusta. Mahalaukun suolahappo ja pepsiini muodostavat ensimmäisen voimakkaan esteen, jota täydentävät muun muassa sappihapot, suolen limakalvopuolustus ja suolistomikrobisto.
+
+Terveillä beagleilla tehdyissä telemetriatutkimuksissa mahalaukun keskimääräinen pH oli paastossa noin 2. Sagawa ym. (2009) mittasivat kuivaruoka-annoksen jälkeen keskimääräiset arvot 1,08 ja 1,26, ja Mahar ym. (2012) havaitsivat mahalaukun pysyvän happamana aterian aikana ja vähintään kymmenen tuntia sen jälkeen. Arvo vaihtelee yksilön, ajankohdan, aterian ja tutkimusasetelman mukaan. Tulokset osoittavat koiran tehokkaan happoympäristön, mutta eivät sitä, että vain raakaruoka tekisi mahalaukusta happaman tai että jokainen mikrobi tuhoutuisi siellä.
+
+Happamuus denaturoi proteiineja, aktivoi pepsiiniä ja heikentää monien ruoan mukana tulevien mikrobien elinkykyä. Tämä auttaa selittämään, miksi terve koira voi sietää huomattavaakin mikrobialtistusta ilman näkyviä oireita. Finleyn ym. (2007) kokeessa kaikki koirat pysyivät oireettomina, vaikka osa eritti salmonellaa saastuneen raakaruoka-annoksen jälkeen. Koiran oma sietokyky oli siis vahva, mutta bakteeri ei aina kadonnut ruoansulatuksessa.
+
+Tämä on kirjan raakaruokintamyönteisen linjan kannalta olennainen ero: raaka-annoksen ei tarvitse olla kliinisesti steriili, eikä jokainen mikrobi tee ruoasta koiralle vaarallista. Hygienian tarkoitus ei ole kohdella tervettä koiraa sairaalapotilaana. Sen tarkoitus on estää tarpeettoman suuren mikrobikuorman muodostuminen, kylmäketjun katkeamisesta seuraava mikrobien lisääntyminen ja bakteerien siirtyminen koirasta tai ruoasta kodin ihmisiin.
+
+### Päiväys ei yksin kerro lihan käyttökelpoisuutta
+
+Arkikielessä päiväyksen ylittänyt ja pilaantunut liha niputetaan helposti yhteen, vaikka ne eivät tarkoita samaa. **Parasta ennen** kuvaa ensisijaisesti laatua: oikein säilytetty tuote voi olla käyttökelpoinen päiväyksen jälkeenkin. **Viimeinen käyttöpäivä** on mikrobiologisesti helposti pilaantuvan tuotteen turvallisuusraja, eikä jääkaapissa säilytettyä tuotetta käytetä sen jälkeen. Hyvissä ajoin ennen määräpäivää asianmukaisesti pakastetun lihan päiväyksen ylittyminen pakastimessa ei kuitenkaan tarkoita, että liha muuttuisi sinä päivänä mädäntyneeksi. Ratkaisevia ovat merkinnän laji, valmistajan ohje, koko säilytyshistoria, pakastuksen ajankohta, pakkauksen eheys ja sulamiskerrat.
+
+Terve koira ei tarvitse täysin tuoreeksi teollisesti määriteltyä tai kliinisesti puhdasta lihapalaa. Oikein säilytetty, aistinvaraisesti normaali mutta päiväykseltään iäkäs liha voi olla käyttökelpoista. Tätä ei pidä muuttaa yleissäännöksi, jonka mukaan koiralle voisi syöttää mitä tahansa ihmisen ruoaksi kelpaamatonta. Sietokyky ei ole sama asia kuin varmuus, eikä lihalle ole kotona mitattavaa rajaa, jonka alapuolella jokainen koira olisi turvassa.
+
+Pysyvästi poikkeava haju, lima, kaasun pullistama pakkaus, selvä hajoaminen tai epäselvä säilytyshistoria ovat syitä hylätä tuote. Aistit eivät myöskään paljasta kaikkia taudinaiheuttajia, joten normaali haju ei kumoa takaisinvetopäätöstä tai tunnettua kylmäketjun katkeamista. Aidosti mädäntyvässä kudoksessa mikrobimäärä voi kasvaa suureksi ja siihen voi muodostua valmiita toksiineja, joita vatsahappo ei tee vaarattomiksi. Vuonna 2026 julkaistu tapausselostus kuvasi raakaruokaa syöneen koiran kuolemaan johtaneen botulismin mahdollisen hajonneen lihan syömisen jälkeen. Yksi tapaus ei kerro ilmiön yleisyydestä, mutta se näyttää rajan koiran vahvan sietokyvyn ja todellisen pilaantumisen välillä. (Viegas ym. 2026.)
+
+Käytännön linja on siksi maltillinen: ei kliinisen steriiliä ruokaa eikä turhaa hävikkiä pelkän **parasta ennen** -päivän vuoksi, mutta ei myöskään mädäntynyttä lihaa, tuntematonta sulamishistoriaa, takaisinvedettyä erää tai ruokaa, joka on seissyt lämpimässä.
+
+### Käytännön hygieniaketju
+
 Kotona käyttökelpoinen perusjärjestys on tämä:
 
 1. **Säilytä alkuperäispakkaus ja erätieto.** Jos tuotteeseen tulee takaisinveto tai koira sairastuu, pelkkä lihalajin nimi ei riitä jäljitykseen.
@@ -124,6 +146,8 @@ Mitä seurataan ja millä aikavälillä? Paino, kuntoluokka, lihaskunto, uloste,
 
 - Raakaruokinnan kolme pääasiallista riskiluokkaa ovat mikrobiologiset, ravitsemukselliset ja mekaaniset riskit.
 - Terve ja oireeton koira voi erittää ruoan mukana saamiaan taudinaiheuttajia.
+- Koiran hapan mahalaukku on todellinen biologinen suojatekijä, eikä raakaruoka vaadi kliinistä steriiliyttä. Suoja ei kuitenkaan hävitä kaikkia mikrobeja tai valmiita toksiineja.
+- **Parasta ennen** -päivän ylitys ei yksin tee oikein säilytetystä lihasta pilaantunutta. **Viimeinen käyttöpäivä**, säilytyshistoria, tuotteen kunto ja takaisinvedot on arvioitava erikseen.
 - Hyvä hygienia vähentää ristisaastumista, mutta ei steriloi tuotetta; pakastaminen ei ole yleinen bakteeri- tai loistorjunta.
 - Raaka kuvaa käsittelytapaa, ei ravitsemuksellista riittävyyttä. Pelkkä liha ei ole täysipainoinen ruokavalio.
 - Kalsium–fosfori-tasapaino on pennulla kriittinen, mutta myös vitamiinit, hivenaineet, rasvahapot ja energia on laskettava.
@@ -136,7 +160,7 @@ Mitä seurataan ja millä aikavälillä? Paino, kuntoluokka, lihaskunto, uloste,
 
 Raakaruokinnan riskejä ei pidä vähätellä eikä paisuttaa. Mikrobiologinen vaara on todellinen, koska raakatuotteissa on löydetty zoonoottisia ja antibiooteille resistenttejä bakteereita ja oireeton koira voi levittää niitä. Ravitsemuksellinen vaara on todellinen, koska sekä kotiresepteissä että osassa kaupallisista tuotteista on mitattu puutoksia, ylityksiä ja vääriä suhteita. Mekaaninen vaara on todellinen, koska luut esiintyvät kliinisissä vierasesine- ja hammasvaurioissa.
 
-Silti vaara ei määrää lopputulosta yksin. Jäljitettävä tuote, katkeamaton kylmäketju, tarkka hygienia, elinvaiheeseen laskettu resepti, koiralle sopivat valinnat ja ennalta sovitut keskeytysrajat voivat pienentää riskiä. Kaikkea riskiä ne eivät poista.
+Silti vaara ei määrää lopputulosta yksin. Terveen koiran hapan mahalaukku ja muu ruoansulatuspuolustus tekevät siitä kykenevän käsittelemään tavanomaista mikrobialtistusta ilman, että ruoan pitäisi olla kliinisesti steriiliä. Jäljitettävä tuote, katkeamaton kylmäketju, tarkoituksenmukainen hygienia, elinvaiheeseen laskettu resepti, koiralle sopivat valinnat ja ennalta sovitut keskeytysrajat pienentävät riskiä edelleen. Kaikkea riskiä ne eivät poista, eikä fysiologinen suoja tee mädäntyneestä tai takaisinvedetystä lihasta turvallista.
 
 Kriittisesti toteutettu raakaruokinta ei nojaa ajatukseen, että ”luonto hoitaa tasapainon”. Se nojaa vastuuseen: tiedetään, mitä annetaan, miksi sitä annetaan, mitä siitä voi seurata ja milloin suunnitelmaa on muutettava.
 
@@ -150,17 +174,21 @@ Kriittisesti toteutettu raakaruokinta ei nojaa ajatukseen, että ”luonto hoita
 - Finley, R. ym. 2007. *The risk of salmonellae shedding by dogs fed Salmonella-contaminated commercial raw food diets.* Canadian Veterinary Journal 48:69–75. PMID: 17310625
 - Groat, E. F. ym. 2022. *UK dogs eating raw meat diets have higher risk of Salmonella and antimicrobial-resistant Escherichia coli faecal carriage.* Journal of Small Animal Practice 63:435–441. https://doi.org/10.1111/jsap.13488
 - Hellgren, J. ym. 2019. *Occurrence of Salmonella, Campylobacter, Clostridium and Enterobacteriaceae in raw meat-based diets for dogs.* Veterinary Record 184:442. https://doi.org/10.1136/vr.105199
+- Mahar, K. M. ym. 2012. *Gastric pH and gastric residence time in fasted and fed conscious beagle dogs using the Bravo pH system.* Journal of Pharmaceutical Sciences 101:2439–2448. https://doi.org/10.1002/jps.23159
 - Marx, F. R. ym. 2016. *Raw beef bones as chewing items to reduce dental calculus in Beagle dogs.* Australian Veterinary Journal 94:18–23. https://doi.org/10.1111/avj.12394
 - Moravszki, L. ym. 2025. *Assessment of mineral adequacy in preprepared raw dog foods labeled as complete.* Scientific Reports 15:43447. https://doi.org/10.1038/s41598-025-27388-w
 - Nowak, L., van Loon, S., Hagen-Plantinga, E. & Bergknut, N. 2024. *A case series of four dogs presenting with neurological deficits due to suspected nutritional secondary hyperparathyroidism after being fed an exclusive diet of raw meat.* Animals 14:1783. https://doi.org/10.3390/ani14121783
 - Pinto, C. F. D. ym. 2020. *Evaluation of teeth injuries in Beagle dogs caused by autoclaved beef bones used as a chewing item to remove dental calculus.* PLOS ONE 15:e0228146. https://doi.org/10.1371/journal.pone.0228146
 - Ribeiro-Almeida, M. ym. 2024. *Raw meat-based diet for pets: a neglected source of human exposure to Salmonella and pathogenic Escherichia coli clones carrying mcr, Portugal, September 2019 to January 2020.* Eurosurveillance 29:2300561. https://doi.org/10.2807/1560-7917.ES.2024.29.18.2300561
 - Runesvärd, E. ym. 2020. *Presence of pathogenic bacteria in faeces from dogs fed raw meat-based diets or dry kibble.* Veterinary Record 187:e71. https://doi.org/10.1136/vr.105644
+- Sagawa, K. ym. 2009. *Fed and fasted gastric pH and gastric residence time in conscious beagle dogs.* Journal of Pharmaceutical Sciences 98:2494–2500. https://doi.org/10.1002/jps.21602
 - Thompson, H. C. ym. 2012. *Esophageal foreign bodies in dogs: 34 cases (2004–2009).* Journal of Veterinary Emergency and Critical Care 22:253–261. https://doi.org/10.1111/j.1476-4431.2011.00700.x
 - Vecchiato, C. G. ym. 2022. *From nutritional adequacy to hygiene quality: a detailed assessment of commercial raw pet-food for dogs and cats.* Animals 12:2395. https://doi.org/10.3390/ani12182395
+- Viegas, F. M. ym. 2026. *Botulism in a dog fed a raw meat-based diet: a case report.* Microorganisms 14:192. https://doi.org/10.3390/microorganisms14010192
 
 ## Täydentävät viranomais- ja ravitsemusohjeet
 
 - FEDIAF. 2025. *Nutritional Guidelines for Complete and Complementary Pet Food for Cats and Dogs.* https://europeanpetfood.org/self-regulation/nutritional-guidelines/
+- Ruokavirasto. 2026. *Päiväysmerkinnät.* https://www.ruokavirasto.fi/elintarvikkeet/ohjeita-kuluttajille/pakkausmerkinnat/paivaysmerkinnat/
 - Ruokavirasto. 2026. *Raakaruoka.* https://www.ruokavirasto.fi/elaimet/rehut/tietoa-rehuista/lemmikkielainten-ruoka/koirien-ja-kissojen-ruoka/raakaruoka/
 - Ruokavirasto. 2026. *Lemmikkien raakaruokien mikrobiologinen laatu ja antibioottiresistenttien bakteerien esiintyminen.* https://www.ruokavirasto.fi/elaimet/rehut/tietoa-rehuista/lemmikkielainten-ruoka/koirien-ja-kissojen-ruoka/lemmikkien-raakaruokien-mikrobiologinen-laatu-ja-antibioottiresistenttien-bakteerien-esiintyminen/
