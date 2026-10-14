@@ -11,7 +11,7 @@ Tekninen alkukartoitus 14.10.2026:
 - mukana päällekkäisiä viitteitä, lyhytviitteitä, kirjoja, standardeja, viranomais- ja järjestölähteitä sekä verkkosivuja;
 - määrä ei siis vielä ole tutkimusartikkelien lopullinen lukumäärä.
 
-Kaikki 128 yksilöllistä DOI-tunnistetta ovat [deduplikoidussa DOI-työrekisterissä](04_doi_tutkimusehdokkaiden_rekisteri.md). Rekisteri ei oleta DOI-lähdettä vertaisarvioiduksi, vaan tekee tarkistettavat julkaisut ja niiden käsittelytilan näkyviksi.
+Kaikki lähdeluettelosta poimitut 128 DOI-tunnistetta ovat [deduplikoidussa DOI-työrekisterissä](04_doi_tutkimusehdokkaiden_rekisteri.md). Alkuperäislähdetarkistus täydensi lisäksi viisi lähdeluettelosta puuttunutta DOI-tunnistetta, joten rekisterissä on 133 DOI-riviä. Rekisteri ei oleta DOI-lähdettä vertaisarvioiduksi, vaan tekee tarkistettavat julkaisut ja niiden käsittelytilan näkyviksi.
 
 ## Luvun 25 ydintutkimusten tila
 
