@@ -1,6 +1,18 @@
 # Luku 10 — muutosloki
 
-Tila: **TYÖVERSIO – ODOTTAA KIRJOITTAJAN HYVÄKSYNTÄÄ**
+Tila: **EHDOLLISESTI HYVÄKSYTTY JA LUKITTU 14.10.2026**
+
+## 14.10.2026 — hyväksymisehto toteutettu ja luku lukittu
+
+- Kirjoittaja hyväksyi luvun ehdollisena.
+- Hygieniaosuuteen lisättiin koiran happaman mahalaukun ja muun ruoansulatuspuolustuksen merkitys.
+- Täsmennettiin, ettei terveen koiran raaka-annoksen tarvitse olla kliinisesti steriili ja että koira voi pysyä oireettomana huomattavankin mikrobialtistuksen jälkeen.
+- **Parasta ennen** -päivä, **viimeinen käyttöpäivä**, oikein pakastettu päiväykseltään iäkäs liha ja aidosti pilaantunut liha erotettiin toisistaan.
+- Mädäntynyt liha, tuntematon sulamishistoria, katkennut kylmäketju ja takaisinvedetty erä rajattiin pois.
+- Vatsahapon suoja rajattiin epätäydelliseksi: se ei hävitä kaikkia taudinaiheuttajia eikä tee valmiita toksiineja vaarattomiksi.
+- Lisättiin Sagawa ym. (2009), Mahar ym. (2012) ja Viegas ym. (2026) sekä Ruokaviraston päiväysmerkintäohje.
+- Laadittiin erillinen ehdollinen lukitustiedosto ja päivitettiin hyväksyttyjen osien rekisteri.
+- `main`-haaraa ei muutettu.
 
 ## 14.10.2026 — palautettu työversio laadittu
 
@@ -58,13 +70,15 @@ Tila: **TYÖVERSIO – ODOTTAA KIRJOITTAJAN HYVÄKSYNTÄÄ**
 - neljän pelkkää raakaa lihaa syöneen koiran ravitsemuksellisen sekundaarisen hyperparatyreoosin tapaussarja
 - kaksi luuvierasesineiden kliinistä tapaussarjaa
 - pienet luun hammaskiveä vähentävää vaikutusta tarkastelleet beagle-tutkimukset
-- kuusitoista keskeistä vertaisarvioitua lähdettä sekä FEDIAFin ja Ruokaviraston täydentävät ohjeet
+- yhdeksäntoista keskeistä vertaisarvioitua lähdettä sekä FEDIAFin ja Ruokaviraston täydentävät ohjeet
 
 ## Rakenteelliset lisäykset
 
 - vaara, altistus, riski ja haitta erotettiin johdannossa
 - riskiluokkien erilainen aikajänne kuvattiin
 - hygienia muutettiin seitsemän kohdan käytännön toimintaketjuksi
+- koiran vatsahappo, ruoansulatuspuolustus ja kliinisen steriiliyden tarpeettomuus lisättiin hygieniaosuuden perustaksi
+- päiväysmerkinnät, säilytyshistoria ja aito pilaantuminen erotettiin omaksi käytännön arviointikokonaisuudekseen
 - ravitsemuksellinen luu ja virikeluu erotettiin
 - luuvierasesineen päivystysmerkit lisättiin
 - riskinhallinta koottiin viiteen porttiin: resepti, tuote, kotitalous, koira ja seuranta
@@ -77,6 +91,10 @@ Tila: **TYÖVERSIO – ODOTTAA KIRJOITTAJAN HYVÄKSYNTÄÄ**
 - havainnoivasta brittitutkimuksesta ei päätelty yksin ruokavalion aiheuttamaa vaikutusta
 - yksittäisestä epidemiasta ei päätelty, että kaikki raakaruokaa syövät koirat levittäisivät salmonellaa
 - pakastusta ei esitetty sterilointina tai yleisenä loistorjuntana
+- vatsahappoa ei esitetty täydellisenä suojana eikä raakaruokinnan yksin tuottamana ominaisuutena
+- päiväyksen ylittänyttä mutta oikein säilytettyä lihaa ei rinnastettu automaattisesti mädäntyneeseen lihaan
+- aistinvaraista arviota ei esitetty keinona sulkea näkymättömät taudinaiheuttajat pois
+- vuoden 2026 botulismitapausta ei yleistetty raakaruokinnan tavalliseksi seuraukseksi
 - täysravintomerkintää ei hylätty yleisesti yhden maan 33 tuotteen aineiston perusteella
 - ravintoainepoikkeamaa ei rinnastettu automaattisesti kliiniseen sairauteen
 - pienistä hammaskivitutkimuksista ei päätelty luun yleistä turvallisuutta
@@ -84,6 +102,6 @@ Tila: **TYÖVERSIO – ODOTTAA KIRJOITTAJAN HYVÄKSYNTÄÄ**
 - Diegon kova uloste ja anaalirauhastulkinta eivät muuttuneet yleiseksi tavoitteeksi tai hoito-ohjeeksi
 - mitään luutyyppiä ei esitetty kaikille koirille turvallisena
 
-## Seuraava päätös
+## Lukituspäätös
 
-Kirjoittaja arvioi tiedoston `LUKU_10_PALAUTETTU_TYOVERSIO.md`. Hyväksynnän jälkeen luvulle laaditaan erillinen lukitustiedosto ja hyväksyttyjen osien rekisteri päivitetään. Muutoksia hyväksyttyyn julkaisutekstiin ei tehdä ennen kirjoittajan päätöstä.
+Kirjoittaja hyväksyi tiedoston `LUKU_10_PALAUTETTU_TYOVERSIO.md` ehdollisesti 14.10.2026. Hyväksymisehto toteutettiin lisäämällä vatsahappoa, mikrobisietoa, päiväyksiä ja pilaantumisen rajaa koskeva kokonaisuus. Tiedosto on valittu tulevaan `MASTER_PALAUTETTU.md`-versioon lukuna 10. Muutoksia tähän julkaisutekstiin tehdään vain kirjoittajan erillisellä päätöksellä.
