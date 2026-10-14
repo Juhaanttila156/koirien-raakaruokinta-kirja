@@ -31,6 +31,7 @@ Ensimmäisessä analyysierässä on tarkastettu 11 luvun 25 ydintekstiin kuuluva
 - [Lähdeinventaario ja työjono](01_lahdeinventaario_ja_tyojono.md)
 - [Vertaisarvioidut ydintutkimukset, erä 1](02_vertaisarvioidut_ydintutkimukset_era_1.md)
 - [Muut tieteelliset lähteet, vaihe 2](03_muut_tieteelliset_lahteet_vaihe_2.md)
+- [DOI-tunnisteellisten julkaisujen työrekisteri](04_doi_tutkimusehdokkaiden_rekisteri.md)
 
 ## Tulkinnan perussääntö
 
