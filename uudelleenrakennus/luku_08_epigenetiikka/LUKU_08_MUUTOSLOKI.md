@@ -1,6 +1,13 @@
 # Luku 8 — muutosloki
 
-Tila: **ODOTTAA KIRJOITTAJAN HYVÄKSYNTÄÄ**
+Tila: **HYVÄKSYTTY JA LUKITTU 14.10.2026**
+
+## 14.10.2026 — kirjoittajan hyväksyntä
+
+- Kirjoittaja hyväksyi palautetun työversion.
+- Tiedosto `LUKU_08_PALAUTETTU_TYOVERSIO.md` valittiin tulevan kirjan luvuksi 8.
+- Hyväksyntä ja lukitus kirjattiin tiedostoon `LUKU_08_LUKITTU.md`.
+- Alkuperäisversio, lähdevertailu ja aikaisempi muutoshistoria säilytettiin.
 
 ## Säilytetty varhaisesta Drive-versiosta
 
