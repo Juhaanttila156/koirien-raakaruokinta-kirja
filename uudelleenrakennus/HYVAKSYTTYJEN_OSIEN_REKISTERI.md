@@ -15,9 +15,10 @@ Tähän tiedostoon merkitään vain kirjoittajan hyväksymät, tulevaan `MASTER_
 | 9 | Luku 8: Epigenetiikka – ravinto ja geenien säätely | `luku_08_epigenetiikka/LUKU_08_PALAUTETTU_TYOVERSIO.md` | `luku_08_epigenetiikka/LUKU_08_LUKITTU.md` | HYVÄKSYTTY JA LUKITTU |
 | 10 | Luku 9: Kliininen näkökulma – iho, suolisto ja nivelet biologisessa kontekstissa | `luku_09_kliininen_nakokulma/LUKU_09_PALAUTETTU_TYOVERSIO.md` | `luku_09_kliininen_nakokulma/LUKU_09_LUKITTU.md` | HYVÄKSYTTY JA LUKITTU |
 | 11 | Luku 10: Raakaruokinnan riskit – kriittinen ja tieteellinen arvio | `luku_10_raakaruokinnan_riskit/LUKU_10_PALAUTETTU_TYOVERSIO.md` | `luku_10_raakaruokinnan_riskit/LUKU_10_EHDOLLISESTI_LUKITTU.md` | EHDOLLISESTI HYVÄKSYTTY JA LUKITTU |
+| 12 | Luku 11: Pennut – kasvu, kalsium ja aineenvaihdunnan ohjelmoituminen | `luku_11_pennut_kasvu/LUKU_11_PALAUTETTU_TYOVERSIO.md` | `luku_11_pennut_kasvu/LUKU_11_LUKITTU.md` | HYVÄKSYTTY JA LUKITTU |
 
 Lähdearkiston tai aikaisempien työversioiden säilyminen ei riipu tästä rekisteristä. Niitä ei poisteta, vaikka toinen versio valitaan julkaistavaan kirjaan.
 
 ## Koko kirjaa koskeva jälkilinjaus 14.10.2026
 
-Kirjoittajan päätöksellä lukujen 1–10 palautettuihin työversioihin lisättiin läpileikkaava näkökulma koirasta saalistajan jälkeläisen lisäksi fakultatiivisena haaskansyöjänä eli raadonsyöjänä. Lisäys dokumentoitiin jokaisen luvun muutoslokiin ja lukitustiedostoon. Varhaisia alkuperäislähteitä ei muutettu, eikä lukujen hyväksyntä- tai lukitustila tämän vuoksi avaudu.
+Kirjoittajan päätöksellä lukujen 1–11 palautettuihin työversioihin lisättiin läpileikkaava näkökulma koirasta saalistajan jälkeläisen lisäksi fakultatiivisena haaskansyöjänä eli raadonsyöjänä. Lisäys dokumentoitiin jokaisen luvun muutoslokiin ja lukitustiedostoon. Varhaisia alkuperäislähteitä ei muutettu, eikä lukujen hyväksyntä- tai lukitustila tämän vuoksi avaudu.

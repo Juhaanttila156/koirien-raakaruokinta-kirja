@@ -1,6 +1,6 @@
 # Luku 11 — muutosloki
 
-Tila: **TYÖVERSIO – ODOTTAA KIRJOITTAJAN HYVÄKSYNTÄÄ**
+Tila: **HYVÄKSYTTY JA LUKITTU 15.10.2026**
 
 ## 14.10.2026 — palautettu työversio laadittu
 
@@ -63,9 +63,13 @@ Tila: **TYÖVERSIO – ODOTTAA KIRJOITTAJAN HYVÄKSYNTÄÄ**
 - mikrobiomimuutosta ei rinnasteta automaattisesti kliiniseen sairauteen
 - raakaruokintamyönteisyys ei poista kasvun ja lisääntymisen ravitsemuksellisia tai kliinisiä turvarajoja
 
-## Seuraava päätös
+## 15.10.2026 — kirjoittajan hyväksyntä ja lukitus
 
-Kirjoittaja arvioi tiedoston `LUKU_11_PALAUTETTU_TYOVERSIO.md`. Hyväksynnän jälkeen luvulle laaditaan erillinen lukitustiedosto ja hyväksyttyjen osien rekisteri päivitetään. Muutoksia hyväksyttyyn julkaisutekstiin ei tehdä ennen kirjoittajan päätöstä.
+- Kirjoittaja hyväksyi luvun sanoin: ”Erittäin hyvä, jatketaan eteenpäin.”
+- Tiedosto `LUKU_11_PALAUTETTU_TYOVERSIO.md` valittiin tulevaan `MASTER_PALAUTETTU.md`-versioon luvuksi 11.
+- Hyväksyntä sisältää luvun ravitsemuksellisen kokonaisuuden, tutkimusnäytön rajaukset, raakaruokintamyönteisen johtopäätöksen, haaskansyöjälinjauksen sekä JP Anttilan Vekku- ja Diego-kokemukset niihin kirjattuine rajoineen.
+- Luvulle laadittiin erillinen lukitustiedosto ja hyväksyttyjen osien rekisteri päivitettiin.
+- Muutoksia hyväksyttyyn julkaisutekstiin tehdään vain kirjoittajan erillisellä päätöksellä.
 
 ## 14.10.2026 — kirjoittajan koko kirjaa koskeva haaskansyöjälinjaus
 
