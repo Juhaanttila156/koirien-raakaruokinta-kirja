@@ -82,11 +82,11 @@ Tarkoitus oli parantaa laboratorioverkoston kykyä tunnistaa lemmikkiruoista Lis
 
 Kahdessa vaiheessa tutkittiin yhteensä 1 056 näytettä. Ensimmäisessä vaiheessa oli 480 kuiva- tai puolikosteaa koiran- ja kissanruokaa. Toisessa vaiheessa oli 576 raakaa koiran- ja kissanruokaa, eksoottisten eläinten rehua ja jerky-tyyppisiä herkkuja.
 
-Kaikki tutkimuksessa todetut 15 Salmonella-positiivista ja 32 Listeria monocytogenes -positiivista näytettä kuuluivat raakaruoan ryhmään. Tutkimuksessa havaittiin lisäksi ei-O157-ryhmän shigatoksiinia tuottavia E. coli -löydöksiä useissa toisen vaiheen tuoteryhmissä.
+Ensimmäisen vaiheen 480 näytteestä yksi oli Salmonella-positiivinen ja yksi Listeria greyii -positiivinen. Toisen vaiheen 576 näytteestä 66 oli Listeria-positiivisia, joista 32 sisälsi L. monocytogenesta, ja 15 oli Salmonella-positiivisia. Julkaisun yhteenvedon mukaan toisen vaiheen patogeeneja löytyi raakaruoista ja jerky-tyyppisistä herkuista, mutta ei eksoottisten eläinten kuivarehuista. Koko toisen vaiheen löydösmääriä ei siksi pidä esittää raakaruokien omana prevalenssina.
 
 ### Mitä tutkimus osoittaa?
 
-Tutkimus osoittaa, että tutkituissa yhdysvaltalaisissa tuotenäytteissä raaka tuoteryhmä sisälsi selvästi havaittavan patogeenikuorman ja että FDA:n laboratorioverkosto pystyi löytämään kyseisiä mikrobeja.
+Tutkimus osoittaa, että tutkituissa yhdysvaltalaisissa tuotenäytteissä raakaruoat kuuluivat patogeeneja sisältäneisiin tuoteryhmiin ja että FDA:n laboratorioverkosto pystyi löytämään kyseisiä mikrobeja.
 
 Se ei ole kansallisesti edustava markkinaseuranta eikä mahdollista nykyisen markkinaprevalenssin laskemista. Tuoteryhmien epätasaisuus estää myös yksinkertaisen ”raaka vastaan kaikki muut” -riskisuhteen laskemisen.
 
@@ -208,7 +208,7 @@ Sopii näyttämään, että raakatuotteet voivat toimia resistenttien enterobakt
 
 ## P018 – Runesvärd ym. 2020
 
-**Viite:** Runesvärd, E. ym. Presence of pathogenic bacteria in faeces from dogs fed raw meat-based diets or dry kibble. Veterinary Record 186: e8. [DOI 10.1136/vr.105644](https://doi.org/10.1136/vr.105644).
+**Viite:** Runesvärd, E. ym. Presence of pathogenic bacteria in faeces from dogs fed raw meat-based diets or dry kibble. Veterinary Record 187(9): e71. [DOI 10.1136/vr.105644](https://doi.org/10.1136/vr.105644).
 
 ### Toteuttaja, tilaaja ja rahoitus
 
