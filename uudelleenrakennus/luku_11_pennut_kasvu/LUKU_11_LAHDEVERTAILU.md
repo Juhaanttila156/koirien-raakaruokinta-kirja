@@ -70,6 +70,10 @@ Myöhemmästä masterista säilytettiin Diegon pentueen vakava iho-oireilu, emä
 
 Kokemuksen ja tutkimusväitteen raja pysyy näkyvänä. Teksti ei mitätöi kirjoittajan havaintoa, mutta ei myöskään päättele yhdestä pentueesta antibiootin, nappulan, raakaruokinnan tai muun yksittäisen tekijän varmaa syyvaikutusta.
 
+Kirjoittajan 14.10.2026 kertoma Vekku-muisto lisättiin myöhemmin samaan kokemukselliseen kerrokseen. Siinä JP Anttila kuvaa lapsuutensa saksanpaimenkoiraa, joka kätki tilateurastuksista saamiaan lihaisia luita maahan ja söi niitä viikkojen tai kuukausien kuluttua ilman kirjoittajan havaitsemia sairauksia tai vatsaoireita. Muisto ei ole peräisin varhaisesta Drive-versiosta eikä myöhemmästä masterista, vaan kirjoittajan tästä palautustyöstä antamasta omakohtaisesta aineistosta.
+
+Vekku-kuvaus sijoitettiin haaskansyöjätaustan ja pentuehygienian väliin. Se säilyttää kokemuksen raakaruokintamyönteisen merkityksen — terveen koiran ruoan ei tarvitse olla kliinisesti steriiliä — mutta erottaa yhden koiran oireettoman kokemuksen yleisestä turvallisuusohjeesta. Teksti ei suosittele tarkoituksella pitkään maassa olleen tai selvästi hajonneen lihan syöttämistä, ja pentujen kehittymätöntä puolustusta koskeva varovaisuus säilyy ennallaan.
+
 ## Turvallisuusrajat
 
 Luvussa säilyvät kiireellistä eläinlääkärin arviota koskevat rajat muun muassa synnytysvaikeudessa, eklampsiassa, utare- ja kohtutulehduksessa sekä vastasyntyneen heikossa imussa, jäähtymisessä ja painon pysähtymisessä. Tiineyden aikainen ylimääräinen kalsium, silmämääräinen luuannostelu ja yksittäisten ravintolisien päällekkäisyys rajataan pois.

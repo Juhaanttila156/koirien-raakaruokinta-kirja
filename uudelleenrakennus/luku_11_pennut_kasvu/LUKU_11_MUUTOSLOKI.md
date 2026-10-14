@@ -74,3 +74,12 @@ Kirjoittaja arvioi tiedoston `LUKU_11_PALAUTETTU_TYOVERSIO.md`. Hyväksynnän j�
 - Linjaus yhdistettiin koiran happamaan mahalaukkuun, pepsiiniin, sappihappoihin, suolen limakalvopuolustukseen ja mikrobiomiin siellä, missä yhteys kuuluu luvun aiheeseen.
 - Samalla säilytettiin turvallisuusraja: biologinen sietokyky ei tarkoita immuniteettia taudinaiheuttajille tai toksiineille eikä lupaa syöttää aidosti mädäntynyttä lihaa.
 - Varhaisia alkuperäislähteitä ei muutettu; lisäys tehtiin palautettuun työversioon ja tutkimuslähteet dokumentoitiin.
+
+## 14.10.2026 — JP Anttilan Vekku-muisto lisätty
+
+- Kirjoittaja toi lukuun uuden lapsuusmuiston 1970-luvulta ja 1980-luvun alusta sukutilaltaan: saksanpaimenkoira Vekku sai tilateurastusten yhteydessä runsaasti lihaisia luita, kätki niitä maahan ja söi niitä myöhemmin kesän aikana.
+- Kokemuksesta säilytettiin olennaiset yksityiskohdat: maitotila ja nautakarja, Vekun maahan kaivamat luukätköt, viikkojen tai kuukausien säilyminen maassa, luissa nähdyt madot ja muurahaiset sekä se, ettei kirjoittaja havainnut koiralla sairautta tai vatsaoireita.
+- Muisto sijoitettiin pentuluvun hygieniaosuuteen heti haaskansyöjätaustan jälkeen, jolloin se muodostaa sillan biologisen sietokyvyn ja pentueympäristön tiukemman riskinhallinnan välille.
+- Teksti kirjoitettiin JP Anttilan minämuotoiseksi kokemukseksi eikä tutkimustulokseksi.
+- Kokemuksen tulkinta rajattiin näkyvästi: mikrobien tai toksiinien määrää ei tunnettu, oireettomuus ei sulje pois bakteerien erittämistä, eikä tapaus ole ohje syöttää tarkoituksella maassa pitkään ollutta, toukkaista tai selvästi hajonnutta lihaa.
+- Luvun tila ei muuttunut; työversio odottaa edelleen kirjoittajan hyväksyntää.

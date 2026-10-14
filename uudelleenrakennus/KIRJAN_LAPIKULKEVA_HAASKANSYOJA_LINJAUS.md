@@ -41,6 +41,12 @@ Koiran ja suden haaskojen hyödyntäminen on eri väite kuin teoria, jonka mukaa
 - Lukuun 11 periaate lisättiin jo työversioon, mutta luku odottaa edelleen kirjoittajan myöhempää katselmusta.
 - Kaikissa myöhemmin palautettavissa luvuissa tarkistetaan, miten linjaus liittyy kyseisen luvun aiheeseen.
 
+## Kirjoittajan omakohtainen ankkuri: Vekku
+
+JP Anttilan lapsuusmuisto 1970-luvulta ja 1980-luvun alusta on tallennettu luvun 11 työversioon. Sukutilan saksanpaimenkoira Vekku kätki tilateurastuksista saamiaan lihaisia luita maahan ja söi niitä myöhemmin kesän aikana; osassa oli näkyvästi matoja ja muurahaisia, mutta kirjoittaja ei havainnut koiralla sairautta tai vatsaoireita. Muisto tekee kirjan haaskansyöjälinjasta omakohtaisen eikä vain teoreettisen.
+
+Kertomus säilytetään minämuotoisena kokemuksena ja erotetaan tutkimusnäytöstä. Siitä ei päätellä kaikkien koirien sietävän vastaavaa altistusta eikä tehdä ohjetta syöttää tarkoituksella maassa pitkään ollutta tai selvästi hajonnutta lihaa. Kokemus tukee kliinisen steriiliyden tarpeettomuutta, mutta ei kumoa pilaantumista, toksiineja, oireetonta bakteerieritystä tai pentujen kehittymätöntä puolustusta koskevia rajoja.
+
 ## Keskeiset vertaisarvioidut lähteet
 
 - Bhadra, A., Bhattacharjee, D., Paul, M. & Bhadra, A. 2016. *The meat of the matter: a rule of thumb for scavenging dogs?* Ethology Ecology & Evolution 28: 427–440. https://doi.org/10.1080/03949370.2015.1076526
