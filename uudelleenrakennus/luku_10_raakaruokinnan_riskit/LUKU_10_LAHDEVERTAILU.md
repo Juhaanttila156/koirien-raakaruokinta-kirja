@@ -1,6 +1,6 @@
 # Luku 10 — lähdevertailu
 
-Tila: **ODOTTAA KIRJOITTAJAN HYVÄKSYNTÄÄ**
+Tila: **EHDOLLISESTI HYVÄKSYTTY JA LUKITTU 14.10.2026**
 
 ## Varhainen Drive-versio
 
@@ -41,21 +41,25 @@ Lähdemuistio `90_palautusarkisto_2026-10-03/keskustelut/diego_ruokinta_ja_oiree
 
 ## Palautetun työversion ratkaisu
 
-Varhainen Drive-luku palautettiin rungoksi ja laajennettiin seitsemään tehtävään:
+Varhainen Drive-luku palautettiin rungoksi ja laajennettiin kahdeksaan tehtävään:
 
 1. erottamaan vaara, altistus, riski ja toteutunut haitta toisistaan
 2. arvioimaan mikrobiologista riskiä koiran lisäksi kotitalouden ja ympäristön kannalta
-3. muuttamaan hygienia yleisestä vaatimuksesta käytännön toimintaketjuksi
-4. osoittamaan, että raakuus ei kerro reseptin täysipainoisuudesta
-5. erottamaan ravitsemuksellinen luu ja virikeluu sekä hyödyt ja mekaaniset haitat
-6. palauttamaan Diegon luurutiini kirjoittajan kokemuksena, sen rajat näkyviksi tehden
-7. antamaan viiden portin malli ruokinnan käytännön riskinarvioon
+3. tuomaan näkyviin koiran happaman mahalaukun ja muun ruoansulatuspuolustuksen todellisena suojana
+4. erottamaan kliinisen steriiliyden vaatimus tarkoituksenmukaisesta hygieniasta sekä päiväyksen ylitys aidosta pilaantumisesta
+5. osoittamaan, että raakuus ei kerro reseptin täysipainoisuudesta
+6. erottamaan ravitsemuksellinen luu ja virikeluu sekä hyödyt ja mekaaniset haitat
+7. palauttamaan Diegon luurutiini kirjoittajan kokemuksena, sen rajat näkyviksi tehden
+8. antamaan viiden portin malli ruokinnan käytännön riskinarvioon
 
 ## Tutkimukselliset täsmennykset
 
 Palautetussa työversiossa:
 
+- kahden telemetriatutkimuksen perusteella kuvataan terveen koiran mahalaukun voimakas happamuus paastossa ja aterian jälkeen
+- beagleilla ja kuivaruoka-annoksilla tehtyjen vatsahappotutkimusten rajat kerrotaan; niistä ei päätellä raakaruokinnan yksin aiheuttavan happamuutta tai kaikkien mikrobien tuhoutuvan
 - oireeton koira tunnistetaan mahdolliseksi salmonellan ja muiden bakteerien erittäjäksi
+- Finleyn kokeen oireettomuus esitetään samalla näyttönä terveen koiran sietokyvystä ja uloste-eritys muistutuksena suojan epätäydellisyydestä
 - antibioottiresistenttien bakteerien merkitys kuvataan One Health -kysymyksenä
 - brittiläisen poikkileikkaustutkimuksen ryhmäkoot ja keskeiset löydökset esitetään, mutta havainnoivasta asetelmasta ei päätellä yksin ruokavalion aiheuttamaa vaikutusta
 - vuoden 2025 kanadalainen lääkeresistentin salmonellan epidemiaselvitys tuodaan esimerkiksi mahdollisesta koira–ihminen-siirtymäketjusta
@@ -67,6 +71,7 @@ Palautetussa työversiossa:
 - neljän koiran tapaussarja esitetään vakavan seurauksen mekanismia kuvaavana, ei yleisyysarviona
 - ruokatorven ja mahalaukun luuvierasesineiden erilainen kliininen kiireellisyys tehdään näkyväksi
 - pienet lyhyet beagle-tutkimukset hyväksytään näytöksi hammaskiven vähenemisestä, mutta ei väestötason turvallisuudesta
+- vuoden 2026 botulismitapaus rajataan yksittäiseksi tapausselostukseksi, joka osoittaa valmiin toksiinin ja aidosti hajonneen lihan muodostaman rajan mutta ei tapauksen yleisyyttä
 
 ## Varhaiseen väitteeseen tehty täsmennys
 
@@ -78,6 +83,10 @@ Ravitsemuksellinen epätasapaino säilyy tekstissä keskeisenä, ehkäistäviss�
 
 Työversioon koottiin käytännön ketju:
 
+- koiran happaman mahalaukun ja muun ruoansulatuspuolustuksen tunnistaminen todelliseksi mutta epätäydelliseksi suojaksi
+- sen toteaminen, ettei terveen koiran raaka-annoksen tarvitse olla kliinisesti steriili
+- **parasta ennen** -merkinnän erottaminen **viimeisestä käyttöpäivästä** ja aidosta pilaantumisesta
+- päiväyksen lisäksi säilytyshistorian, pakastuksen ajankohdan, sulamiskertojen ja pakkauksen eheyden arviointi
 - erä- ja valmistajatietojen säilyttäminen
 - katkeamaton kylmäketju
 - sulatus jääkaapissa kannellisessa ja vuotamattomassa astiassa
@@ -88,6 +97,8 @@ Työversioon koottiin käytännön ketju:
 - syömättä jääneen annoksen poistaminen
 - ulosteen käsittely tartuntareittinä
 - kotitalouden riskiryhmien huomioiminen jo ruokintatavan valinnassa
+
+Linjaus on tarkoituksella raakaruokintamyönteinen: tavanomaista mikrobialtistusta ei rinnasteta automaattisesti vaaraan eikä käyttökelpoista lihaa hylätä vain **parasta ennen** -päivän perusteella. Samalla mädäntynyt liha, tunnetusti katkennut kylmäketju, takaisinvedetty erä ja tuntematon sulamishistoria rajataan pois. Koiran fysiologinen sietokyky pienentää riskiä, mutta ei muuta valmiita toksiineja vaarattomiksi.
 
 ## Luiden hyötyjen ja haittojen tasapaino
 
@@ -111,3 +122,7 @@ Turvallisuusrajaus on näkyvä: kovaa ulostetta ei nimetä tavoitteeksi, anaalir
 ## Numerointi
 
 Varhaisessa Drive-lähteessä tämä oli luku 9. Palautetussa rakenteessa se on luku 10, koska teollista prosessointia käsittelevä luku palautettiin aikaisemmin omalle paikalleen.
+
+## Ehdollinen lukitus
+
+Kirjoittaja hyväksyi luvun 14.10.2026 ehdollisena sillä edellytyksellä, että hygieniaosuuteen lisätään koiran vatsalaukun happamuus, kyky sietää tavanomaista ja osin kohonnuttakin mikrobialtistusta sekä selkeä ero päiväyksen ylittäneen, oikein säilytetyn lihan ja aidosti mädäntyneen lihan välille. Ehto toteutettiin tässä versiossa raakaruokintamyönteisesti mutta tutkimusnäytön rajat säilyttäen. Luku on tämän jälkeen ehdollisesti hyväksytty, valittu ja lukittu.
