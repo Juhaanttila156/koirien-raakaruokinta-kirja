@@ -6,7 +6,7 @@ Päivitetty 15.10.2026.
 
 Tarkastuksessa löytyi kaksi olennaisesti erilaista, julkisista lähteistä varmistettua yrityssidosta:
 
-1. **Mars Petcarella on suora, samaan konserniin kuuluva eläinlääkäriverkosto.** Marsin ruokabrändeihin kuuluvat muun muassa Royal Canin, Pedigree, Whiskas, Sheba, Cesar ja Iams. Mars Veterinary Healthiin kuuluvat muun muassa AniCura, Banfield Pet Hospital, BluePearl, Linnaeus ja VCA Animal Hospitals.
+1. **Mars Petcarella on suora, samaan konserniin kuuluva eläinlääkäriverkosto.** Marsin ruokabrändeihin kuuluvat muun muassa Royal Canin, Pedigree, Whiskas, Sheba ja Cesar. Mars Veterinary Healthiin kuuluvat muun muassa AniCura, Banfield Pet Hospital, BluePearl, Linnaeus ja VCA Animal Hospitals.
 2. **Nestlé Purina on IVC Evidensian vähemmistöomistaja ja strateginen kumppani.** EQT on ollut suurin omistaja, ja nykyinen IVC Evidensian UK-sivusto nimeää omistajiin myös Silver Laken, Nestlén ja Berkshire Partnersin. IVC Evidensiaan kuuluvat Suomessa Evidensia ja Kanadassa VetStrategy.
 
 Näitä ei saa kuvata samaksi asiaksi. Marsin yhteys klinikkaketjuihin on **suoraa konserniomistusta**. Nestlén yhteys IVC Evidensiaan on **vähemmistöomistus ja strateginen kumppanuus**, ei julkisista lähteistä osoitettu määräysvalta yksittäisten eläinlääkärien hoito- tai ruokintasuosituksiin.
@@ -38,7 +38,7 @@ Petfood Industryn vuoden 2025 liikevaihtoarvioissa Mars Petcare ja Nestlé Purin
 
 | Yhtiö / liiketoiminta | Viimeisin tässä tarkastettu kokoluku | Luvun rajaus | Keskeisiä ruokabrändejä |
 |---|---:|---|---|
-| **Mars Petcare / Mars, Inc.** | noin **30 mrd. USD** | Marsin vuonna 2026 ilmoittama koko Petcare-liiketoiminnan arvo; sisältää ravitsemuksen lisäksi eläinlääkintää ja diagnostiikkaa, joten ei ole puhdas ruokamyyntiluku | Royal Canin, Pedigree, Whiskas, Sheba, Cesar, Iams, Eukanuba, Nutro, Greenies, Orijen ja Acana |
+| **Mars Petcare / Mars, Inc.** | noin **30 mrd. USD** | Marsin vuonna 2026 ilmoittama koko Petcare-liiketoiminnan arvo; sisältää ravitsemuksen lisäksi eläinlääkintää ja diagnostiikkaa, joten ei ole puhdas ruokamyyntiluku | Royal Canin, Pedigree, Whiskas, Sheba, Cesar, Nutro, Greenies, Orijen ja Acana |
 | **Nestlé Purina PetCare / Nestlé S.A.** | **18,4 mrd. CHF** vuonna 2025 | Nestlén raportoima PetCare-tuoteryhmän myynti | Purina Pro Plan, Purina ONE, Friskies, Felix, Gourmet, Beneful, Bakers ja Lily’s Kitchen |
 | **Hill’s Pet Nutrition / Colgate-Palmolive** | **4,613 mrd. USD** vuonna 2025 | Colgate-Palmoliven raportoima Pet Nutrition -segmentin myynti | Hill’s Prescription Diet, Hill’s Science Diet ja Prime100 |
 | **General Mills, North America Pet** | **2,6 mrd. USD** tilikaudella 2026 | Pohjois-Amerikan pet-segmentti; kansainvälistä pet-myyntiä kirjataan osin International-segmenttiin | Blue Buffalo, Tiki Pets, Cloud Star ja Edgard & Cooper |
@@ -59,7 +59,7 @@ Petfood Industryn vuoden 2025 liikevaihtoarvioissa Mars Petcare ja Nestlé Purin
 
 ## 4. Mars: selvin vertikaalinen integraatio
 
-Marsin oma suomalainen Petcare-sivu sijoittaa samaan liiketoimintakokonaisuuteen sekä ruokabrändit että klinikkaverkostot. Sivulla mainitaan ravitsemuksesta Pedigree, Whiskas, Sheba, Cesar, Iams ja Royal Canin sekä hoidosta Banfield, VCA, BluePearl ja AniCura. Mars Veterinary Health ilmoittaa maailmanlaajuisessa verkostossa olevan lähes 3 000 klinikkaa.
+Marsin oma suomalainen Petcare-sivu sijoittaa samaan liiketoimintakokonaisuuteen sekä ruokabrändit että klinikkaverkostot. Sivulla mainitaan ravitsemuksesta Pedigree, Whiskas, Sheba, Cesar ja Royal Canin sekä hoidosta Banfield, VCA, BluePearl ja AniCura. Mars Veterinary Health ilmoittaa maailmanlaajuisessa verkostossa olevan lähes 3 000 klinikkaa.
 
 Suomessa olennaisin omistusketju on:
 
