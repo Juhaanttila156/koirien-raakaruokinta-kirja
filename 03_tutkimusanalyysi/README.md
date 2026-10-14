@@ -23,7 +23,7 @@ Tavoite on selvittää jokaisesta kirjassa käytetystä tutkimuksesta:
 
 Kirjan lähdeluettelon teknisessä alkukartoituksessa tunnistettiin 202 lähderiviä ja 128 yksilöllistä DOI-merkkijonoa. Talin ja Doddin virheellisesti yhdistetyn viitteen erottaminen kahdeksi julkaisuksi nosti nykyisen lähderivimäärän 203:een, mutta DOI-tunnisteiden määrä ei muuttunut. Luvut eivät tarkoita samaa määrää eri tutkimuksia: luettelossa on edelleen päällekkäisyyksiä, lyhytviitteitä ja muita kuin tutkimusartikkeleita.
 
-Kolmen analyysierän koontirekisterissä on nyt 27 tutkimuskorttia. Rahoittaja, tilaaja ja alkuperäinen tarkoitus on varmennettu nykyisten kriteerien mukaan 24 julkaisusta. Kolme korttia on osittain avoinna: P004 Freeman ja Michel (2001), P021 Indra ym. (2025) ja P026 Taylor ym. (2009) odottavat koko artikkelin rahoitus-, kiitos- tai sidonnaisuusosuuden lopullista varmennusta. Erä 3 käsittelee kuutta ravitsemustasapainon, puutosten ja kliinisten tapausten julkaisua.
+Kolmen analyysierän koontirekisterissä on nyt 27 tutkimuskorttia. Rahoittaja, tilaaja ja alkuperäinen tarkoitus on varmennettu nykyisten kriteerien mukaan 24 julkaisusta. Kolme korttia on osittain avoinna: P004 Freeman ja Michel (2001), P021 Indra ym. (2025) ja P026 Taylor ym. (2009) odottavat koko artikkelin rahoitus-, kiitos- tai sidonnaisuusosuuden lopullista varmennusta. Erä 3 käsittelee kuutta ravitsemustasapainon, puutosten ja kliinisten tapausten julkaisua. Lisäksi yrityssidonnaisuuksien taustaraportti erottaa suoraksi omistukseksi varmennetut klinikkasuhteet, vähemmistöomistukset sekä pelkät toimittaja- ja koulutussuhteet.
 
 ## Tiedostot
 
@@ -35,6 +35,7 @@ Kolmen analyysierän koontirekisterissä on nyt 27 tutkimuskorttia. Rahoittaja, 
 - [Vertaisarvioidut tutkimukset, erä 2: mikrobiologinen turvallisuus ja mikrobilääkeresistenssi](05_vertaisarvioidut_mikrobiologinen_turvallisuus_era_2.md)
 - [Rahoittaja, tilaaja ja tutkimuksen tarkoitus – koontirekisteri](06_rahoittaja_tilaaja_ja_tutkimuksen_tarkoitus.md)
 - [Vertaisarvioidut tutkimukset, erä 3: ravitsemustasapaino ja puutostapaukset](07_vertaisarvioidut_ravitsemustasapaino_ja_puutokset_era_3.md)
+- [Suurimmat lemmikkiruokayhtiöt ja sidokset eläinlääkäriketjuihin](08_lemmikkiruokayhtiot_ja_elainlaakariketjujen_sidokset.md)
 
 ## Ensisijainen tarkastelukulma
 
