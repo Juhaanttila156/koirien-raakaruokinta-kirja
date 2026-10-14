@@ -144,7 +144,7 @@ Antibiootteja ei pidä välttää silloin, kun eläinlääkäri arvioi bakteeri-
 
 ## Raakaruoan hygienia lisääntymisessä
 
-Kuten luvussa 10 todettiin, raaka-annoksen ei tarvitse olla kliinisesti steriili. Terveen aikuisen koiran hyvin hapan mahalaukku ja muu ruoansulatuspuolustus ovat todellisia suojatekijöitä, ja koira voi käsitellä tavanomaista mikrobialtistusta ilman oireita. Pentueympäristössä tarkoituksenmukaisen hygienian kynnys on silti tavallista korkeampi, koska vastasyntyneiden puolustus on vasta kehittymässä ja emä, pennut, ihmiset, kupit sekä ulosteet muodostavat tiiviin kontaktiverkoston. Tavoite ei ole steriloida ruokaa vaan estää mikrobien tarpeeton lisääntyminen ja suuri altistusannos. (Sagawa ym. 2009; Mahar ym. 2012; Finley ym. 2007; Chastant & Mila 2019.)
+Kuten luvussa 10 todettiin, raaka-annoksen ei tarvitse olla kliinisesti steriili. Koira on saalistajan jälkeläinen mutta myös fakultatiivinen haaskansyöjä: sen ja sen esivanhempien ravitsemushistoriaan kuuluu haaskojen, eläinperäisten tähteiden ja muiden vaihtelevan mikrobikuorman ravintolähteiden hyödyntäminen. Terveen aikuisen koiran hyvin hapan mahalaukku ja muu ruoansulatuspuolustus ovat todellisia suojatekijöitä, ja koira voi käsitellä tavanomaista mikrobialtistusta ilman oireita. Pentueympäristössä tarkoituksenmukaisen hygienian kynnys on silti tavallista korkeampi, koska vastasyntyneiden puolustus on vasta kehittymässä ja emä, pennut, ihmiset, kupit sekä ulosteet muodostavat tiiviin kontaktiverkoston. Tavoite ei ole steriloida ruokaa vaan estää mikrobien tarpeeton lisääntyminen ja suuri altistusannos. (Wikenros ym. 2023; Bhadra ym. 2016; Sagawa ym. 2009; Mahar ym. 2012; Finley ym. 2007; Chastant & Mila 2019.)
 
 Tiineys, synnytys ja pentuaika eivät poista raakaruokinnan mikrobiologista riskiä. Raaka liha voi sisältää bakteereja, ja koira voi erittää niitä ulosteeseen ilman näkyvää sairautta. Pentutilassa altistuvat emä, pennut ja ihmiset, ja vastasyntyneiden puolustus on vielä kehittymässä. Raaka-aineiden kylmäketju, käsienpesu, työvälineiden erottelu, pintojen puhdistus, ulosteiden nopea poisto ja sairaiden eläinten tutkiminen ovat siksi osa lisääntymisen ravitsemussuunnitelmaa. (Davies ym. 2019; ESCCAP 2025.)
 
@@ -198,6 +198,8 @@ Anturaniemi, J., Moore, R., Holm, S. & Hielm-Björkman, A. 2026. Dams fed diet w
 
 Asaduzzaman, M. ym. 2026. Longitudinal long-read microbiome profiling in a canine model reveals how age, diet, and birth mode shape gut community dynamics. mSystems 11: e01279-25. DOI: [10.1128/msystems.01279-25](https://doi.org/10.1128/msystems.01279-25).
 
+Bhadra, A., Bhattacharjee, D., Paul, M. & Bhadra, A. 2016. The meat of the matter: a rule of thumb for scavenging dogs? Ethology Ecology & Evolution 28: 427–440. DOI: [10.1080/03949370.2015.1076526](https://doi.org/10.1080/03949370.2015.1076526).
+
 Chastant, S. & Mila, H. 2019. Passive immune transfer in puppies. Animal Reproduction Science 207: 162–170. DOI: [10.1016/j.anireprosci.2019.06.012](https://doi.org/10.1016/j.anireprosci.2019.06.012).
 
 Davies, R. H. ym. 2019. Raw diets for dogs and cats: a review, with particular reference to microbiological hazards. Journal of Small Animal Practice 60: 329–339. DOI: [10.1111/jsap.13000](https://doi.org/10.1111/jsap.13000).
@@ -247,6 +249,8 @@ Mugnier, A. ym. 2020. Low and very low birth weight in puppies: definitions, ris
 Mugnier, A. ym. 2023. Relative impact of birth weight and early growth on neonatal mortality in puppies. Animals 13: 1928. DOI: [10.3390/ani13121928](https://doi.org/10.3390/ani13121928).
 
 Nap, R. C. ym. 1991. Growth and skeletal development in Great Dane pups fed different levels of protein intake. Journal of Nutrition 121(Suppl 11): S107–S113. DOI: [10.1093/jn/121.suppl_11.S107](https://doi.org/10.1093/jn/121.suppl_11.S107).
+
+Wikenros, C. ym. 2023. Scavenging patterns of an inbred wolf population in a landscape with a pulse of human-provided carrion. Ecology and Evolution 13:e10236. DOI: [10.1002/ece3.10236](https://doi.org/10.1002/ece3.10236).
 
 Pilla, R. ym. 2020. Effects of metronidazole on the fecal microbiome and metabolome in healthy dogs. Journal of Veterinary Internal Medicine 34: 1853–1866. DOI: [10.1111/jvim.15871](https://doi.org/10.1111/jvim.15871).
 

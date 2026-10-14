@@ -74,6 +74,8 @@ Yksittäinen hyvä tai huono päivä ei vielä kerro syytä. Toistuva ajallinen 
 
 Äkillinen käytöksen muutos, selvä kipu, jatkuva levottomuus, poikkeava vetäytyminen tai samanaikaiset voimakkaat ruoansulatusoireet ovat syitä selvittää terveydentila eläinlääkärin kanssa. Ruokintapäiväkirja auttaa tutkimuksessa, mutta ei korvaa sitä.
 
+Koiran tausta fakultatiivisena haaskansyöjänä kuuluu suoliston biologiseen kehykseen: koira on elänyt ravinnon ja mikrobialtistuksen vaihtelun keskellä, ei steriilissä ympäristössä. Tätä ei pidä muuttaa väitteeksi, että haaskansyönti tai yksittäinen bakteerialtistus itsessään parantaisi mielialaa tai käyttäytymistä. Suolisto–aivot-akselin vaikutukset riippuvat koko ravinnosta, mikrobiyhteisön toiminnasta, immuunivasteesta, terveydestä ja ympäristöstä. (Wikenros ym. 2023; Bhadra ym. 2016.)
+
 ## Yhteenveto
 
 Suolisto–aivot-akseli:
@@ -92,4 +94,5 @@ Ravitsemus on osa hermoston biologista ympäristöä. Hyvin rakennettu, koiralle
 - Mondo, E. ym. 2020. *Gut microbiome structure and adrenocortical activity in dogs with aggressive and phobic behavioral disorders.* Heliyon 6(1):e03311. https://doi.org/10.1016/j.heliyon.2020.e03311
 - Patel, K. V. ym. 2024. *Impact of acute stress on the canine gut microbiota.* Scientific Reports 14:18897. https://doi.org/10.1038/s41598-024-66652-3
 - Pellowe, S. D. ym. 2025. *Gut microbiota composition is related to anxiety and aggression scores in companion dogs.* Scientific Reports 15:24336. https://doi.org/10.1038/s41598-025-06178-4
-
+- Bhadra, A., Bhattacharjee, D., Paul, M. & Bhadra, A. 2016. *The meat of the matter: a rule of thumb for scavenging dogs?* Ethology Ecology & Evolution 28: 427–440. https://doi.org/10.1080/03949370.2015.1076526
+- Wikenros, C. ym. 2023. *Scavenging patterns of an inbred wolf population in a landscape with a pulse of human-provided carrion.* Ecology and Evolution 13:e10236. https://doi.org/10.1002/ece3.10236

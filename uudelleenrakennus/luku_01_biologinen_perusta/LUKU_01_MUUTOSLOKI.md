@@ -27,3 +27,10 @@ Sisältöön ei tehty muutoksia. Työversioon lisättiin ainoastaan Markdown-ots
 - lukitusta ei avattu
 - `main`-haaraa ei muutettu
 
+## 14.10.2026 — kirjoittajan koko kirjaa koskeva haaskansyöjälinjaus
+
+- Kirjoittajan nimenomaisesta pyynnöstä koiran biologiseen kuvaukseen lisättiin läpi kirjan ajatus siitä, että koira on saalistajan jälkeläisen lisäksi fakultatiivinen haaskansyöjä eli myös raadonsyöjä.
+- Lukuun lisättiin koko kirjan perusmääritelmä koirasta saalistajan jälkeläisenä ja fakultatiivisena haaskansyöjänä eli raadonsyöjänä sekä erotus käyttäytymisekologian ja kiistanalaisen domestikaatiohypoteesin välillä.
+- Linjaus yhdistettiin koiran happamaan mahalaukkuun, pepsiiniin, sappihappoihin, suolen limakalvopuolustukseen ja mikrobiomiin siellä, missä yhteys kuuluu luvun aiheeseen.
+- Samalla säilytettiin turvallisuusraja: biologinen sietokyky ei tarkoita immuniteettia taudinaiheuttajille tai toksiineille eikä lupaa syöttää aidosti mädäntynyttä lihaa.
+- Varhaisia alkuperäislähteitä ei muutettu; lisäys tehtiin palautettuun työversioon ja tutkimuslähteet dokumentoitiin.

@@ -126,3 +126,15 @@ Varhaisessa Drive-lähteessä tämä oli luku 9. Palautetussa rakenteessa se on 
 ## Ehdollinen lukitus
 
 Kirjoittaja hyväksyi luvun 14.10.2026 ehdollisena sillä edellytyksellä, että hygieniaosuuteen lisätään koiran vatsalaukun happamuus, kyky sietää tavanomaista ja osin kohonnuttakin mikrobialtistusta sekä selkeä ero päiväyksen ylittäneen, oikein säilytetyn lihan ja aidosti mädäntyneen lihan välille. Ehto toteutettiin tässä versiossa raakaruokintamyönteisesti mutta tutkimusnäytön rajat säilyttäen. Luku on tämän jälkeen ehdollisesti hyväksytty, valittu ja lukittu.
+
+## 14.10.2026 — koko kirjan haaskansyöjälinjauksen soveltaminen
+
+Kirjoittajan myöhemmän päätöksen perusteella hygieniaosuuteen lisättiin oma alaluku **Saalistajan lisäksi myös fakultatiivinen haaskansyöjä**. Siinä:
+
+- haaskojen hyödyntäminen kuvataan osaksi suden ja koiran ravitsemusekologiaa
+- vapaana elävien koirien haaskojen ja tähteiden hyödyntäminen erotetaan kiistanalaisesta väitteestä, jonka mukaan koko domestikaatio olisi tapahtunut jätekasoilla
+- haaskansyöjätausta yhdistetään vatsahapon ja suoliston puolustuksen tuottamaan sietokykyyn
+- sietokyky erotetaan immuniteetista, oireettomasta bakteerien erittämisestä ja valmiiden toksiinien vaarasta
+- lähteiksi lisättiin Bhadra ym. (2016), Wikenros ym. (2023), Sarkar ym. (2023) ja Serpell (2021).
+
+Muutos vahvistaa luvun raakaruokintamyönteistä biologista kehystä muuttamatta käytännön rajaa: kliinistä steriiliyttä ei tarvita, mutta aidosti mädäntynyttä tai säilytyshistorialtaan epävarmaa lihaa ei anneta.

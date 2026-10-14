@@ -28,6 +28,14 @@ Suomalainen tieto on tärkeää, mutta sitä pitää tulkita oikeassa mittakaava
 
 Hyvä hygienia katkaisee altistusreittejä. Se ei poista jo tuotteessa olevaa mikrobia eikä muuta saastunutta erää puhtaaksi. Siksi turvallisuus alkaa ennen keittiötä: valmistajan jäljitettävyydestä, eränumerosta, ehjästä pakkauksesta, katkeamattomasta kylmäketjusta ja takaisinvetojen seuraamisesta.
 
+### Saalistajan lisäksi myös fakultatiivinen haaskansyöjä
+
+Koiraa ei pidä arvioida vain saaliin kaataneena petona, joka söisi luonnossa aina vasta tapetun ja mikrobimäärältään vähäisen aterian. Susi hyödyntää metsästyksen rinnalla haaskoja, ja vapaana elävien koirien ravinnonhankinta perustuu monissa ihmisympäristöissä suurelta osin tähteiden, jätteiden ja satunnaisen eläinperäisen ravinnon etsimiseen. Koira on siten myös **fakultatiivinen haaskansyöjä eli raadonsyöjä**: haaskojen hyödyntäminen kuuluu sen ruokailukäyttäytymiseen, vaikka se ei ole raadosta riippuvainen erikoistunut haaskansyöjä. (Wikenros ym. 2023; Bhadra ym. 2016; Sarkar ym. 2023.)
+
+On eri väite sanoa, että haaskansyönti kuuluu koiran ja sen esivanhempien ravitsemusekologiaan, kuin väittää koko domestikaation tapahtuneen varmasti ihmisasutusten jätekasoilla. Jälkimmäinen kommensaalinen domestikaatiomalli on edelleen kiistanalainen. Tässä kirjassa haaskansyöjätaustaa käytetään selittämään koiran todellista ravinnonhankinnan joustavuutta, ei rakentamaan ratkaistuksi esitettyä alkuperätarinaa. (Serpell 2021.)
+
+Haaskansyöjätausta ja ruoansulatuspuolustus selittävät yhdessä, miksi tavallinen bakteerialtistus ei automaattisesti sairastuta tervettä koiraa. Ne eivät tarkoita, että koira olisi immuuni salmonellalle, botuliinitoksiinille tai muille taudinaiheuttajille, että oireettomuus estäisi bakteerien erittymisen tai että aidosti mädäntynyt liha muuttuisi turvalliseksi.
+
 ### Koiran vatsahappo on todellinen suojatekijä
 
 Koiran ruoansulatus ei ole steriili putki, eikä raakaruokinnan tavoitteena ole kliinisesti puhdas annos. Terve koira on biologisesti varustautunut käsittelemään lihan, saaliin ja ympäristön mukana tulevaa tavanomaista mikrobialtistusta. Mahalaukun suolahappo ja pepsiini muodostavat ensimmäisen voimakkaan esteen, jota täydentävät muun muassa sappihapot, suolen limakalvopuolustus ja suolistomikrobisto.
@@ -168,6 +176,7 @@ Kriittisesti toteutettu raakaruokinta ei nojaa ajatukseen, että ”luonto hoita
 
 - Barash, N. R. ym. 2022. *Outcomes of esophageal and gastric bone foreign bodies in dogs.* Journal of Veterinary Internal Medicine 36:500–507. https://doi.org/10.1111/jvim.16383
 - Bernaquez, I. ym. 2025. *Dogs fed raw meat-based diets are vectors of drug-resistant Salmonella infection in humans.* Communications Medicine 5:214. https://doi.org/10.1038/s43856-025-00919-2
+- Bhadra, A., Bhattacharjee, D., Paul, M. & Bhadra, A. 2016. *The meat of the matter: a rule of thumb for scavenging dogs?* Ethology Ecology & Evolution 28: 427–440. https://doi.org/10.1080/03949370.2015.1076526
 - Choi, B., Kim, S. & Jang, G. 2023. *Nutritional evaluation of new alternative types of dog foods including raw and cooked homemade-style diets.* Journal of Veterinary Science 24:e67. https://doi.org/10.4142/jvs.23037
 - Davies, R. H., Lawes, J. R. & Wales, A. D. 2019. *Raw diets for dogs and cats: a review, with particular reference to microbiological hazards.* Journal of Small Animal Practice 60:329–339. https://doi.org/10.1111/jsap.13000
 - Dillitzer, N., Becker, N. & Kienzle, E. 2011. *Intake of minerals, trace elements and vitamins in bone and raw food rations in adult dogs.* British Journal of Nutrition 106(S1):S53–S56. https://doi.org/10.1017/S0007114511002765
@@ -177,11 +186,14 @@ Kriittisesti toteutettu raakaruokinta ei nojaa ajatukseen, että ”luonto hoita
 - Mahar, K. M. ym. 2012. *Gastric pH and gastric residence time in fasted and fed conscious beagle dogs using the Bravo pH system.* Journal of Pharmaceutical Sciences 101:2439–2448. https://doi.org/10.1002/jps.23159
 - Marx, F. R. ym. 2016. *Raw beef bones as chewing items to reduce dental calculus in Beagle dogs.* Australian Veterinary Journal 94:18–23. https://doi.org/10.1111/avj.12394
 - Moravszki, L. ym. 2025. *Assessment of mineral adequacy in preprepared raw dog foods labeled as complete.* Scientific Reports 15:43447. https://doi.org/10.1038/s41598-025-27388-w
+- Wikenros, C. ym. 2023. *Scavenging patterns of an inbred wolf population in a landscape with a pulse of human-provided carrion.* Ecology and Evolution 13:e10236. https://doi.org/10.1002/ece3.10236
 - Nowak, L., van Loon, S., Hagen-Plantinga, E. & Bergknut, N. 2024. *A case series of four dogs presenting with neurological deficits due to suspected nutritional secondary hyperparathyroidism after being fed an exclusive diet of raw meat.* Animals 14:1783. https://doi.org/10.3390/ani14121783
 - Pinto, C. F. D. ym. 2020. *Evaluation of teeth injuries in Beagle dogs caused by autoclaved beef bones used as a chewing item to remove dental calculus.* PLOS ONE 15:e0228146. https://doi.org/10.1371/journal.pone.0228146
 - Ribeiro-Almeida, M. ym. 2024. *Raw meat-based diet for pets: a neglected source of human exposure to Salmonella and pathogenic Escherichia coli clones carrying mcr, Portugal, September 2019 to January 2020.* Eurosurveillance 29:2300561. https://doi.org/10.2807/1560-7917.ES.2024.29.18.2300561
 - Runesvärd, E. ym. 2020. *Presence of pathogenic bacteria in faeces from dogs fed raw meat-based diets or dry kibble.* Veterinary Record 187:e71. https://doi.org/10.1136/vr.105644
 - Sagawa, K. ym. 2009. *Fed and fasted gastric pH and gastric residence time in conscious beagle dogs.* Journal of Pharmaceutical Sciences 98:2494–2500. https://doi.org/10.1002/jps.21602
+- Sarkar, R. ym. 2023. *Eating smart: Free-ranging dogs follow an optimal foraging strategy while scavenging in groups.* Frontiers in Ecology and Evolution 11: 1099543. https://doi.org/10.3389/fevo.2023.1099543
+- Serpell, J. A. 2021. *Commensalism or Cross-Species Adoption? A Critical Review of Theories of Wolf Domestication.* Frontiers in Veterinary Science 8: 662370. https://doi.org/10.3389/fvets.2021.662370
 - Thompson, H. C. ym. 2012. *Esophageal foreign bodies in dogs: 34 cases (2004–2009).* Journal of Veterinary Emergency and Critical Care 22:253–261. https://doi.org/10.1111/j.1476-4431.2011.00700.x
 - Vecchiato, C. G. ym. 2022. *From nutritional adequacy to hygiene quality: a detailed assessment of commercial raw pet-food for dogs and cats.* Animals 12:2395. https://doi.org/10.3390/ani12182395
 - Viegas, F. M. ym. 2026. *Botulism in a dog fed a raw meat-based diet: a case report.* Microorganisms 14:192. https://doi.org/10.3390/microorganisms14010192

@@ -66,3 +66,11 @@ Tila: **TYÖVERSIO – ODOTTAA KIRJOITTAJAN HYVÄKSYNTÄÄ**
 ## Seuraava päätös
 
 Kirjoittaja arvioi tiedoston `LUKU_11_PALAUTETTU_TYOVERSIO.md`. Hyväksynnän jälkeen luvulle laaditaan erillinen lukitustiedosto ja hyväksyttyjen osien rekisteri päivitetään. Muutoksia hyväksyttyyn julkaisutekstiin ei tehdä ennen kirjoittajan päätöstä.
+
+## 14.10.2026 — kirjoittajan koko kirjaa koskeva haaskansyöjälinjaus
+
+- Kirjoittajan nimenomaisesta pyynnöstä koiran biologiseen kuvaukseen lisättiin läpi kirjan ajatus siitä, että koira on saalistajan jälkeläisen lisäksi fakultatiivinen haaskansyöjä eli myös raadonsyöjä.
+- Pentuehygienian kohtaan lisättiin haaskansyöjätausta, mutta vastasyntyneiden kehittymätön puolustus säilytettiin selvästi erillisenä riskitekijänä.
+- Linjaus yhdistettiin koiran happamaan mahalaukkuun, pepsiiniin, sappihappoihin, suolen limakalvopuolustukseen ja mikrobiomiin siellä, missä yhteys kuuluu luvun aiheeseen.
+- Samalla säilytettiin turvallisuusraja: biologinen sietokyky ei tarkoita immuniteettia taudinaiheuttajille tai toksiineille eikä lupaa syöttää aidosti mädäntynyttä lihaa.
+- Varhaisia alkuperäislähteitä ei muutettu; lisäys tehtiin palautettuun työversioon ja tutkimuslähteet dokumentoitiin.

@@ -70,7 +70,7 @@ Tila: **EHDOLLISESTI HYVÄKSYTTY JA LUKITTU 14.10.2026**
 - neljän pelkkää raakaa lihaa syöneen koiran ravitsemuksellisen sekundaarisen hyperparatyreoosin tapaussarja
 - kaksi luuvierasesineiden kliinistä tapaussarjaa
 - pienet luun hammaskiveä vähentävää vaikutusta tarkastelleet beagle-tutkimukset
-- yhdeksäntoista keskeistä vertaisarvioitua lähdettä sekä FEDIAFin ja Ruokaviraston täydentävät ohjeet
+- kaksikymmentäkolme keskeistä vertaisarvioitua lähdettä sekä FEDIAFin ja Ruokaviraston täydentävät ohjeet
 
 ## Rakenteelliset lisäykset
 
@@ -105,3 +105,11 @@ Tila: **EHDOLLISESTI HYVÄKSYTTY JA LUKITTU 14.10.2026**
 ## Lukituspäätös
 
 Kirjoittaja hyväksyi tiedoston `LUKU_10_PALAUTETTU_TYOVERSIO.md` ehdollisesti 14.10.2026. Hyväksymisehto toteutettiin lisäämällä vatsahappoa, mikrobisietoa, päiväyksiä ja pilaantumisen rajaa koskeva kokonaisuus. Tiedosto on valittu tulevaan `MASTER_PALAUTETTU.md`-versioon lukuna 10. Muutoksia tähän julkaisutekstiin tehdään vain kirjoittajan erillisellä päätöksellä.
+
+## 14.10.2026 — kirjoittajan koko kirjaa koskeva haaskansyöjälinjaus
+
+- Kirjoittajan nimenomaisesta pyynnöstä koiran biologiseen kuvaukseen lisättiin läpi kirjan ajatus siitä, että koira on saalistajan jälkeläisen lisäksi fakultatiivinen haaskansyöjä eli myös raadonsyöjä.
+- Lukuun lisättiin oma osio koirasta fakultatiivisena haaskansyöjänä eli raadonsyöjänä, vatsahapon ja suoliston puolustuksen mekanismeista sekä oireettoman bakteerierityksen ja toksiinien turvallisuusrajasta.
+- Linjaus yhdistettiin koiran happamaan mahalaukkuun, pepsiiniin, sappihappoihin, suolen limakalvopuolustukseen ja mikrobiomiin siellä, missä yhteys kuuluu luvun aiheeseen.
+- Samalla säilytettiin turvallisuusraja: biologinen sietokyky ei tarkoita immuniteettia taudinaiheuttajille tai toksiineille eikä lupaa syöttää aidosti mädäntynyttä lihaa.
+- Varhaisia alkuperäislähteitä ei muutettu; lisäys tehtiin palautettuun työversioon ja tutkimuslähteet dokumentoitiin.

@@ -23,6 +23,10 @@ Mahalaukku ei ole täysin steriili, vaikka sen happamuus on voimakas. Se toimii 
 
 Tämä on tärkeää raakaruokinnan yhteydessä. Terveen koiran voimakas mahahappo on osa sen luonnollista puolustusjärjestelmää. Mahahappo ei työskentele yksin, vaan yhdessä sapen, ruoansulatusentsyymien, suolen liikkeen, limakalvon ja mikrobiston kanssa.
 
+Koiran ravitsemushistoria auttaa asettamaan tämän puolustuksen oikeaan yhteyteen. Koira on saalistajan jälkeläinen mutta myös fakultatiivinen haaskansyöjä: sekä susi että vapaana elävät koirat hyödyntävät tilanteen mukaan haaskoja tai ihmisperäisiä tähteitä. Siksi ruoan mukana tuleva vaihteleva mikrobikuorma ei ole koiran ruoansulatukselle biologisesti vieras ilmiö. Mahalaukun happamuus, pepsiini, sappihapot, suolen liike, limakalvon immuunipuolustus ja mikrobiomi muodostavat peräkkäisiä suojakerroksia. (Wikenros ym. 2023; Bhadra ym. 2016; Sagawa ym. 2009; Mahar ym. 2012.)
+
+Suojakerrokset eivät steriloi ruokaa. Osa bakteereista voi selvitä ruoansulatuskanavan läpi, ja terveeltä näyttävä koira voi erittää niitä ulosteeseen. Fakultatiivinen haaskansyönti selittää sietokyvyn taustaa, mutta se ei tarkoita immuniteettia mädäntyneelle lihalle, suurelle mikrobimäärälle tai valmiille bakteeritoksiineille. (Finley ym. 2007.)
+
 ## 4.3 Haiman entsyymit – tarkka kemiallinen orkesteri
 
 Kun ruokamassa siirtyy mahalaukusta ohutsuoleen, haima vapauttaa ruoansulatusentsyymejä:
@@ -67,3 +71,10 @@ Koiran ruoansulatusjärjestelmä:
 
 Koiran ruoansulatus toimii osana hermoston, hormonien, immuunipuolustuksen ja suolistomikrobiston muodostamaa kokonaisuutta. Seuraavassa luvussa tarkastellaan lähemmin tätä näkymätöntä mikrobimaailmaa.
 
+## Läpikulkevan biologisen linjauksen lähteet
+
+- Bhadra, A., Bhattacharjee, D., Paul, M. & Bhadra, A. 2016. *The meat of the matter: a rule of thumb for scavenging dogs?* Ethology Ecology & Evolution 28: 427–440. https://doi.org/10.1080/03949370.2015.1076526
+- Finley, R. ym. 2007. *The risk of salmonellae shedding by dogs fed Salmonella-contaminated commercial raw food diets.* Canadian Veterinary Journal 48: 69–75. https://pubmed.ncbi.nlm.nih.gov/17310625/
+- Mahar, K. M., Portelli, S., Coatney, R. & Chen, E. P. 2012. *Gastric pH and gastric residence time in fasted and fed conscious beagle dogs using the Bravo pH system.* Journal of Pharmaceutical Sciences 101: 2439–2448. https://doi.org/10.1002/jps.23159
+- Wikenros, C. ym. 2023. *Scavenging patterns of an inbred wolf population in a landscape with a pulse of human-provided carrion.* Ecology and Evolution 13:e10236. https://doi.org/10.1002/ece3.10236
+- Sagawa, K., Li, F., Liese, R. & Sutton, S. C. 2009. *Fed and fasted gastric pH and gastric residence time in conscious beagle dogs.* Journal of Pharmaceutical Sciences 98: 2494–2500. https://doi.org/10.1002/jps.21602

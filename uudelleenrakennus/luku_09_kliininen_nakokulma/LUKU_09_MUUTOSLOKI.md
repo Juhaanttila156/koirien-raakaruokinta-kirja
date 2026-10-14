@@ -74,3 +74,10 @@ Tila: **HYVÄKSYTTY JA LUKITTU 14.10.2026**
 
 Hyväksytty julkaisuteksti on lukittu. Muutoksia siihen tehdään vain kirjoittajan erillisellä päätöksellä.
 
+## 14.10.2026 — kirjoittajan koko kirjaa koskeva haaskansyöjälinjaus
+
+- Kirjoittajan nimenomaisesta pyynnöstä koiran biologiseen kuvaukseen lisättiin läpi kirjan ajatus siitä, että koira on saalistajan jälkeläisen lisäksi fakultatiivinen haaskansyöjä eli myös raadonsyöjä.
+- Lukuun lisättiin haaskansyöjätaustan kliininen merkitys sekä pentujen, iäkkäiden, sairaiden ja immuunipuutteisten koirien yksilöllinen riskirajaus.
+- Linjaus yhdistettiin koiran happamaan mahalaukkuun, pepsiiniin, sappihappoihin, suolen limakalvopuolustukseen ja mikrobiomiin siellä, missä yhteys kuuluu luvun aiheeseen.
+- Samalla säilytettiin turvallisuusraja: biologinen sietokyky ei tarkoita immuniteettia taudinaiheuttajille tai toksiineille eikä lupaa syöttää aidosti mädäntynyttä lihaa.
+- Varhaisia alkuperäislähteitä ei muutettu; lisäys tehtiin palautettuun työversioon ja tutkimuslähteet dokumentoitiin.

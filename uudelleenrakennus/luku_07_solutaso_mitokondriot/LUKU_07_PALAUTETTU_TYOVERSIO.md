@@ -62,6 +62,8 @@ Minulle ratkaisevaa ei ollut se, että etiketissä luki vain kalaöljy. Halusin 
 
 Tämä on minun ja Diegon pitkäaikainen kokemuksemme, ei yleinen annostusohje eikä todiste yksittäisestä solutason vaikutuksesta. Se kertoo kuitenkin siitä, miten suhtauduin ruokintaan: rasvan määrän lisäksi halusin ymmärtää sen laadun ja biologisen tehtävän.
 
+Koira on evolutiivisessa ja ekologisessa mielessä myös fakultatiivinen haaskansyöjä. Tämä muistuttaa, että sen solujen aineenvaihdunta on toiminut vaihtelevan eläinperäisen ravinnon ympäristössä eikä täysin yhdenmukaistettujen aterioiden varassa. Tausta ei kuitenkaan yksin todista tiettyä raakaruokareseptiä solutasolla paremmaksi: mitokondriot ja tulehdusjärjestelmät vastaavat lopulta todelliseen energia-, rasvahappo-, aminohappo- ja mikroravinnekoostumukseen. (Wikenros ym. 2023; Bhadra ym. 2016.)
+
 ## 7.8 Mitä tästä seuraa käytännössä?
 
 - Rasva on sekä energianlähde että solujen rakennusaine.
@@ -91,4 +93,5 @@ Rasvahapot vaikuttavat solukalvoihin, energiantuotanto liittyy reaktiivisten hap
 - Pacheco, G. F. E. ym. 2018. *Effects of the consumption of polyunsaturated fatty acids on the oxidative status of adult dogs.* Journal of Animal Science 96(11):4590–4598. https://doi.org/10.1093/jas/sky313
 - Jimenez, A. G., Winward, J. D., Walsh, K. E. & Champagne, A. M. 2020. *Effects of membrane fatty acid composition on cellular metabolism and oxidative stress in dermal fibroblasts from small and large breed dogs.* Journal of Experimental Biology 223:jeb221804. https://doi.org/10.1242/jeb.221804
 - Holm, S. V. ym. 2025. *The effect of a kibble diet versus a raw meat-based diet on energy metabolism biomarkers in dogs.* The Veterinary Journal 314:106462. https://doi.org/10.1016/j.tvjl.2025.106462
-
+- Bhadra, A., Bhattacharjee, D., Paul, M. & Bhadra, A. 2016. *The meat of the matter: a rule of thumb for scavenging dogs?* Ethology Ecology & Evolution 28: 427–440. https://doi.org/10.1080/03949370.2015.1076526
+- Wikenros, C. ym. 2023. *Scavenging patterns of an inbred wolf population in a landscape with a pulse of human-provided carrion.* Ecology and Evolution 13:e10236. https://doi.org/10.1002/ece3.10236

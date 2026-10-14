@@ -13,3 +13,12 @@ Tämä tiedosto kokoaa keskusteluissa varmasti vahvistetut linjaukset. Se ei ole
 - GitHubissa Markdown on ensisijainen käsiteltävä muoto, mutta alkuperäistiedostojen tiedot ja sijainnit säilytetään.
 - Kieltä korjattaessa keskitytään suomen kieleen eikä muuteta sisältöä tai näkökulmaa ilman erillistä päätöstä.
 
+## 14.10.2026 — koira myös haaskansyöjänä eli raadonsyöjänä
+
+- Koko kirjassa koiraa kuvataan saalistajan jälkeläisen lisäksi fakultatiivisena haaskansyöjänä eli myös raadonsyöjänä.
+- Näkökulma yhdistetään koiran happamaan mahalaukkuun ja muuhun ruoansulatuspuolustukseen: pepsiiniin, sappihappoihin, suolen liikkeeseen, limakalvopuolustukseen ja suolistomikrobistoon.
+- Terve koira voi käsitellä tavanomaista ja joskus huomattavaakin mikrobialtistusta ilman oireita, joten raakaruoka ei tarvitse kliinistä steriiliyttä.
+- Oireettomuus ei kuitenkaan tarkoita, että kaikki bakteerit tuhoutuisivat; koira voi erittää taudinaiheuttajia.
+- Haaskansyöjätaustaa ei käytetä perusteluna mädäntyneen lihan, katkenneen kylmäketjun, takaisinvedetyn tuotteen tai valmiita toksiineja sisältävän ruoan syöttämiselle.
+- Koiran ja suden haaskojen hyödyntäminen esitetään käyttäytymisekologisena havaintona. Väite koiran yksinomaisesta jätekasadomestikaatiosta esitetään vain kiistanalaisena hypoteesina.
+- Linjaus sovitetaan jokaiseen nykyiseen ja tulevaan lukuun luvun oman aiheen kautta ilman tarpeetonta saman kappaleen toistoa.

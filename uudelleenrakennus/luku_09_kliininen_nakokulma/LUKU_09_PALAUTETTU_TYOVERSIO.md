@@ -6,6 +6,8 @@ Tästä yhteydestä ei kuitenkaan seuraa, että jokainen kutina, pehmeä uloste 
 
 Ravinto on osa kliinistä kokonaisuutta. Se ei korvaa diagnoosia.
 
+Kliinisessä arvioinnissa on hyvä tunnistaa myös koiran tausta fakultatiivisena haaskansyöjänä. Terve koira voi happaman mahalaukun ja suoliston muiden puolustuskerrosten ansiosta käsitellä tavanomaista mikrobialtistusta ilman oireita. Sietokyky ei silti ole kaikilla sama: pentu, hyvin iäkäs, immuunipuutteinen tai ruoansulatuskanavan sairaudesta kärsivä koira voi reagoida altistukseen eri tavalla, ja oireetonkin koira voi erittää taudinaiheuttajia. Biologinen tausta kuuluu siis riskinarvioon, mutta ei korvaa yksilöllistä diagnoosia. (Bhadra ym. 2016; Mahar ym. 2012; Finley ym. 2007.)
+
 ## 9.1 Yksi näkyvä oire ei vielä nimeä syytä
 
 Ruokinnan vaikutusta arvioitaessa tärkein ensimmäinen taito on erottaa havainto ja selitys toisistaan.
@@ -125,6 +127,10 @@ Diegon elämässä tämä tarkoitti sitä, että hänen viestejään katsottiin 
 - Sofou, E. I. ym. 2024. *Establishment of clinical criteria for the diagnosis of adverse food reactions in dogs with atopic dermatitis.* Veterinary Dermatology 35:418–431. https://doi.org/10.1111/vde.13247
 - Vuori, K. A. ym. 2023. *The effect of puppyhood and adolescent diet on the incidence of chronic enteropathy in dogs later in life.* Scientific Reports 13:1830. https://doi.org/10.1038/s41598-023-27866-z
 - Wang, S. ym. 2019. *Diet-induced remission in chronic enteropathy is associated with altered microbial community structure and synthesis of secondary bile acids.* Microbiome 7:126. https://doi.org/10.1186/s40168-019-0740-4
+
+- Bhadra, A., Bhattacharjee, D., Paul, M. & Bhadra, A. 2016. *The meat of the matter: a rule of thumb for scavenging dogs?* Ethology Ecology & Evolution 28: 427–440. https://doi.org/10.1080/03949370.2015.1076526
+- Finley, R. ym. 2007. *The risk of salmonellae shedding by dogs fed Salmonella-contaminated commercial raw food diets.* Canadian Veterinary Journal 48: 69–75. https://pubmed.ncbi.nlm.nih.gov/17310625/
+- Mahar, K. M., Portelli, S., Coatney, R. & Chen, E. P. 2012. *Gastric pH and gastric residence time in fasted and fed conscious beagle dogs using the Bravo pH system.* Journal of Pharmaceutical Sciences 101: 2439–2448. https://doi.org/10.1002/jps.23159
 
 ## Täydentävä ravitsemusohje
 

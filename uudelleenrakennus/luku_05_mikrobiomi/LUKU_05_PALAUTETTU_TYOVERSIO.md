@@ -23,6 +23,8 @@ Mikrobisto osallistuu muun muassa:
 
 Suolisto on yksi immuunijärjestelmän tärkeimmistä toimintaympäristöistä. Limakalvo joutuu jatkuvasti erottamaan toisistaan ravinnon, hyödylliset ja harmittomat mikrobit sekä todelliset uhkat. Tämä tekee suolistosta ruoansulatuksen lisäksi keskeisen puolustus- ja viestintäjärjestelmän.
 
+Koiran ekologiseen taustaan kuuluva fakultatiivinen haaskansyönti merkitsee, että ruoansulatuskanava on kohdannut ravinnon mukana vaihtelevaa mikrobialtistusta. Mahahappo, sappihapot, suolen limakalvo, immuunijärjestelmä ja residentti mikrobisto muodostavat yhdessä puolustusjärjestelmän, eivät steriloivaa putkea. Tavallinen mikrobialtistus voi jäädä terveellä koiralla oireettomaksi, mutta jotkin bakteerit voivat silti kulkea ruoansulatuskanavan läpi ja erittyä ulosteeseen. Siksi koiran hyvä sietokyky ja ihmisten hygienia ovat kaksi eri kysymystä. (Bhadra ym. 2016; Mahar ym. 2012; Finley ym. 2007.)
+
 ## 5.3 Varhainen elämä ja ohjelmoituminen
 
 Pennun mikrobiomi alkaa rakentua syntymän ja varhaisen ympäristöaltistuksen yhteydessä. Siihen vaikuttavat emä, maito, ympäristö, ravinto, lääkitykset ja muut mikrobit.
@@ -88,6 +90,10 @@ Ravinto vaikuttaa mikrobiekosysteemiin. Mikrobiston muutos ei yksin kerro hyvä�
 - Sandri ym. 2017
 - Schmidt ym. 2018
 - Wernimont ym. 2020
+
+- Bhadra ym. 2016. *The meat of the matter: a rule of thumb for scavenging dogs?* https://doi.org/10.1080/03949370.2015.1076526
+- Finley ym. 2007. *The risk of salmonellae shedding by dogs fed Salmonella-contaminated commercial raw food diets.* https://pubmed.ncbi.nlm.nih.gov/17310625/
+- Mahar ym. 2012. *Gastric pH and gastric residence time in fasted and fed conscious beagle dogs using the Bravo pH system.* https://doi.org/10.1002/jps.23159
 
 Lähdeviitteiden täydelliset bibliografiset tiedot tarkistetaan ennen lopullista julkaisua.
 

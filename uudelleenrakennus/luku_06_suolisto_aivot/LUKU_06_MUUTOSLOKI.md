@@ -46,3 +46,11 @@ Tila: **ODOTTAA KIRJOITTAJAN HYVÄKSYNTÄÄ**
 ## Ei poistettu
 
 Varhaiset alkuperäistekstit, aikaisempi Nature Borealis -luku, nykyisen masterin hajallaan oleva aineisto ja Diegon kokemuksia koskeva lähdemuistio säilyvät muuttamattomina omissa tiedostoissaan.
+
+## 14.10.2026 — kirjoittajan koko kirjaa koskeva haaskansyöjälinjaus
+
+- Kirjoittajan nimenomaisesta pyynnöstä koiran biologiseen kuvaukseen lisättiin läpi kirjan ajatus siitä, että koira on saalistajan jälkeläisen lisäksi fakultatiivinen haaskansyöjä eli myös raadonsyöjä.
+- Lukuun lisättiin haaskansyöjätausta suoliston biologiseksi kehykseksi, mutta rajattiin pois perusteeton päätelmä suorasta käyttäytymishyödystä.
+- Linjaus yhdistettiin koiran happamaan mahalaukkuun, pepsiiniin, sappihappoihin, suolen limakalvopuolustukseen ja mikrobiomiin siellä, missä yhteys kuuluu luvun aiheeseen.
+- Samalla säilytettiin turvallisuusraja: biologinen sietokyky ei tarkoita immuniteettia taudinaiheuttajille tai toksiineille eikä lupaa syöttää aidosti mädäntynyttä lihaa.
+- Varhaisia alkuperäislähteitä ei muutettu; lisäys tehtiin palautettuun työversioon ja tutkimuslähteet dokumentoitiin.

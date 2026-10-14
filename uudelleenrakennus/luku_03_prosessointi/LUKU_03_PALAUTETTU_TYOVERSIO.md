@@ -6,6 +6,8 @@ Tämä ei ole pieni yksityiskohta, vaan yksi koko ruokintakeskustelun ytimistä.
 
 Tämä luku ei väitä, että jokainen teollinen koiranruoka olisi automaattisesti huono tai että jokainen raakaruokavalio olisi automaattisesti parempi. Sen tarkoitus on tarkastella yhtä usein sivuutettua asiaa tutkimuspohjaisesti: mitä voimakas prosessointi voi tehdä lihalle, rasvoille, aminohapoille ja muille ravitsemuksellisille ominaisuuksille.
 
+Koiran evolutiiviseen ja ekologiseen taustaan kuuluu myös fakultatiivinen haaskansyönti. Sen historiallinen ravinto ei ole ollut steriiliä, teollisesti yhdenmukaista tai aina vasta kaadettua. Tämä tekee tuoreesta ja kuumentamattomasta eläinperäisestä ravinnosta koiralle biologisesti normaalin vaihtoehdon. Päätelmä ei kuitenkaan ole, että mädäntynyt liha olisi vaaratonta tai että jokainen prosessointi olisi haitallista: hapan mahalaukku ja suoliston puolustus pienentävät mikrobialtistuksen seurauksia, mutta eivät poista kaikkia taudinaiheuttajia tai niiden muodostamia toksiineja. (Bhadra ym. 2016; Mahar ym. 2012; Finley ym. 2007.)
+
 ## 3.1 Ekstruusio, kuivaus ja korkea lämpö
 
 Kuivaruoka on käytännössä teknologinen tuote. Sen etuina ovat pitkä säilyvyys, helppo varastointi ja tasalaatuinen rakenne. Näiden etujen hinta on kuitenkin se, että ruoka etääntyy alkuperäisestä eläinperäisestä raaka-aineesta.
@@ -58,3 +60,8 @@ Teollinen valmistus tekee ruoasta säilyvän ja tasalaatuisen tuotteen, mutta sa
 
 Vähän käsitellyn, tunnistettavan ruoan vahvuus on läpinäkyvyydessä. Kun omistaja tuntee raaka-aineet ja rakentaa ruokavalion huolellisesti, hän tietää paljon tarkemmin, mitä koiran kuppiin päätyy.
 
+## Läpikulkevan biologisen linjauksen lähteet
+
+- Bhadra, A., Bhattacharjee, D., Paul, M. & Bhadra, A. 2016. *The meat of the matter: a rule of thumb for scavenging dogs?* Ethology Ecology & Evolution 28: 427–440. https://doi.org/10.1080/03949370.2015.1076526
+- Finley, R. ym. 2007. *The risk of salmonellae shedding by dogs fed Salmonella-contaminated commercial raw food diets.* Canadian Veterinary Journal 48: 69–75. https://pubmed.ncbi.nlm.nih.gov/17310625/
+- Mahar, K. M., Portelli, S., Coatney, R. & Chen, E. P. 2012. *Gastric pH and gastric residence time in fasted and fed conscious beagle dogs using the Bravo pH system.* Journal of Pharmaceutical Sciences 101: 2439–2448. https://doi.org/10.1002/jps.23159

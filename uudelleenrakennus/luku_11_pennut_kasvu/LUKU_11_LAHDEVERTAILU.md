@@ -81,3 +81,7 @@ Luvun 10 linja tuotiin johdonmukaisesti myös tähän hygieniaosuuteen: terveen 
 ## Numerointi
 
 Varhaisessa Drive-lähteessä tämä oli luku 11. Myöhemmissä kokonaisissa kirjaversioissa vastaava aineisto oli luku 15. Palautetussa rakenteessa se on jälleen luku 11, koska varhaisen tieteellisen lukusarjan numerointi on palautettu ja teollista prosessointia käsittelevä luku on jo sijoitettu omalle paikalleen.
+
+## 14.10.2026 — koko kirjan haaskansyöjälinjauksen ennakkolisäys
+
+Ennen kirjoittajan myöhempää luvun 11 katselmusta pentuehygienian kohtaan lisättiin koko kirjaa koskeva biologinen lähtökohta: koira on saalistajan jälkeläisen lisäksi fakultatiivinen haaskansyöjä. Lisäys ei muuta pentueympäristön korkeampaa hygieniavaatimusta, koska vastasyntyneiden puolustus on vasta kehittymässä. Lähteiksi lisättiin Bhadra ym. (2016) ja Wikenros ym. (2023).

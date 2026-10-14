@@ -6,6 +6,8 @@ Epigenetiikka tarkoittaa geenien toimintaa sääteleviä mekanismeja, jotka eiv�
 
 Ruoka ei siis muuta koiran perimää toiseksi. Se voi kuitenkin vaikuttaa siihen biologiseen ympäristöön, jossa perimä toimii.
 
+Koiran ravitsemushistoriaan kuuluu saalistamisen lisäksi fakultatiivinen haaskansyönti ja ihmisympäristöjen vaihtelevien ravintolähteiden hyödyntäminen. Tämä on evolutiivista ja ekologista taustaa, ei sama asia kuin yksilön elinaikana tapahtuva epigeneettinen säätely. Haaskojen ja tähteiden hyödyntäminen voi auttaa ymmärtämään koiran ravitsemuksellista joustavuutta, mutta siitä ei voi päätellä, että mikä tahansa raakaruoka aiheuttaisi automaattisesti hyödyllisiä geenivasteita. (Wikenros ym. 2023; Bhadra ym. 2016; Serpell 2021.)
+
 ## 8.1 DNA ja epigenetiikka eivät ole sama asia
 
 DNA:n emäsjärjestys on koiran perimän varsinainen koodi. Epigenetiikka vaikuttaa siihen, kuinka helposti solun koneisto pääsee lukemaan tätä koodia.
@@ -100,4 +102,6 @@ Varhaisen Drive-version ydinajatus säilyy: ravinto ei muuta koiran DNA-sekvenss
 - Vuori, K. A. ym. 2023. *The effect of puppyhood and adolescent diet on the incidence of chronic enteropathy in dogs later in life.* Scientific Reports 13:1830. https://doi.org/10.1038/s41598-023-27866-z
 - Hemida, M. B. M. ym. 2023. *Early life programming by diet can play a role in risk reduction of otitis later in dogs' life.* Frontiers in Veterinary Science 10:1186131. https://doi.org/10.3389/fvets.2023.1186131
 - Chen, A., Guo, W., Krumbeck, J. A., Su, D., Michels, V. & Yang, X. 2026. *Minimally processed, human-grade diet alters canine epigenetic ageing: Results from a pilot study.* Veterinary Record Open 13:e70047. https://doi.org/10.1002/vro2.70047
-
+- Bhadra, A., Bhattacharjee, D., Paul, M. & Bhadra, A. 2016. *The meat of the matter: a rule of thumb for scavenging dogs?* Ethology Ecology & Evolution 28: 427–440. https://doi.org/10.1080/03949370.2015.1076526
+- Wikenros, C. ym. 2023. *Scavenging patterns of an inbred wolf population in a landscape with a pulse of human-provided carrion.* Ecology and Evolution 13:e10236. https://doi.org/10.1002/ece3.10236
+- Serpell, J. A. 2021. *Commensalism or Cross-Species Adoption? A Critical Review of Theories of Wolf Domestication.* Frontiers in Veterinary Science 8: 662370. https://doi.org/10.3389/fvets.2021.662370
