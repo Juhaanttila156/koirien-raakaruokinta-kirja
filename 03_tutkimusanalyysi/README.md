@@ -33,6 +33,11 @@ Kahdessa analyysierässä on nyt tarkastettu yhteensä 20 vertaisarvioitua lähd
 - [Muut tieteelliset lähteet, vaihe 2](03_muut_tieteelliset_lahteet_vaihe_2.md)
 - [DOI-tunnisteellisten julkaisujen työrekisteri](04_doi_tutkimusehdokkaiden_rekisteri.md)
 - [Vertaisarvioidut tutkimukset, erä 2: mikrobiologinen turvallisuus ja mikrobilääkeresistenssi](05_vertaisarvioidut_mikrobiologinen_turvallisuus_era_2.md)
+- [Rahoittaja, tilaaja ja tutkimuksen tarkoitus – koontirekisteri](06_rahoittaja_tilaaja_ja_tutkimuksen_tarkoitus.md)
+
+## Ensisijainen tarkastelukulma
+
+Projektin ydinkysymykset ovat jokaisesta tutkimuksesta: **rahoittaja, tilaaja tai toimeksiantaja sekä tutkimuksen alkuperäinen tarkoitus**. Menetelmä- ja tulosanalyysi tukee näiden tietojen tulkintaa, mutta ei korvaa niitä. Nopein koonti löytyy [rahoittaja–tilaaja–tarkoitusrekisteristä](06_rahoittaja_tilaaja_ja_tutkimuksen_tarkoitus.md).
 
 ## Tulkinnan perussääntö
 
