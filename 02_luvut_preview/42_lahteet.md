@@ -42,7 +42,7 @@ Chastant, S. & Mila, H. 2019. Passive immune transfer in puppies. Animal Reprodu
 
 Cho, D. Y., Frey, R. A., Guffy, M. M. & Leipold, H. W. 1975. Hypervitaminosis A in the dog. American Journal of Veterinary Research 36(11): 1597–1603.
 
-Choi, S. ym. 2023. Nutritional evaluation of new alternative types of dog foods including raw and cooked homemade-style diets. Veterinary Medicine and Science 9(6): 2576–2588. DOI: 10.1002/vms3.1232.
+Choi, B., Kim, S. & Jang, G. 2023. Nutritional evaluation of new alternative types of dog foods including raw and cooked homemade-style diets. Journal of Veterinary Science 24(5): e63. DOI: 10.4142/jvs.23037 — https://doi.org/10.4142/jvs.23037.
 
 Cline, M. G. ym. 2021. 2021 AAHA Nutrition and Weight Management Guidelines for Dogs and Cats. Journal of the American Animal Hospital Association 57(4): 153–178. DOI: 10.5326/JAAHA-MS-7232 — <https://doi.org/10.5326/JAAHA-MS-7232>.
 
@@ -61,6 +61,8 @@ Dhaliwal, R., Boynton, E., Carrera-Justiz, S. ym. 2023. 2023 AAHA Senior Care Gu
 Dillitzer, N., Becker, N. & Kienzle, E. 2011. Intake of minerals, trace elements and vitamins in bone and raw food rations in adult dogs. British Journal of Nutrition 106(S1): S53–S56. DOI: 10.1017/S0007114511002765.
 
 Dobenecker, B., Endres, V. & Kienzle, E. 2013. Energy requirements of puppies of two different breeds for ideal growth from weaning to 28 weeks of age. Journal of Animal Physiology and Animal Nutrition 97: 190–196. DOI: 10.1111/j.1439-0396.2011.01257.x — https://doi.org/10.1111/j.1439-0396.2011.01257.x.
+
+Dodd, S., Barry, M., Grant, C. & Verbrugghe, A. 2021 (verkossa 2019). Abnormal bone mineralization in a puppy fed an imbalanced raw meat homemade diet diagnosed and monitored using dual-energy X-ray absorptiometry. Journal of Animal Physiology and Animal Nutrition 105(S2): 29–36. DOI: 10.1111/jpn.13118 — https://doi.org/10.1111/jpn.13118.
 
 Drobatz, K. J. & Casey, K. K. 2000. Eclampsia in dogs: 31 cases (1995–1998). Journal of the American Veterinary Medical Association 217: 216–219. PMID: 10909462 — https://pubmed.ncbi.nlm.nih.gov/10909462/.
 
@@ -334,7 +336,7 @@ Stockman, J., Fascetti, A. J., Kass, P. H. & Larsen, J. A. 2013. Evaluation of r
 
 Suchodolski, J. S. ym. 2008. Analysis of bacterial diversity in the canine duodenum, jejunum, ileum, and colon by comparative 16S rRNA gene analysis. FEMS Microbiology Ecology 66: 567–578. DOI: 10.1111/j.1574-6941.2008.00521.x — https://doi.org/10.1111/j.1574-6941.2008.00521.x.
 
-Tal, M. ym. 2018. Abnormal bone mineralization in a puppy fed an imbalanced raw meat homemade diet diagnosed and monitored using dual-energy X-ray absorptiometry. Journal of Animal Physiology and Animal Nutrition. DOI: 10.1111/jpn.13118.
+Tal, M., Parr, J. M., MacKenzie, S. & Verbrugghe, A. 2018. Dietary imbalances in a large breed puppy, leading to compression fractures, vitamin D deficiency, and suspected nutritional secondary hyperparathyroidism. Canadian Veterinary Journal 59(1): 36–42. PMID: 29302100; PMCID: PMC5731398 — https://pmc.ncbi.nlm.nih.gov/articles/PMC5731398/.
 
 Taylor, M. B. ym. 2009. Diffuse osteopenia and myelopathy in a puppy fed a diet composed of an organic premix and raw ground beef. Journal of the American Veterinary Medical Association 234: 1041–1048. DOI: 10.2460/javma.234.8.1041 — https://doi.org/10.2460/javma.234.8.1041.
 
