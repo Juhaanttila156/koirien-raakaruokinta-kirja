@@ -21,9 +21,9 @@ Tavoite on selvittää jokaisesta kirjassa käytetystä tutkimuksesta:
 
 ## Nykytila 15.10.2026
 
-Kirjan lähdeluettelon teknisessä alkukartoituksessa tunnistettiin 202 lähderiviä ja 128 yksilöllistä DOI-merkkijonoa. Luvut eivät vielä tarkoita 202 eri tutkimusta: luettelossa on päällekkäisyyksiä, lyhytviitteitä ja muita kuin tutkimusartikkeleita.
+Kirjan lähdeluettelon teknisessä alkukartoituksessa tunnistettiin 202 lähderiviä ja 128 yksilöllistä DOI-merkkijonoa. Talin ja Doddin virheellisesti yhdistetyn viitteen erottaminen kahdeksi julkaisuksi nosti nykyisen lähderivimäärän 203:een, mutta DOI-tunnisteiden määrä ei muuttunut. Luvut eivät tarkoita samaa määrää eri tutkimuksia: luettelossa on edelleen päällekkäisyyksiä, lyhytviitteitä ja muita kuin tutkimusartikkeleita.
 
-Kahdessa analyysierässä on nyt tarkastettu yhteensä 20 vertaisarvioitua lähdettä: ensimmäisessä erässä 11 luvun 25 ydintekstiin kuuluvaa lähdettä ja toisessa erässä yhdeksän raakaruokinnan mikrobiologista turvallisuutta tai mikrobilääkeresistenssiä käsittelevää alkuperäistutkimusta. Yksi luvun ydintekstin vanha tutkimus, Freeman ja Michel (2001), odottaa vielä koko artikkelin rahoitus- ja sidonnaisuusosuuden varmennusta.
+Kolmen analyysierän koontirekisterissä on nyt 27 tutkimuskorttia. Rahoittaja, tilaaja ja alkuperäinen tarkoitus on varmennettu nykyisten kriteerien mukaan 24 julkaisusta. Kolme korttia on osittain avoinna: P004 Freeman ja Michel (2001), P021 Indra ym. (2025) ja P026 Taylor ym. (2009) odottavat koko artikkelin rahoitus-, kiitos- tai sidonnaisuusosuuden lopullista varmennusta. Erä 3 käsittelee kuutta ravitsemustasapainon, puutosten ja kliinisten tapausten julkaisua.
 
 ## Tiedostot
 
@@ -34,6 +34,7 @@ Kahdessa analyysierässä on nyt tarkastettu yhteensä 20 vertaisarvioitua lähd
 - [DOI-tunnisteellisten julkaisujen työrekisteri](04_doi_tutkimusehdokkaiden_rekisteri.md)
 - [Vertaisarvioidut tutkimukset, erä 2: mikrobiologinen turvallisuus ja mikrobilääkeresistenssi](05_vertaisarvioidut_mikrobiologinen_turvallisuus_era_2.md)
 - [Rahoittaja, tilaaja ja tutkimuksen tarkoitus – koontirekisteri](06_rahoittaja_tilaaja_ja_tutkimuksen_tarkoitus.md)
+- [Vertaisarvioidut tutkimukset, erä 3: ravitsemustasapaino ja puutostapaukset](07_vertaisarvioidut_ravitsemustasapaino_ja_puutokset_era_3.md)
 
 ## Ensisijainen tarkastelukulma
 
