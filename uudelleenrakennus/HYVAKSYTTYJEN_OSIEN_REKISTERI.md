@@ -12,5 +12,6 @@ Tähän tiedostoon merkitään vain kirjoittajan hyväksymät, tulevaan `MASTER_
 | 6 | Luku 5: Suolistomikrobiomi ja immuunijärjestelmä | `luku_05_mikrobiomi/LUKU_05_PALAUTETTU_TYOVERSIO.md` | `luku_05_mikrobiomi/LUKU_05_LUKITTU.md` | HYVÄKSYTTY JA LUKITTU |
 | 7 | Luku 6: Suolisto–aivot-akseli ja käyttäytyminen | `luku_06_suolisto_aivot/LUKU_06_PALAUTETTU_TYOVERSIO.md` | `luku_06_suolisto_aivot/LUKU_06_LUKITTU.md` | HYVÄKSYTTY JA LUKITTU |
 | 8 | Luku 7: Solutaso, mitokondriot ja tulehdus | `luku_07_solutaso_mitokondriot/LUKU_07_PALAUTETTU_TYOVERSIO.md` | `luku_07_solutaso_mitokondriot/LUKU_07_LUKITTU.md` | HYVÄKSYTTY JA LUKITTU |
+| 9 | Luku 8: Epigenetiikka – ravinto ja geenien säätely | `luku_08_epigenetiikka/LUKU_08_PALAUTETTU_TYOVERSIO.md` | `luku_08_epigenetiikka/LUKU_08_LUKITTU.md` | HYVÄKSYTTY JA LUKITTU |
 
 Lähdearkiston tai aikaisempien työversioiden säilyminen ei riipu tästä rekisteristä. Niitä ei poisteta, vaikka toinen versio valitaan julkaistavaan kirjaan.
