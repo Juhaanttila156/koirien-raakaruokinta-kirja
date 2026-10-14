@@ -52,16 +52,27 @@ Tutkimuksen tuloksia ei tässä rekisterissä arvioida muutoin kuin silloin, kun
 | [P020 Bernaquez ym. 2025](https://doi.org/10.1038/s43856-025-00919-2) | **Erillistä rahoitus- tai apurahailmoitusta ei ollut.** Julkiset terveys- ja elintarvikevalvontatoimijat tekivät epidemiologista, näytteenotto-, koordinointi- ja laboratoriotyötä. Näitä ei ilman artikkelin lausumaa nimetä täsmälliseksi rahoittajaksi. | **Ei ilmoitettu.** Työ tehtiin kansanterveysseurannan ja epidemiaselvityksen yhteydessä. | Kuvata genomisesti ja epidemiologisesti laajasti lääkeresistentin Salmonellan tapausryväs, tunnistaa tartuntalähteitä ja -reittejä sekä tukea kansanterveystoimia. | Avoin koko artikkeli tarkistettu. |
 | [P021 Indra ym. 2025](https://doi.org/10.1111/jpn.70004) | **Saatavilla olevassa julkaisijatiedossa ei ilmoitettu rahoittajaa. Koko PDF:n rahoitus- ja kiitososio on vielä varmennettava.** | **Ei ilmoitettu saatavilla olevassa julkaisijatiedossa.** | Selvittää kaupallisten raakaruokien kontaminaatiota kolmannen polven kefalosporiineille resistentillä E. colilla, Salmonellalla sekä Enterococcus faecalis- ja E. faecium -bakteereilla ja kuvata resistenssifenotyyppejä ja -geenejä. | Tarkoitus, tekijät ja sidonnaisuuslausuma varmennettu julkaisijalta; rahoitus osittain avoin. |
 
+## Erä 3 – ravitsemuksellinen tasapaino, puutokset ja tapausraportit
+
+| ID ja julkaisu | Rahoittaja ja muu tutkimustuki | Tilaaja / toimeksiantaja | Miksi tutkimus tehtiin? | Varmennuksen tila |
+|---|---|---|---|---|
+| [P022 Dillitzer, Becker ja Kienzle 2011](https://doi.org/10.1017/S0007114511002765) | Artikkeli ilmoittaa, ettei tutkimus saanut erityistä apurahaa julkiselta, kaupalliselta tai voittoa tavoittelemattomalta taholta. Kenttätutkimus tehtiin LMU Münchenin ja Futtermedicuksen yhteydessä. | **Ei ilmoitettu.** Alennettuun hintaan ravintoarvion saaneet koiranomistajat olivat osallistujia ja asiakkaita, eivät artikkelissa nimettyjä toimeksiantajia. | Arvioida aikuisten koirien BARF-annosten vitamiini- ja kivennäisainesisältöä ja tunnistaa niille tyypillisiä ravitsemuksellisia epätasapainoja. | Koko artikkeli tarkistettu. |
+| [P023 Choi, Kim ja Jang 2023](https://doi.org/10.4142/jvs.23037) | Seoul National Universityn **BK21 FOUR** -ohjelma (550-20210069) ja Korean National Research Foundationin **SRC / Comparative Medicine Disease Research Center** (2021R1A5A1033157). | **Ei ilmoitettu.** Panoslausuma nimeää San Kimin konseptoinnista vastaavaksi, mutta ei ulkopuolista tilaajaa. | Arvioida 11 Koreassa myydyn raa'an tai kypsennetyn kotiruokatyyppisen koiranruoan ravitsemuksellista riittävyyttä aikuisten koirien ylläpitoruokana. | Koko artikkeli tarkistettu; lähdeluettelon väärä DOI korjattu. |
+| [P024 Tal ym. 2018](https://pmc.ncbi.nlm.nih.gov/articles/PMC5731398/) | **Rahoittajaa ei ilmoitettu** avoimessa artikkelissa. | **Ei ilmoitettu.** | Kuvata suuren rodun pennun ruokavalioperäinen D-vitamiinin puutos, epäilty sekundaarinen hyperparatyreoosi ja kompressiomurtumat sekä korostaa kasvuvaiheen asianmukaisen ruokinnan merkitystä. | Avoin artikkeli ja PubMed-tietue tarkistettu. |
+| [P025 Dodd ym. 2021, verkossa 2019](https://doi.org/10.1111/jpn.13118) | Artikkelissa **ei ole erillistä tutkimusrahoituslausumaa**. Kiitoksissa mainitaan vertailuaineistoa toimittanut henkilö. Doddin ja Verbrugghen teollisuussidonnaisuudet ilmoitettiin, mutta niitä ei nimetä tämän tapausraportin rahoitukseksi. | **Ei ilmoitettu.** | Kuvata raakaa lihaa sisältäneellä epätasapainoisella kotiruoalla ruokitun pennun D-vitamiini-, kalsium- ja fosforipuutostapaus sekä esitellä DEXA osteopenian diagnosoinnissa ja seurannassa. | Koko artikkeli ja disclosure-osuus tarkistettu. |
+| [P026 Taylor ym. 2009](https://doi.org/10.2460/javma.234.8.1041) | **Vielä varmistamatta koko artikkelista.** PubMedin ja julkaisijan avoin metatieto eivät nimeä rahoittajaa. | **Ei ilmoitettu saatavilla olevissa alkuperäistiedoissa.** Banfield-affiliaatiota ei tulkita toimeksiannoksi. | Kuvata raakaa jauhelihaa ja orgaanista premiksiä saaneen pennun osteopenia, ravitsemukselliset epätasapainot, hoito ja seuranta. | Tarkoitus ja tekijät varmennettu; koko artikkelin rahoitus-, kiitos- ja sidonnaisuusosuus puuttuu. |
+| [P027 Freeman ym. 2013](https://doi.org/10.2460/javma.243.11.1549) | **Rahoittajaa ei ilmoitettu** koko artikkelissa. Kolmea henkilöä kiitetään teknisestä avusta, jota ei nimetä rahoitukseksi. | **Ei ilmoitettu.** | Tuottaa tasapainoinen katsaus raakaruokavalioiden tyyppeihin, käytön syihin, mahdollisiin hyötyihin ja riskeihin sekä osoittaa tutkimusaukot. | Koko artikkeli tarkistettu. |
+
 ## Rahoitusluokkien yhteenveto
 
 | Luokka | Tutkimukset |
 |---|---|
 | Kaupallinen rahoitus tai erittäin läheinen yritystuki | P001, P010, P012 |
 | Yritysten antamia tuotteita, laboratorio- tai henkilötukea muun rahoituksen rinnalla | P002, P006, P008 |
-| Julkinen, yliopisto- tai säätiörahoitus ilman ilmoitettua lemmikkiruokayhtiön rahoitusta | P003, P005, P009, P015, P016, P017, P018, P019 |
-| Artikkeli ilmoittaa, ettei erityisrahoitusta tarvittu | P007 |
-| Rahoitusta ei ilmoitettu tarkistetussa koko artikkelissa | P011, P013, P014, P020 |
-| Koko artikkelin rahoitusosuus vielä varmennettava | P004, P021 |
+| Julkinen, yliopisto- tai säätiörahoitus ilman ilmoitettua lemmikkiruokayhtiön rahoitusta | P003, P005, P009, P015, P016, P017, P018, P019, P023 |
+| Artikkeli ilmoittaa, ettei erityisrahoitusta tarvittu tai ettei erityistä apurahaa saatu | P007, P022 |
+| Rahoitusta ei ilmoitettu tarkistetussa koko artikkelissa | P011, P013, P014, P020, P024, P025, P027 |
+| Koko artikkelin rahoitusosuus vielä varmennettava | P004, P021, P026 |
 
 Luokitus ei kerro, että jonkin ryhmän tutkimus olisi automaattisesti oikea tai väärä. Se kertoo, missä tutkimuksissa rahoittajan mahdollinen vaikutus tutkimuskysymykseen, tuotteisiin, aineiston hallintaan, analyysiin tai käsikirjoitukseen pitää tarkistaa erityisen tarkasti.
 
@@ -70,11 +81,12 @@ Luokitus ei kerro, että jonkin ryhmän tutkimus olisi automaattisesti oikea tai
 - P018 ilmoittaa nimenomaisesti, ettei tutkimusta tilattu.
 - P014 oli FDA:n oman laboratorioverkoston ja Center for Veterinary Medicinen käynnistämä tutkimusohjelma.
 - P020 tehtiin julkisen kansanterveysseurannan ja epidemiaselvityksen yhteydessä.
-- Muut tarkistetut julkaisut eivät nimeä erillistä tilaajaa tai toimeksiantajaa.
+- Muut tarkistetut julkaisut, mukaan lukien erän 3 julkaisut P022–P027, eivät nimeä erillistä tilaajaa tai toimeksiantajaa.
 - Rahoittajaa ei siksi saa automaattisesti kutsua tilaajaksi. Esimerkiksi Freshpetin, Nutrigene-yhtiön tai DogRisk-tutkimusten yritystukijoiden roolit kirjataan sellaisina kuin artikkeli ne ilmoittaa.
 
 ## Avoimet varmennukset
 
 1. **P004 Freeman ja Michel 2001:** hankittava koko alkuperäisartikkeli ja tarkistettava rahoitus-, kiitos- ja sidonnaisuustiedot.
 2. **P021 Indra ym. 2025:** tarkistettava koko PDF:n rahoitus- ja kiitososio.
-3. Jos artikkelin korjattu versio, lisäaineisto tai julkaisijan erillinen disclosure-lomake löytyy myöhemmin, rekisteri päivitetään ja muutos kirjataan.
+3. **P026 Taylor ym. 2009:** hankittava koko alkuperäisartikkeli ja tarkistettava rahoitus-, kiitos- ja sidonnaisuusosuus.
+4. Jos artikkelin korjattu versio, lisäaineisto tai julkaisijan erillinen disclosure-lomake löytyy myöhemmin, rekisteri päivitetään ja muutos kirjataan.
