@@ -11,7 +11,7 @@ Tekninen alkukartoitus 14.10.2026:
 - mukana päällekkäisiä viitteitä, lyhytviitteitä, kirjoja, standardeja, viranomais- ja järjestölähteitä sekä verkkosivuja;
 - määrä ei siis vielä ole tutkimusartikkelien lopullinen lukumäärä.
 
-Kaikki lähdeluettelosta poimitut 128 DOI-tunnistetta ovat [deduplikoidussa DOI-työrekisterissä](04_doi_tutkimusehdokkaiden_rekisteri.md). Alkuperäislähdetarkistus täydensi lisäksi viisi lähdeluettelosta puuttunutta DOI-tunnistetta, joten rekisterissä on 133 DOI-riviä. Rekisteri ei oleta DOI-lähdettä vertaisarvioiduksi, vaan tekee tarkistettavat julkaisut ja niiden käsittelytilan näkyviksi.
+Kaikki lähdeluettelosta poimitut 128 DOI-tunnistetta ovat [deduplikoidussa DOI-työrekisterissä](04_doi_tutkimusehdokkaiden_rekisteri.md). Alkuperäislähdetarkistus täydensi lisäksi seitsemän lähdeluettelosta puuttunutta DOI-tunnistetta, joten rekisterissä on 135 DOI-riviä. Rekisteri ei oleta DOI-lähdettä vertaisarvioiduksi, vaan tekee tarkistettavat julkaisut ja niiden käsittelytilan näkyviksi.
 
 ## Luvun 25 ydintutkimusten tila
 
@@ -30,13 +30,28 @@ Kaikki lähdeluettelosta poimitut 128 DOI-tunnistetta ovat [deduplikoidussa DOI-
 | P011 | Schlesinger ja Joffe 2011, PMID 21461207 / PMCID PMC3003575 | kriittinen katsaus | analysoitu erässä 1; rahoitusta ei ilmoitettu artikkelissa |
 | P012 | Vuori ym. 2023, DOI 10.1038/s41598-023-27866-z | havainnoiva kyselytutkimus | analysoitu erässä 1 |
 
+
+## Mikrobiologisen turvallisuuden erän 2 tila
+
+| ID | Julkaisu | Tyyppi | Tila |
+|---|---|---|---|
+| P013 | Finley ym. 2007, PMID 17310625 / PMCID PMC1716752 | kontrolloitu altistuskoe | analysoitu erässä 2; rahoitusta ei ilmoitettu |
+| P014 | Nemser ym. 2014, DOI 10.1089/fpd.2014.1748 | elintarvike- ja rehumikrobiologinen näytetutkimus | analysoitu erässä 2 |
+| P015 | van Bree ym. 2018, DOI 10.1136/vr.104535 | kaupallisten tuotteiden näytetutkimus | analysoitu erässä 2 |
+| P016 | Hellgren ym. 2019, DOI 10.1136/vr.105199 | kaupallisten tuotteiden näytetutkimus | analysoitu erässä 2 |
+| P017 | Nüesch-Inderbinen ym. 2019, DOI 10.1098/rsos.191170 | kaupallisten tuotteiden resistenssitutkimus | analysoitu erässä 2 |
+| P018 | Runesvärd ym. 2020, DOI 10.1136/vr.105644 | koirien poikkileikkaustutkimus | analysoitu erässä 2 |
+| P019 | Morgan ym. 2024, DOI 10.3389/fmicb.2024.1460143 | koirien poikkileikkaus- ja genomitutkimus | analysoitu erässä 2 |
+| P020 | Bernaquez ym. 2025, DOI 10.1038/s43856-025-00919-2 | genominen epidemiaselvitys | analysoitu erässä 2 |
+| P021 | Indra ym. 2025, DOI 10.1111/jpn.70004 | kaupallisten tuotteiden resistenssitutkimus | analysoitu erässä 2; koko PDF:n rahoitusosuus vielä varmennettava |
+
 ## Seuraava vertaisarvioitujen työjono
 
-1. Varmennetaan P004 koko alkuperäisartikkelista.
-2. Poimitaan kaikki lähdeluettelon DOI- ja PMID-viitteet deduplikoituun artikkelirekisteriin.
-3. Varmistetaan vertaisarviointi julkaisijan tiedoista; DOI yksin ei ole riittävä todiste.
-4. Linkitetään jokainen artikkeli niihin kirjan lukuihin ja väitteisiin, joissa sitä käytetään.
-5. Analysoidaan ensin raakaruokaa suoraan käsittelevät tutkimukset, sitten ravitsemus-, mikrobiomi-, patogeeni- ja kliiniset taustatutkimukset.
+1. Varmennetaan P004:n ja P021:n rahoitus- ja sidonnaisuusosuudet koko alkuperäisartikkeleista.
+2. Linkitetään P013–P021 kirjan täsmällisiin väitteisiin ja merkitään, onko lähde väitteen ensisijainen vai taustoittava tuki.
+3. Jatketaan suoraan raakaruokaa käsitteleviin ravitsemuksellisen tasapainon, puutosten ja kliinisten tapausraporttien tutkimuksiin.
+4. Tämän jälkeen analysoidaan mikrobiomi- ja aineenvaihduntatutkimukset sekä muut ravitsemus- ja kliiniset taustatutkimukset.
+5. Varmistetaan jokaisen uuden rivin vertaisarviointi julkaisijan tiedoista; DOI yksin ei ole riittävä todiste.
 6. Siirretään ohjeet, standardit, kirjat, viranomaisverkkosivut ja muut ei-vertaisarvioidut lähteet vaiheeseen 2 tai 3.
 
 ## Avoimet laatukysymykset
