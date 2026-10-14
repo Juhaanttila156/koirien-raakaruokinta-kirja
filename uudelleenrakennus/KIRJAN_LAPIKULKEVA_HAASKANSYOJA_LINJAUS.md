@@ -40,6 +40,7 @@ Koiran ja suden haaskojen hyödyntäminen on eri väite kuin teoria, jonka mukaa
 - Muissa luvuissa näkökulma sidotaan luvun omaan aiheeseen ilman tarpeetonta saman tekstin toistoa.
 - Lukuun 11 periaate lisättiin työversioon, ja kirjoittaja hyväksyi sekä lukitsi luvun 15.10.2026.
 - Luvun 12 työversiossa haaskansyöjätausta yhdistetään aikuisen koiran aineenvaihduntaan: biologinen ravintojoustavuus ei suojaa modernin ympäristön jatkuvalta energiaylijäämältä.
+- Luvun 13 työversiossa linjaus yhdistetään työkoiran aineenvaihdunnalliseen joustavuuteen, happamaan mahalaukkuun ja kenttäruokintaan: kova työ, stressi ja yhteiset huoltotilat eivät poista kylmäketjun, hygienian tai pilaantumisrajan tarvetta.
 - Kaikissa myöhemmin palautettavissa luvuissa tarkistetaan, miten linjaus liittyy kyseisen luvun aiheeseen.
 
 ## Kirjoittajan omakohtainen ankkuri: Vekku
