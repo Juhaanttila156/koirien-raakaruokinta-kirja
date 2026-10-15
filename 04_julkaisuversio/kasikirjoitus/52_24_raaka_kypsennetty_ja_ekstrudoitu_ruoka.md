@@ -64,3 +64,4 @@ Diegon ruokinnan päälinja oli raaka ruoka, mutta tärkein sääntö oli hänen
 Diego ei tarvinnut minulta uskollisuutta iskulauseelle. Hän tarvitsi turvallisen päätöksen.
 
 > **Näytön tila:** Kuumennuksen ja ekstruusion kemialliset vaikutukset tunnetaan yleisellä tasolla hyvin. Eri valmistusmenetelmien pitkäaikaisia terveysvaikutuksia on kuitenkin vaikea erottaa reseptien ja raaka-aineiden vaikutuksista. Siksi yksittäisestä käsittelymenetelmästä ei pidä tehdä koko ruokavalion laatua koskevaa johtopäätöstä.
+

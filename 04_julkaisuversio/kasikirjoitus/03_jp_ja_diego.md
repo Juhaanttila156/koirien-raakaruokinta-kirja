@@ -19,3 +19,4 @@ Käytimme Diegon kanssa myös samaa laadukasta kalaöljyvalmistetta hänen koko 
 Siksi Diego kulkee tämän kirjan mukana alusta loppuun. Hän ei ole irrallinen tarinalaatikko, vaan kirjan sydän. Tutkimus auttaa ymmärtämään, mitä koira tarvitsee. Diego muistuttaa, miksi sillä on merkitystä.
 
 Tämä kirja on omistettu Diegon muistolle – opettajalleni.
+

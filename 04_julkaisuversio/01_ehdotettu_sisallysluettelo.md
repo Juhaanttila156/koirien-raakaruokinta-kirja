@@ -1,17 +1,17 @@
-# EHDOTETTU SISÄLLYSLUETTELO
+# JULKAISUVERSION SISÄLLYSLUETTELO
 
-**Työversio 0.1 – 15.10.2026**
+**Versio 1.0 – 16.10.2026**
 
-Tämä rakenne ei vielä muuta MASTER.md-tiedoston lukuja tai numerointia. Se määrittää lukijalle tarkoitetun julkaisuversion tavoitejärjestyksen.
+Tämä on lukijalle tarkoitetun julkaisuversion lukittu järjestys. Lähdeaineiston `MASTER.md` ja `02_luvut_preview/` säilyvät erillisinä, muuttamattomina työ- ja arkistoversioina.
 
 ## ALKU – Miksi tämä kirja on erilainen
 
 - Lukijalle
 - Alkusanat
 - JP ja Diego
-- Näin käytät tätä kirjaa
-- Kolme lukupolkua
+- Raakaruokinnan eri suuntaukset
 - Mitä raakaruokinta tässä kirjassa tarkoittaa
+- Näin käytät tätä kirjaa ja kolme lukupolkua
 - Turvallisuus- ja eläinlääkärirajaus
 
 ## OSA I – Aloita turvallisesti
@@ -29,7 +29,7 @@ Tämä rakenne ei vielä muuta MASTER.md-tiedoston lukuja tai numerointia. Se m�
 8. Sisäelimet
 9. Rasva, kala, EPA ja DHA
 10. Hiilihydraatit, kasvikset ja kuitu
-11. Vitamiinit, kivennäiset ja lisäravinteet
+11. Vitamiinit, kivennäisaineet ja lisäravinteet
 12. Ruokintasuunnitelma vaihe vaiheelta
 
 ## OSA III – Tee suunnitelmasta toimiva arki
@@ -59,15 +59,17 @@ Tämä rakenne ei vielä muuta MASTER.md-tiedoston lukuja tai numerointia. Se m�
 ## LOPPUOSA
 
 - Mitä Diego opetti minulle
-- Valitut usein kysytyt kysymykset
-- Valitut malliviikot
-- Ruokintasuunnitelman ja seurannan mallisivut
-- Keskeinen sanasto
-- Painetun kirjan keskeiset lähteet
-- Täydellisen lähde- ja tutkimusrekisterin verkko-osoite ja QR-koodi
+- Usein kysytyt kysymykset
+- Malliviikot
+- Laskenta- ja seurantalomakkeet
+- Sanasto
+- Lähteiden käyttö
+- Lähteet
 - Asiahakemisto
 - Kiitokset
 - Kirjoittajasta
+- Tietoa tästä kirjasta
+- Tekijänoikeussivu
 
 ## Rakenteen periaate
 
@@ -80,3 +82,4 @@ Kirja etenee tarkoituksella tässä järjestyksessä:
 5. miksi ohjeet ovat perusteltuja ja kuinka varmaa tutkimusnäyttö on.
 
 Tieteellisesti suuntautunut lukija voi aloittaa osasta V ja käyttää verkkosyväaineistoa rinnalla.
+

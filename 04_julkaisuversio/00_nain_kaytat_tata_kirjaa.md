@@ -71,3 +71,4 @@ Kokemus voi auttaa näkemään koiran yksilönä ja tunnistamaan käytännön ky
 Ruokintamalli ei saa koskaan tulla koiraa tärkeämmäksi.
 
 Kaava antaa lähtöpisteen. Tutkimus näyttää mahdollisuudet ja rajat. Oman koiran paino, lihaskunto, ruoansulatus, iho, turkki, liike, palautuminen ja yleisvointi kertovat, mihin suuntaan suunnitelmaa pitää tarkentaa.
+

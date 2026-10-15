@@ -53,3 +53,4 @@ Diego muistutti minua myös siitä, ettei lajityypillinen tarkoita automaattises
 Biologia antoi suunnan. Ravintoainelaskenta asetti turvarajat. Diego antoi palautteen.
 
 > **Näytön tila:** Koiran tärkkelyksen hyödyntämiseen liittyvästä geneettisestä sopeutumisesta on vahvaa tutkimusnäyttöä. Se, millainen makroravintoainejakauma on yksittäiselle koiralle optimaalinen, riippuu kuitenkin ruokavalion kokonaisuudesta, elämäntilanteesta ja yksilöstä.
+

@@ -19,3 +19,4 @@ Raakaruokinnan vahvuuksia voivat olla raaka-aineiden läpinäkyvyys, hyvä maitt
 Käytännön havaintoja ei tarvitse vähätellä, mutta niitä ei myöskään pidä esittää varmoina syy-yhteyksinä. Tässä kirjassa kokemus asetetaan tutkimustiedon rinnalle siten, että lukija näkee, kumpaan kukin johtopäätös perustuu.
 
 Haluan antaa lukijalle sekä tietoa että rohkeutta katsoa omaa koiraansa. Tutkimus auttaa tunnistamaan mahdollisuudet, epävarmuudet ja vaaralliset yleistykset. Koira puolestaan näyttää, miten ruokavalio toimii juuri siinä yksilössä.
+

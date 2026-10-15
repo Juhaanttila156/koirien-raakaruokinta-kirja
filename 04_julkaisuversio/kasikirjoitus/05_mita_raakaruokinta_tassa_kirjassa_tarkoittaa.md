@@ -9,3 +9,4 @@ Joillekin koirille sopivaan kokonaisuuteen voi kuulua myös kypsennettyjä osia,
 Pelkkä raaka liha ei muodosta tasapainoista ruokavaliota. Koiran on saatava riittävästi energiaa, välttämättömiä aminohappoja ja rasvahappoja, vitamiineja, kivennäisaineita ja hivenaineita. Turvallinen toteutus edellyttää lisäksi kylmäketjun säilyttämistä, puhtaita työvälineitä, raaka-aineiden jäljitettävyyttä ja koiran yksilöllistä seurantaa.
 
 Raakaruokinta ei ole uskonkappale. Jos koiran hyvinvointi edellyttää jonkin raaka-aineen kypsentämistä, sairauden mukaista erikoisruokavaliota tai kokonaan toisenlaista ruokintatapaa, koiran tarve menee aina ruokintamallin edelle.
+

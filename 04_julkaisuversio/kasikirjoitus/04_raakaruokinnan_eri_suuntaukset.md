@@ -11,3 +11,4 @@ Kaupallinen raakaruoka voi olla täysravintoa tai täydennysravintoa. Täysravin
 Myös yhdistelmäruokinta kuuluu käytännön todellisuuteen. Tässä kirjassa sillä tarkoitetaan esimerkiksi sitä, että koira saa raakaruokaa ja muuta ruokaa eri aterioilla tai eri päivinä, ei samaan kulhoon sekoitettuna.
 
 Ruokintamallin nimi ei ratkaise sen laatua. Ratkaisevaa on, mitä koira todella saa, kuinka hyvin kokonaisuus vastaa sen tarpeita ja miten koira voi.
+

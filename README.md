@@ -2,6 +2,17 @@
 
 Tämä repositorio on koirien raakaruokinta -kirjan itsenäinen GitHub-päärepo. SOTE-koulutus ja raakaruokintakirja pidetään eri repositorioissa.
 
+## Julkaisuversio 1.0
+
+Lukijalle toimitettu 27 luvun julkaisuversio on koottu 16.10.2026.
+
+- [Yhtenäinen julkaisumasteri](04_julkaisuversio/KOIRIEN_RAAKARUOKINTA_JULKAISUMASTER_v1.0.md)
+- [Julkaisuversion työtila ja käyttöohje](04_julkaisuversio/README.md)
+- [Manifesti ja lähdejäljitettävyys](04_julkaisuversio/02_julkaisuversio_manifesti.md)
+- [Laadunvarmistusraportti](00_hallinta/JULKAISUVERSION_LAADUNVARMISTUS_2026-10-16.md)
+
+`MASTER.md` säilyy teknisenä lähdekoontina. Julkaisuversio ei korvaa alkuperäisiä eikä luvuttaisia lähdetiedostoja.
+
 ## Ensisijainen tallennusmuoto
 
 - Kaikki jatkossa laadittava ja hyväksytty tekstiaineisto tallennetaan Markdown-muodossa (`.md`).
@@ -26,11 +37,12 @@ Vanhojen Word-, PDF-, ZIP-, XLSX- ja kuvatiedostojen alkuperäiset versiot säil
 
 Tarkempi siirtotarkastus: [SIIRRON_TILA_2026-09-11.md](00_hallinta/SIIRRON_TILA_2026-09-11.md).
 
-`MASTER.md` on tekninen työskentelyn aloituspiste, ei vielä vakuutus sisällön lääketieteellisestä tai ravitsemustieteellisestä oikeellisuudesta. Sisällön faktantarkistus ja lopullisen julkaisu-masterin valinta ovat erillisiä vaiheita.
+`MASTER.md` on tekninen työskentelyn aloituspiste, ei julkaistava lukijaversio. Julkaistava koonti on yllä linkitetty `KOIRIEN_RAAKARUOKINTA_JULKAISUMASTER_v1.0.md`.
 
 ## Julkaisu- ja kilpailustrategia
 
 - [Julkaisu- ja kilpailustrategia 15.10.2026](00_hallinta/JULKAISU_JA_KILPAILUSTRATEGIA_2026-10-15.md) jakaa kokonaisuuden lukijakirjaan, tieteelliseen syväaineistoon ja käytännön työkaluihin.
-- [Julkaisuversion erillinen työtila](04_julkaisuversio/README.md) sisältää ensimmäisen lukijapolun ja toiminta ensin -sisällysluettelon.
+- [Julkaisuversion erillinen työtila](04_julkaisuversio/README.md) sisältää lukitun lukijapolun ja toiminta ensin -sisällysluettelon.
 - Strategia sisältää nykyisten 26 luvun sijoittelukartan, ehdotetun uuden lukujärjestyksen, tuote- ja hinnoittelumallin, markkinointipolun sekä lukija- ja asiantuntijatestauksen.
-- MASTER.md ja kaikki alkuperäisaineisto säilyvät muuttamattomina lähdeversioina; julkaisuversio rakennetaan erillisenä kerroksena.
+- MASTER.md ja kaikki alkuperäisaineisto säilyvät muuttamattomina lähdeversioina; julkaisuversio on rakennettu erillisenä kerroksena.
+

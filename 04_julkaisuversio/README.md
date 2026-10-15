@@ -1,36 +1,46 @@
-# Julkaisuversio – työtila
+# Koirien raakaruokinta – julkaisuversio 1.0
 
-Tämä kansio on lukijalle tarkoitetun julkaisuversion erillinen työtila.
+Tämä kansio sisältää 16.10.2026 lukitun, lukijalle toimitetun julkaisuversion. Lähde- ja arkistokerrokset säilyvät muualla repositoriossa muuttamattomina.
+
+## Aloita tästä
+
+- [Yhtenäinen julkaisumasteri](KOIRIEN_RAAKARUOKINTA_JULKAISUMASTER_v1.0.md)
+- [Julkaisuversion manifesti ja jäljitettävyys](02_julkaisuversio_manifesti.md)
+- [Lukittu sisällysluettelo](01_ehdotettu_sisallysluettelo.md)
+- [Käsikirjoituksen osat](kasikirjoitus/)
+- [Kielen ja toimitustyön tarkistusloki](../00_hallinta/SUOMEN_KIELEN_TARKISTUSLOKI_2026-10-16.md)
+- [Laadunvarmistusraportti](../00_hallinta/JULKAISUVERSION_LAADUNVARMISTUS_2026-10-16.md)
+
+## Sisältö
+
+Julkaisumasterissa on:
+
+- alkutekstit ja kolme lukupolkua;
+- 27 numeroitua lukua viidessä osassa;
+- JP:n, Diegon, Jutan ja Vekun henkilökohtaiset kertomukset, jotka on erotettu tutkimusväitteistä;
+- usein kysytyt kysymykset, malliviikot, laskenta- ja seurantalomakkeet sekä sanasto;
+- lukukohtaiset lähteet, koottu lähdeluettelo ja asiahakemisto;
+- kiitokset, kirjoittaja- ja julkaisutiedot sekä viimeinen sivu.
+
+Pitkä ja lyhyt takakansiteksti ovat erillistä tuotantoaineistoa eivätkä sisälly leipätekstin masteriin.
 
 ## Suojaussääntö
 
-- MASTER.md on lähde- ja koontiversio, jota tämä työtila ei korvaa.
-- Kansio 02_luvut_preview säilyttää nykyisen käsikirjoituksen erilliset esikatseluluvut.
-- Kansio 90_alkuperaiset säilyttää aiemmat lähdeversiot.
-- Julkaisuversion tiivistäminen, yhdistäminen tai uudelleenjärjestäminen tehdään vain tässä kansiossa.
-- Mitään lähdetekstiä ei poisteta siksi, ettei se päädy painettuun pääkirjaan. Se sijoitetaan tarvittaessa tieteelliseen syväaineistoon, työkaluihin tai arkistoon.
+- `MASTER.md`, `02_luvut_preview/` ja `90_alkuperaiset/` ovat lähde- ja arkistoversioita.
+- Julkaisuversion toimitustyö on tehty vain `04_julkaisuversio/`-kansioon.
+- Lähdepolut ja tiedostokohtaiset tarkisteet ovat manifestissa.
+- ISBN-, kustantaja-, kansi-, kuvitus-, taitto- ja tarkastajatiedot täytetään vasta, kun tuotantopäätökset on tehty.
 
-## Tavoite
+## Toistettava koonti ja tarkistus
 
-Julkaisuversio rakennetaan kolmikerroksiseksi kokonaisuudeksi:
+```bash
+python scripts/build_release.py
+python scripts/check_release.py
+```
 
-1. selkeä ja kohtuuhintainen lukijakirja;
-2. päivittyvä tieteellinen syväaineisto;
-3. käytännön laskurit, lomakkeet, tarkistuslistat ja päätöspuut.
+Ensimmäinen komento muodostaa masterin ja manifestin käsikirjoituksen osista. Toinen tarkistaa muun muassa lukujen järjestyksen, sovitut henkilökertomukset, turvallisuusrajaukset, tekniset Markdown-virheet ja lähdeavainten kattavuuden.
 
-## Nykyiset työasiakirjat
+## Julkaisukynnys
 
-- [Näin käytät tätä kirjaa – luonnos](00_nain_kaytat_tata_kirjaa.md)
-- [Ehdotettu sisällysluettelo – työversio](01_ehdotettu_sisallysluettelo.md)
-- [Julkaisu- ja kilpailustrategia](../00_hallinta/JULKAISU_JA_KILPAILUSTRATEGIA_2026-10-15.md)
+Tekstitoimitus 1.0 on valmis taiton lähtöaineistoksi. Ennen kaupallista julkaisua täytetään tuotantotiedot, varmistetaan kaikkien valokuvien käyttöoikeudet sekä teetetään riippumaton eläinlääketieteellinen asiatarkistus ja juridinen loppulukeminen.
 
-## Työjärjestys
-
-1. hyväksytään lukijalupaus, lukupolut ja pääosien järjestys;
-2. muodostetaan nykyisistä luvuista uusi julkaisuteksti kopioimalla, ei alkuperäisiä muuttamalla;
-3. merkitään jokainen siirretty tai tiivistetty sisältö lähdepolulla;
-4. lisätään vakiomuotoiset toimintamallit, turvarajat, näyttömerkinnät ja yhteenvedot;
-5. tarkistetaan ravitsemuslaskenta, lähteet, turvallisuus ja suomen kieli;
-6. tehdään ennakkolukijoiden käytettävyystesti ennen taittoa.
-
-**Tila 15.10.2026:** rakennepohja aloitettu. Varsinaisia hyväksyttyjä lukuja ei ole vielä siirretty tai muutettu tässä kansiossa.

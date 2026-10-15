@@ -61,3 +61,4 @@ Energian vähentäminen ei saa johtaa proteiinin, välttämättömien rasvahappo
 > **Toimi näin:** Punnitse aloitusannos, kirjaa ruoan rasvapitoisuus, seuraa painoa sekä kehon- ja lihaskuntoa ja muuta annosta vain yksi askel kerrallaan.
 
 > **Turvaraja:** Selittämätön laihtuminen, nopeasti muuttuva paino, ruokahaluttomuus, jatkuva ruoansulatusoire tai lihaskato edellyttää syyn selvittämistä eläinlääkärissä.
+

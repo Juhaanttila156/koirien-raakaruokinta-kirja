@@ -77,3 +77,4 @@ Diegon kanssa tärkein siirtymäsääntö oli yksinkertainen: jos halusin ymmär
 Se oli hidasta vain kalenterissa. Käytännössä se vähensi arvailua.
 
 > **Turvaraja:** Keskeytä kokeilu ja pyydä nopeasti eläinlääkärin arvio, jos koiralla on toistuvaa oksentelua, veriulostetta, voimakasta vatsakipua, kuumetta, nielemisvaikeutta, kuivumisen merkkejä tai nopeasti heikkenevä yleisvointi.
+

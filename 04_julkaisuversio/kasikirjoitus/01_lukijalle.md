@@ -9,3 +9,4 @@ Kasvavan pennun sekä tiineen, imettävän tai sairaan koiran ruokavalio on suun
 Kirjan tutkimukseen perustuvat väitteet varustetaan lähdeviitteillä. JP:n ja Diegon kokemukset erotetaan tutkimustiedosta selvästi. Yhden koiran pitkä elämä ei ole kontrolloitu koe eikä osoita syy-yhteyttä, mutta yksilön tarkka havainnointi voi nostaa esiin kysymyksiä, joita taulukot eivät yksin tavoita.
 
 Tämän kirjan tarkoitus on pitää tutkimustieto, käytännön kokemus ja koiran yksilöllinen seuranta rehellisesti rinnakkain.
+

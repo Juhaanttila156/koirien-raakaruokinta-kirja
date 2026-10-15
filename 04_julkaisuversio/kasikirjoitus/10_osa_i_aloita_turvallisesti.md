@@ -5,3 +5,4 @@
 Tässä osassa arvioit, sopiiko raakaruokinta omaan arkeesi, opit turvallisen toteutuksen perussäännöt ja rakennat koirallesi hallitun aloituksen.
 
 Tavoitteena ei ole täydellinen ruokakuppi ensimmäisenä päivänä. Tavoitteena on turvallinen, seurattava ja vähitellen tarkentuva kokonaisuus.
+

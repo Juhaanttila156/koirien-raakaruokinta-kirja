@@ -90,3 +90,4 @@ Diego opetti minulle, että yksi poikkeuksellisen hyvin sopiva raaka-aine voi ol
 > **Toimi näin:** Tarkista jokaisesta pitkäaikaisesta reseptistä vähintään energia, proteiini, rasvahapot, kalsium, fosfori, olennaiset sisäelimet sekä tunnistetut vitamiini- ja kivennäisainelähteet.
 
 > **Turvaraja:** Kasvavan pennun, tiineen tai imettävän nartun sekä sairaan koiran ruokavaliota ei rakenneta pelkän prosenttimallin varaan.
+
