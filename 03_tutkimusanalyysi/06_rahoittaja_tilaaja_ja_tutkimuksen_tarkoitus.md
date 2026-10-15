@@ -63,14 +63,30 @@ Tutkimuksen tuloksia ei tässä rekisterissä arvioida muutoin kuin silloin, kun
 | [P026 Taylor ym. 2009](https://doi.org/10.2460/javma.234.8.1041) | **Vielä varmistamatta koko artikkelista.** PubMedin ja julkaisijan avoin metatieto eivät nimeä rahoittajaa. | **Ei ilmoitettu saatavilla olevissa alkuperäistiedoissa.** Banfield-affiliaatiota ei tulkita toimeksiannoksi. | Kuvata raakaa jauhelihaa ja orgaanista premiksiä saaneen pennun osteopenia, ravitsemukselliset epätasapainot, hoito ja seuranta. | Tarkoitus ja tekijät varmennettu; koko artikkelin rahoitus-, kiitos- ja sidonnaisuusosuus puuttuu. |
 | [P027 Freeman ym. 2013](https://doi.org/10.2460/javma.243.11.1549) | **Rahoittajaa ei ilmoitettu** koko artikkelissa. Kolmea henkilöä kiitetään teknisestä avusta, jota ei nimetä rahoitukseksi. | **Ei ilmoitettu.** | Tuottaa tasapainoinen katsaus raakaruokavalioiden tyyppeihin, käytön syihin, mahdollisiin hyötyihin ja riskeihin sekä osoittaa tutkimusaukot. | Koko artikkeli tarkistettu. |
 
+## Erä 4 – uudet kuumennettu kaupallinen ruoka–raakaruoka-vertailut
+
+| ID ja julkaisu | Rahoittaja ja muu tutkimustuki | Tilaaja / toimeksiantaja | Miksi tutkimus tehtiin? | Varmennuksen tila |
+|---|---|---|---|---|
+| [P028 Morgan ym. 2024](https://doi.org/10.3389/fmicb.2023.1301841) | **University of Liverpool ja UK Veterinary Medicines Directorate** rahoittivat tutkimuksen yhdessä osana laajempaa väitöskirjahanketta. VMD tarkasti käsikirjoitusta ja antoi palautetta. | **Ei ilmoitettu.** Rahoitusta ja käsikirjoituspalautetta ei nimetä toimeksiannoksi. | Tunnistaa brittien suosimat raaka- ja ei-raakaruokamerkit ja verrata kaupallisten raakatuotteiden sekä kypsennettyjen kuivaruokien AMR-Enterobacteriaceae-kontaminaatiota. | Koko avoin artikkeli tarkistettu. |
+| [P029 Karalliu ym. 2024](https://doi.org/10.3389/fvets.2024.1447707) | **City University of Hong Kongin sisäinen rahasto**, projekti 9610511. | **Ei ilmoitettu.** | Koota systemaattisesti koirien AMR-Enterobacterales-kantajuuteen liittyvät riskitekijät maailmanlaajuisesti ja tunnistaa tutkimusaukot. | Koko avoin artikkeli tarkistettu. |
+| [P030 Hiney ym. 2024](https://doi.org/10.3389/fvets.2024.1328513) | **American Holistic Veterinary Medical Foundation** ja Oklahoma State Universityn **Henthorne Clinical Professorship of Small Animal Medicine**. | **Ei ilmoitettu.** | Verrata kuiva- ja raakaruokavalion vaikutuksia ulostemikrobiomiin, seerumin metabolomiin sekä paikallisiin ja systeemisiin tulehdusmarkkereihin. | Koko avoin artikkeli tarkistettu. |
+| [P031 Ortiz ym. 2025](https://doi.org/10.1111/jvim.70060) | **US National Institute on Aging**, U19AG057377. Käytetyn Dog Aging Project -aineiston keruuta tukivat lisäksi muut apurahat ja yksityiset lahjoitukset. | **Ei ilmoitettu.** | Selvittää, liittyykö kotona kypsennetty, kaupallinen raaka tai kotona valmistettu raaka pääruokavalio 13 omistajan ilmoittamaan sairausluokkaan ekstrudoituun ruokaan verrattuna. | Koko avoin artikkeli tarkistettu. |
+| [P032 Moravszki ym. 2025](https://doi.org/10.1038/s41598-025-27388-w) | **Normative Research Funding Committee ja Strategic Research Fund of the University of Veterinary Medicine Budapest**, SRF-001. | **Ei ilmoitettu.** | Mitata 33 täysravinnoksi merkityn valmiin raakaruoan kivennäis- ja raskasmetallipitoisuudet ja verrata niitä FEDIAFin suosituksiin. | Koko avoin artikkeli tarkistettu. |
+| [P033 von Lindeiner ym. 2026](https://doi.org/10.1186/s12917-026-05283-4) | **LABOKLIN GmbH & Co. KG** teki kaikki näyteanalyysit maksutta; kaksi kirjoittajaa oli yrityksen palveluksessa. Projekt DEAL järjesti avoimen julkaisemisen. | **Ei ilmoitettu.** | Arvioida raakaruokinnan vaikutusta terveiden koirien kuntoluokkaan kaupalliseen täysravintoon verrattuna sekä tarkastella annosta, aktiivisuutta ja ravitsemustilaa. | Koko avoin artikkeli tarkistettu. |
+| [P034 He ym. 2026](https://doi.org/10.3390/antibiotics15030282) | **Belgian Federal Public Service of Health, Food Chain Safety and Environment**, sopimus RT 21/1 PET-AMR 1; **Chinese Scholarship Council** tuki Junjia Hetä. | **Ei ilmoitettu erillisenä.** Sopimusnumero on rahoituslausumassa, eikä artikkeli nimeä viranomaista tilaajaksi. | Selvittää kaupallisten raakaruokien E. coli-, Enterococcus- ja Campylobacter-bakteerien resistenssin esiintyvyyttä ja siihen liittyviä tuotetekijöitä. | Alkuperäisartikkeli, PubMed ja yliopistotietue tarkistettu. |
+| [P035 Seneviratne ym. 2026](https://doi.org/10.1093/trfood/vxag016) | Artikkelin mukaan **tutkimus ei saanut ulkoista rahoitusta**. | **Ei ilmoitettu.** | Arvioida 60 brittiläisen raakatuotteen mikrobiologista laatua ja turvallisuutta sekä karakterisoida B. cereus-, C. perfringens- ja Salmonella-löydöksiä. | Koko avoin artikkeli tarkistettu. |
+| [P036 Solís ym. 2026](https://doi.org/10.3389/fmicb.2026.1910251) | **Nestlé Purina, Purina Scientific Funds 2020**, ja **Fondecyt Regular 1241084**. Purinan ilmoitettiin olleen osallistumatta tutkimusasetelmaan, kokeisiin, analyysiin, tulkintaan ja kirjoittamiseen. | **Ei ilmoitettu.** Purina nimetään rahoittajaksi, ei tilaajaksi. | Kuvata raaka- ja ekstrudoitujen ruokien ravintosisältö ja merkintätarkkuus, verrata koirien ulostemikrobiomia ja arvioida patogeenikantajuuden yhteyttä mikrobiomiin. | Koko avoin artikkeli tarkistettu. |
+| [P037 Sealey ym. 2026](https://doi.org/10.1016/j.cmi.2026.07.022) | **UK Biotechnology and Biological Sciences Research Council**, BB/X012670/1, ja **Medical Research Council**, MR/T005408/1. | **Ei ilmoitettu.** | Verrata raakalihasta ja kaupallisesta raakakoiranruoasta eristettyjen resistenttien E. coli -kantojen genomiikkaa 1 182 ihmisen virtsa- ja veriviljelyisolaattiin samalta alueelta ja ajalta. | Julkaisijan koko teksti, PubMed ja yliopistotietue tarkistettu. |
+
 ## Rahoitusluokkien yhteenveto
 
 | Luokka | Tutkimukset |
 |---|---|
-| Kaupallinen rahoitus tai erittäin läheinen yritystuki | P001, P010, P012 |
-| Yritysten antamia tuotteita, laboratorio- tai henkilötukea muun rahoituksen rinnalla | P002, P006, P008 |
-| Julkinen, yliopisto- tai säätiörahoitus ilman ilmoitettua lemmikkiruokayhtiön rahoitusta | P003, P005, P009, P015, P016, P017, P018, P019, P023 |
-| Artikkeli ilmoittaa, ettei erityisrahoitusta tarvittu tai ettei erityistä apurahaa saatu | P007, P022 |
+| Kaupallinen lemmikkiruokayhtiön rahoitus tai erittäin läheinen yritystuki | P001, P010, P012, P036 |
+| Yritysten antamia tuotteita, laboratorio- tai henkilötukea muun rahoituksen rinnalla | P002, P006, P008, P033 |
+| Julkinen tai yliopistorahoitus ilman ilmoitettua lemmikkiruokayhtiön rahoitusta | P003, P005, P009, P015, P016, P017, P018, P019, P023, P028, P029, P031, P032, P034, P037 |
+| Säätiö- tai professuurirahoitus ilman ilmoitettua lemmikkiruokayhtiön rahoitusta | P030 |
+| Artikkeli ilmoittaa, ettei erityisrahoitusta tai ulkoista rahoitusta saatu | P007, P022, P035 |
 | Rahoitusta ei ilmoitettu tarkistetussa koko artikkelissa | P011, P013, P014, P020, P024, P025, P027 |
 | Koko artikkelin rahoitusosuus vielä varmennettava | P004, P021, P026 |
 
@@ -81,8 +97,9 @@ Luokitus ei kerro, että jonkin ryhmän tutkimus olisi automaattisesti oikea tai
 - P018 ilmoittaa nimenomaisesti, ettei tutkimusta tilattu.
 - P014 oli FDA:n oman laboratorioverkoston ja Center for Veterinary Medicinen käynnistämä tutkimusohjelma.
 - P020 tehtiin julkisen kansanterveysseurannan ja epidemiaselvityksen yhteydessä.
-- Muut tarkistetut julkaisut, mukaan lukien erän 3 julkaisut P022–P027, eivät nimeä erillistä tilaajaa tai toimeksiantajaa.
-- Rahoittajaa ei siksi saa automaattisesti kutsua tilaajaksi. Esimerkiksi Freshpetin, Nutrigene-yhtiön tai DogRisk-tutkimusten yritystukijoiden roolit kirjataan sellaisina kuin artikkeli ne ilmoittaa.
+- Muut tarkistetut julkaisut, mukaan lukien erän 4 julkaisut P028–P037, eivät nimeä erillistä tilaajaa tai toimeksiantajaa.
+- P034:n viranomaissopimus kirjataan rahoitukseksi, koska artikkeli ei nimenomaisesti nimeä viranomaista tilaajaksi. P036 nimeää Nestlé Purinan rahoittajaksi mutta ei tilaajaksi.
+- Rahoittajaa ei siksi saa automaattisesti kutsua tilaajaksi. Freshpetin, Nutrigene-yhtiön, DogRisk-tutkimusten yritystukijoiden ja Nestlé Purinan roolit kirjataan sellaisina kuin artikkelit ne ilmoittavat.
 
 ## Avoimet varmennukset
 
