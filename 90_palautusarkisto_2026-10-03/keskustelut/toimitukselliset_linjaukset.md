@@ -22,3 +22,13 @@ Tämä tiedosto kokoaa keskusteluissa varmasti vahvistetut linjaukset. Se ei ole
 - Haaskansyöjätaustaa ei käytetä perusteluna mädäntyneen lihan, katkenneen kylmäketjun, takaisinvedetyn tuotteen tai valmiita toksiineja sisältävän ruoan syöttämiselle.
 - Koiran ja suden haaskojen hyödyntäminen esitetään käyttäytymisekologisena havaintona. Väite koiran yksinomaisesta jätekasadomestikaatiosta esitetään vain kiistanalaisena hypoteesina.
 - Linjaus sovitetaan jokaiseen nykyiseen ja tulevaan lukuun luvun oman aiheen kautta ilman tarpeetonta saman kappaleen toistoa.
+
+## 15.10.2026 — julkaisuvaiheen säilytyssääntö
+
+- Noin kahdeksan kuukauden aikana syntyneitä alkuperäisiä aineistoja, mastereita, lukukopioita tai keskustelumuistioita ei poisteta eikä kirjoiteta yli.
+- Julkaisuvalmis teksti rakennetaan uutena kerroksena alkuperäisten rinnalle.
+- Ennen kokemusaineiston toimittamista se säilytetään muuttamattomana lähdekopiona.
+- Jokaiselle uudelleenrakennetulle luvulle tehdään työversion lisäksi lähdevertailu ja muutosloki.
+- Päällekkäisyydet säilytetään, kunnes koko kirjan aineistokartta ja julkaisumaster on tarkistettu.
+- Koko kirjan suomen kielen korjaus ja kuvitus tehdään myöhempinä erillisinä vaiheina; ne eivät saa hävittää tekstin aikaisempia versioita.
+- Yksityiskohtainen menettely on tiedostossa `uudelleenrakennus/JULKAISUVAIHEEN_SAILYTYSPERIAATE.md`.
