@@ -23,7 +23,7 @@ Tavoite on selvittää jokaisesta kirjassa käytetystä tutkimuksesta:
 
 Kirjan lähdeluettelon teknisessä alkukartoituksessa tunnistettiin 202 lähderiviä ja 128 yksilöllistä DOI-merkkijonoa. Talin ja Doddin virheellisesti yhdistetyn viitteen erottaminen kahdeksi julkaisuksi nosti nykyisen lähderivimäärän 203:een, mutta DOI-tunnisteiden määrä ei muuttunut. Luvut eivät tarkoita samaa määrää eri tutkimuksia: luettelossa on edelleen päällekkäisyyksiä, lyhytviitteitä ja muita kuin tutkimusartikkeleita.
 
-Kolmen analyysierän koontirekisterissä on nyt 27 tutkimuskorttia. Rahoittaja, tilaaja ja alkuperäinen tarkoitus on varmennettu nykyisten kriteerien mukaan 24 julkaisusta. Kolme korttia on osittain avoinna: P004 Freeman ja Michel (2001), P021 Indra ym. (2025) ja P026 Taylor ym. (2009) odottavat koko artikkelin rahoitus-, kiitos- tai sidonnaisuusosuuden lopullista varmennusta. Erä 3 käsittelee kuutta ravitsemustasapainon, puutosten ja kliinisten tapausten julkaisua. Lisäksi yrityssidonnaisuuksien taustaraportti erottaa suoraksi omistukseksi varmennetut klinikkasuhteet, vähemmistöomistukset sekä pelkät toimittaja- ja koulutussuhteet.
+Neljän analyysierän koontirekisterissä on nyt 37 tutkimuskorttia. Rahoittaja, tilaaja ja alkuperäinen tarkoitus on varmennettu nykyisten kriteerien mukaan 34 julkaisusta. Kolme korttia on osittain avoinna: P004 Freeman ja Michel (2001), P021 Indra ym. (2025) ja P026 Taylor ym. (2009) odottavat koko artikkelin rahoitus-, kiitos- tai sidonnaisuusosuuden lopullista varmennusta. Erä 4 käsittelee kymmentä vuosina 2024–2026 julkaistua tutkimusta, joissa kuumennettua kaupallista ruokaa ja raakaruokaa verrataan suoraan tai raakaruokien mikrobi-, resistenssi- ja ravitsemusriskiä tutkitaan. Lisäksi yrityssidonnaisuuksien taustaraportti erottaa suoraksi omistukseksi varmennetut klinikkasuhteet, vähemmistöomistukset sekä pelkät toimittaja- ja koulutussuhteet.
 
 ## Tiedostot
 
@@ -36,6 +36,7 @@ Kolmen analyysierän koontirekisterissä on nyt 27 tutkimuskorttia. Rahoittaja, 
 - [Rahoittaja, tilaaja ja tutkimuksen tarkoitus – koontirekisteri](06_rahoittaja_tilaaja_ja_tutkimuksen_tarkoitus.md)
 - [Vertaisarvioidut tutkimukset, erä 3: ravitsemustasapaino ja puutostapaukset](07_vertaisarvioidut_ravitsemustasapaino_ja_puutokset_era_3.md)
 - [Suurimmat lemmikkiruokayhtiöt ja sidokset eläinlääkäriketjuihin](08_lemmikkiruokayhtiot_ja_elainlaakariketjujen_sidokset.md)
+- [Uudet vertaisarvioidut vertailut: kuumennettu kaupallinen ruoka ja raakaruoka, erä 4](09_uudet_vertailut_kuumennettu_vs_raaka_era_4.md)
 
 ## Ensisijainen tarkastelukulma
 
