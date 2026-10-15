@@ -11,7 +11,7 @@ Tekninen alkukartoitus 14.10.2026:
 - mukana päällekkäisiä viitteitä, lyhytviitteitä, kirjoja, standardeja, viranomais- ja järjestölähteitä sekä verkkosivuja;
 - määrä ei siis vielä ole tutkimusartikkelien lopullinen lukumäärä.
 
-Kaikki lähdeluettelosta poimitut 128 DOI-tunnistetta ovat [deduplikoidussa DOI-työrekisterissä](04_doi_tutkimusehdokkaiden_rekisteri.md). Alkuperäislähdetarkistus täydensi lisäksi seitsemän lähdeluettelosta puuttunutta DOI-tunnistetta, joten rekisterissä on 135 DOI-riviä. Rekisteri ei oleta DOI-lähdettä vertaisarvioiduksi, vaan tekee tarkistettavat julkaisut ja niiden käsittelytilan näkyviksi.
+Kaikki lähdeluettelosta poimitut 128 DOI-tunnistetta ovat [deduplikoidussa DOI-työrekisterissä](04_doi_tutkimusehdokkaiden_rekisteri.md). Alkuperäislähdetarkistus ja erän 4 ajantasaisuushaku täydensivät lisäksi 17 lähdeluettelosta puuttunutta DOI-tunnistetta, joten rekisterissä on 145 DOI-riviä. Rekisteri ei oleta DOI-lähdettä vertaisarvioiduksi, vaan tekee tarkistettavat julkaisut ja niiden käsittelytilan näkyviksi.
 
 ## Luvun 25 ydintutkimusten tila
 
@@ -56,12 +56,27 @@ Kaikki lähdeluettelosta poimitut 128 DOI-tunnistetta ovat [deduplikoidussa DOI-
 | P026 | Taylor ym. 2009, DOI 10.2460/javma.234.8.1041 | kliininen tapausraportti | analysoitu osittain erässä 3; koko artikkelin rahoitus- ja kiitososuus varmennettava |
 | P027 | Freeman ym. 2013, DOI 10.2460/javma.243.11.1549 | narratiivinen katsaus | analysoitu erässä 3; rahoittajaa tai tilaajaa ei ilmoitettu |
 
+## Uusien kuumennettu–raaka-vertailujen erän 4 tila
+
+| ID | Julkaisu | Tyyppi | Tila |
+|---|---|---|---|
+| P028 | Morgan ym. 2024, DOI 10.3389/fmicb.2023.1301841 | raaka- ja kuivaruokatuotteiden mikrobiologinen vertailu | analysoitu erässä 4 |
+| P029 | Karalliu ym. 2024, DOI 10.3389/fvets.2024.1447707 | AMR-riskitekijöiden systemaattinen katsaus | analysoitu erässä 4 |
+| P030 | Hiney ym. 2024, DOI 10.3389/fvets.2024.1328513 | raaka- ja kuivaruokittujen koirien mikrobiomi- ja biomarkkerivertailu | analysoitu erässä 4; ei tue kuivaruokavalion yleistä paremmuutta |
+| P031 | Ortiz ym. 2025, DOI 10.1111/jvim.70060 | 27 478 koiran poikkileikkausanalyysi | analysoitu erässä 4 |
+| P032 | Moravszki ym. 2025, DOI 10.1038/s41598-025-27388-w | raakatuotteiden kivennäisainemittaus | analysoitu erässä 4 |
+| P033 | von Lindeiner ym. 2026, DOI 10.1186/s12917-026-05283-4 | raaka- ja kaupallisen täysravinnon koiravertailu | analysoitu erässä 4; sekatulos |
+| P034 | He ym. 2026, DOI 10.3390/antibiotics15030282 | kaupallisten raakatuotteiden AMR-tutkimus | analysoitu erässä 4 |
+| P035 | Seneviratne ym. 2026, DOI 10.1093/trfood/vxag016 | kaupallisten raakatuotteiden mikrobiologinen tutkimus | analysoitu erässä 4 |
+| P036 | Solís ym. 2026, DOI 10.3389/fmicb.2026.1910251 | raaka- ja ekstrudoitujen tuotteiden sekä koirien vertailu | analysoitu erässä 4; Nestlé Purina -rahoitus |
+| P037 | Sealey ym. 2026, DOI 10.1016/j.cmi.2026.07.022 | raakaruoka- ja ihmisinfektioisolaattien genomivertailu | analysoitu erässä 4 |
+
 ## Seuraava vertaisarvioitujen työjono
 
 1. Varmennetaan P004:n, P021:n ja P026:n rahoitus-, kiitos- ja sidonnaisuusosuudet koko alkuperäisartikkeleista.
-2. Linkitetään P013–P027 kirjan täsmällisiin väitteisiin ja merkitään, onko lähde väitteen ensisijainen vai taustoittava tuki.
-3. Jatketaan raakaruokaa käsitteleviin mikrobiomi-, sulavuus- ja aineenvaihduntatutkimuksiin.
-4. Tämän jälkeen analysoidaan muut ravitsemus- ja kliiniset taustatutkimukset.
+2. Linkitetään P013–P037 kirjan täsmällisiin väitteisiin ja merkitään, onko lähde väitteen ensisijainen vai taustoittava tuki.
+3. Tarkistetaan P036:n täydentävä aineisto tuotteiden sokkoutuksesta, ennakkosuunnitelmasta ja pakkausmerkintöjen toleransseista.
+4. Jatketaan raakaruokaa käsitteleviin sulavuus-, aineenvaihdunta- ja pitkittäistutkimuksiin.
 5. Varmistetaan jokaisen uuden rivin vertaisarviointi julkaisijan tiedoista; DOI yksin ei ole riittävä todiste.
 6. Siirretään ohjeet, standardit, kirjat, viranomaisverkkosivut ja muut ei-vertaisarvioidut lähteet vaiheeseen 2 tai 3.
 
