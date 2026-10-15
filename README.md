@@ -31,5 +31,6 @@ Tarkempi siirtotarkastus: [SIIRRON_TILA_2026-09-11.md](00_hallinta/SIIRRON_TILA_
 ## Julkaisu- ja kilpailustrategia
 
 - [Julkaisu- ja kilpailustrategia 15.10.2026](00_hallinta/JULKAISU_JA_KILPAILUSTRATEGIA_2026-10-15.md) jakaa kokonaisuuden lukijakirjaan, tieteelliseen syväaineistoon ja käytännön työkaluihin.
+- [Julkaisuversion erillinen työtila](04_julkaisuversio/README.md) sisältää ensimmäisen lukijapolun ja toiminta ensin -sisällysluettelon.
 - Strategia sisältää nykyisten 26 luvun sijoittelukartan, ehdotetun uuden lukujärjestyksen, tuote- ja hinnoittelumallin, markkinointipolun sekä lukija- ja asiantuntijatestauksen.
 - MASTER.md ja kaikki alkuperäisaineisto säilyvät muuttamattomina lähdeversioina; julkaisuversio rakennetaan erillisenä kerroksena.
