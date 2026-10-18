@@ -81,11 +81,13 @@ Useiden lihalajien käyttäminen lisää raaka-aineiden kirjoa, mutta vaihtelu e
 
 Vaihtelun on tapahduttava suunnitellun rungon sisällä: energialähteet, kalsium, tarkoituksenmukaiset sisäelimet, rasvahapot ja tunnistetut täydennykset pidetään hallinnassa, vaikka lihalaji tai kala vaihtuu.
 
-## Diegon peura oli perusta, ei valmis resepti
+## Diegon kulho – peura ruokavalion perustana
 
-Diegon ruokavalion pääasiallinen lihalähde oli peura. Yksi hänelle hyvin sopiva raaka-aine teki arjesta vakaata, mutta pelkkä peuran lihaskudos ei muodostanut koko ruokavaliota.
+Diegon ruokavalion pääraaka-aine oli peura. Se ei kuitenkaan tarkoittanut, että pelkkä peuran lihaskudos olisi ollut koko ruokavalio. Päälihan rinnalla tarvittiin ravitsemuksellinen kokonaisuus.
 
-Diego opetti minulle, että yksi poikkeuksellisen hyvin sopiva raaka-aine voi olla ruokavalion perusta. Ravitsemustiede muistuttaa, ettei perustaa pidä sekoittaa koko rakennukseen.
+Diego opetti minulle, että yksi koiralle poikkeuksellisen hyvin sopiva raaka-aine voi muodostaa ruokavalion perustan. Ravitsemustiede opettaa, ettei perustaa pidä sekoittaa koko rakennukseen.
+
+Peura oli Diegolle käytännössä toimiva pääraaka-aine. Tämä oli oma havaintoni hänen ruokinnastaan, ei tutkimuksellinen todiste siitä, että sama raaka-aine sopisi jokaiselle koiralle tai yksin kattaisi ravintoaineiden tarpeen. Ruokavalion muu rakenne ja täydennykset on arvioitava erikseen.
 
 > **Toimi näin:** Tarkista jokaisesta pitkäaikaisesta reseptistä vähintään energia, proteiini, rasvahapot, kalsium, fosfori, olennaiset sisäelimet sekä tunnistetut vitamiini- ja kivennäisainelähteet.
 
