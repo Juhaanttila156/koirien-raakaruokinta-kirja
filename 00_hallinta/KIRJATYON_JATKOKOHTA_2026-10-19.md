@@ -1,6 +1,23 @@
 # Kirjatyön jatkokohta 19.10.2026
 
-## Uusin jatkokohta: luku 11 ja alkuperäisen tekstin säilyttäminen
+## Uusin jatkokohta: alkuperäisen masterin luku 12, kala ja merenelävät
+
+Kirjoittaja vahvisti alkuperäisen masterin säilyttämisen ja salli uuden tiedon lisäämisen. **Tarkastusversio on valmis, ei lukittu.**
+
+- Teksti: `04_julkaisuversio/toimitusluonnokset/27_12_KALA_MERENELAVAT_ALKUPERAISMASTERIN_TARKASTUSVERSIO_2026-10-19.md`.
+- Säilymiskartta, lähdekorjaus, lisäykset, avoimet asiat ja alkuperäinen luku kokonaisena: `03_tutkimusanalyysi/13_KALA_MERENELAVAT_LAHDE_JA_SAILYVYYSAUDITOINTI_2026-10-19.md`.
+- PDF: `Luku_12_Kala_ja_merenelavat.pdf`, A5, 8 sivua.
+- Yhteisen rahoitusrekisterin uudet tietueet L12-A1 ja L12-A2; aiempia tietueita käytetään uudelleen.
+
+Kaikki alkuperäisen luvun 16 tekstikappaletta ja 11 väliotsikkoa säilyvät. Kappaleista 15 on sanatarkkoja; yhdessä vaihtui vain lähdeviite Hall 2006:sta Aakre 2020:een. Diegon päätöskappale on sanatarkka. PDF:n tekstivastaavuus ja kaikkien sivujen taitto tarkistettiin.
+
+**Rakenteen huomio:** tämä on alkuperäisen masterin kalaluku 12. Uudemmassa julkaisuversiossa kalaa on myös luvussa 9 ja nykyinen luku 12 käsittelee ruokintasuunnitelmaa. Kumpaakaan nykyistä lukua ei korvattu. Lopullinen numerointi ja päällekkäisyyksien sijoittelu ratkaistaan sisältöä säilyttäen; tämä luonnos ei yksin lukitse sisällysluetteloa.
+
+Wolfe 2023:n täydentävät rahoitus-/kiitoslausumat sekä Kritikos 2017:n ja Lee 2000:n rahoitus- ja sidonnaisuuslausumat jäävät avoimiksi. Niitä ei kuvata rahoittamattomiksi tutkimuksiksi. Luvun 9 seuraavassa korjauskierroksessa tarkistetaan alkuperäisen JP:n ja Diegon kalaöljykokemuksen henkilökohtaisten määrien säilyminen samalla periaatteella kuin luvun 11 jo korjatussa Diego-kappaleessa.
+
+Seuraava alkuperäisen masterin aihe on **13 Hygienia ja mikrobiologinen turvallisuus**. Aloita sen koko alkuperäisestä tekstistä, vertaa nykyiseen rakenteeseen ja säilytä kokemukset sekä perustelut. Aiemmat masterit, nykyiset käsikirjoitusluvut ja lukitut kiintymys- ja menetysosuudet ovat ennallaan. Kirjoittajan hyväksyntä tarvitaan lukitukseen; uuden tarkastusluvun tekeminen on sallittua.
+
+## Edellinen jatkomerkintä: luku 11 ja alkuperäisen tekstin säilyttäminen
 
 Kirjoittaja muistutti 19.10.2026 erikseen: alkuperäisen pitkän masterin sisältöä ja tekstiä ei saa hävittää. **Työ aloitetaan alkuperäisestä pitkästä masterista, ei lyhyemmästä julkaisuversioluvusta.** Pelkkä sanamäärän kasvu tai asiakokonaisuuksien luettelo ei riitä: kappaleet ja täsmennetyt sanamuodot verrataan alkuperäiseen. Kirjoittajan omat kokemukset säilytetään kirjatekstissä. Faktakorjaukset dokumentoidaan niin, että myös alkuperäinen ilmaisu on nähtävissä.
 

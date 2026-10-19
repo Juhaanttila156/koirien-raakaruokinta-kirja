@@ -141,3 +141,16 @@ Vitamiinit, kivennäisaineet ja lisäravinteet. Aiemmat tiedot säilyvät. `Ei v
 Uudelleenkäytettävät tietueet: **P022** (Dillitzer 2011), **P023** (Choi 2023), luvun 9 auditoinnin **R9-02** (Hall 2006), **L10-O2** (FEDIAF 2025) ja **L10-O3** (NRC 2006). Hallin koko sidonnaisuuslausuman ja NRC:n täsmäsivun avoin tila säilyy.
 
 L10-O2:n tarkistus täydentyy tässä luvussa koirien ravintoainetaulukoilla ja koirien E-vitamiinia koskevalla perustelulla s. 27. Kissojen määrällistä kalaöljy–E-vitamiiniohjetta ei siirretä koirille. Kyse on toimialajärjestön ohjeesta, ei tämän luvun uudesta ruokintakokeesta.
+
+## Luvun 12 täydennys 19.10.2026
+
+Alkuperäisen masterin kala ja merenelävät -luku. Numerointi erotetaan nykyisen julkaisuversion ruokintasuunnitelmaluvusta. Aiemmat rekisteritiedot säilyvät.
+
+| ID ja julkaisu | Rahoittaja ja muu tutkimustuki | Tilaaja / toimeksiantaja | Miksi tutkimus tehtiin? | Varmennuksen tila |
+| --- | --- | --- | --- | --- |
+| L12-A1 [Aakre ym. 2020](https://doi.org/10.3390/foods9101516) | Norwegian Agency for Development Cooperation (Norad). | Ei ilmoitettu. | Mitata Luoteis-Afrikan neljän kalalajin ravintoainekoostumusta ja arvioida merkitystä ihmisten ravitsemukselle. | Kokoteksti sekä rahoitus- ja sidonnaisuuslausumat luettu. Tekijät ilmoittavat, ettei kilpailevia sidonnaisuuksia ole. Eri julkaisu kuin levien jodia koskeva L11-A3. |
+| L12-A2 [Wolfe ym. 2023](https://doi.org/10.1016/j.crfs.2023.100502) | Sidonnaisuuslausuman mukaan F. Allen antoi henkilökohtaisesti osittaista tarviketukea K. A. Edwardsin laboratorioon. Allen on Two Rivers Fisheriesin konsultti; tästä ei päätellä yhtiön rahoittaneen koetta. | Erillistä tilaajaa ei ilmoitettu tarkistetuissa tiedoissa. | Tutkia hopeakarpin tiaminaasiaktiivisuutta ja käsittelyn vaikutuksia. | PubMedin sidonnaisuuslausuma tarkistettu: muut tekijät ilmoittavat, ettei kilpailevia sidonnaisuuksia ole; Allen tai yhtiö eivät osallistuneet analyysiin, tulkintaan tai esittämiseen. Koko artikkelin mahdolliset muut rahoitus-/kiitoslausumat jäävät avoimiksi. |
+
+Uudelleenkäytettävät tietueet: luvun 9 auditoinnin **R9-16** (Kritikos 2017), **R9-17** (Ruokaviraston Kala ja Jäädytysvaatimus), **R9-18** (Lee 2000) sekä **L10-O2 / R9-14** (FEDIAF 2025). Kritikosin ja Leen rahoitus- sekä sidonnaisuustietojen avoin tila säilyy. Ruokaviraston sivut tarkistettiin uudelleen 19.10.2026; kyse on viranomaisohjeista, ei tilatuista ruokintakokeista. Ihmisille annettuja syöntirajoja ei siirretä koiran annossuosituksiksi.
+
+Hall 2006:n **R9-02** säilyy rekisterissä ja muiden lukujen lähteenä. Sen viite alkuperäisen kalaluvun kokonaisen kalan ravintosisältökappaleessa vaihdettiin koostumustutkimukseen L12-A1; vanha viite säilyy luvun 12 auditoinnin alkuperäistekstissä.
