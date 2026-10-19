@@ -107,3 +107,8 @@ Luokitus ei kerro, että jonkin ryhmän tutkimus olisi automaattisesti oikea tai
 2. **P021 Indra ym. 2025:** tarkistettava koko PDF:n rahoitus- ja kiitososio.
 3. **P026 Taylor ym. 2009:** hankittava koko alkuperäisartikkeli ja tarkistettava rahoitus-, kiitos- ja sidonnaisuusosuus.
 4. Jos artikkelin korjattu versio, lisäaineisto tai julkaisijan erillinen disclosure-lomake löytyy myöhemmin, rekisteri päivitetään ja muutos kirjataan.
+
+
+## Luku 9: rasvat ja kala, toimituskierros 19.10.2026
+
+Luvun väitteiden, bibliografisten korjausten, tutkimusten tarkoitusten sekä rahoitus- ja sidonnaisuustietojen yhteinen auditointi on tiedostossa [10_RASVAT_KALA_LAHDE_JA_SAILYVYYSAUDITOINTI_2026-10-19.md](10_RASVAT_KALA_LAHDE_JA_SAILYVYYSAUDITOINTI_2026-10-19.md). Tunnukset R9-01–R9-18 sekä avoimet R9-A1–R9-A2. Aiemmat rekisterimerkinnät säilyvät; tämä ei merkitse kaikkia rahoitusilmoituksia tarkistetuiksi. Hall 2006, Bauer 2011 ja Roush 2010 linkittyvät myös tämän rekisterikokonaisuuden aiempiin tietueisiin.
