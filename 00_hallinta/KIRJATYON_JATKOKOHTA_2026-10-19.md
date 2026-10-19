@@ -1,6 +1,27 @@
 # Kirjatyön jatkokohta 19.10.2026
 
-## Uusin jatkokohta: luku 10 toimitettu tarkastettavaksi
+## Uusin jatkokohta: luku 11 ja alkuperäisen tekstin säilyttäminen
+
+Kirjoittaja muistutti 19.10.2026 erikseen: alkuperäisen pitkän masterin sisältöä ja tekstiä ei saa hävittää. **Työ aloitetaan alkuperäisestä pitkästä masterista, ei lyhyemmästä julkaisuversioluvusta.** Pelkkä sanamäärän kasvu tai asiakokonaisuuksien luettelo ei riitä: kappaleet ja täsmennetyt sanamuodot verrataan alkuperäiseen. Kirjoittajan omat kokemukset säilytetään kirjatekstissä. Faktakorjaukset dokumentoidaan niin, että myös alkuperäinen ilmaisu on nähtävissä.
+
+Luvun 11 korjattu tarkastusversio on valmis. **Tila: tarkastusversio, ei lukitus.**
+
+- Teksti: `04_julkaisuversio/toimitusluonnokset/26_11_VITAMIINIT_KIVENNAISAINEET_LISARAVINTEET_TARKASTUSVERSIO_2026-10-19.md`.
+- Säilymiskartta, lähdevarmennus, neljän täsmennyksen perustelut ja alkuperäinen luku kokonaisena: `03_tutkimusanalyysi/12_VITAMIINIT_LISARAVINTEET_LAHDE_JA_SAILYVYYSAUDITOINTI_2026-10-19.md`.
+- Rahoitus- ja tarkoitustiedot: yhteisen rekisterin osio Luvun 11 täydennys 19.10.2026 sekä uudelleenkäytetyt aiemmat tietueet.
+- PDF: `Luku_11_Vitamiinit_kivennaisaineet_ja_lisaravinteet.pdf`, A5, 12 sivua.
+
+Alkuperäisarkiston `MASTER_ennen_kielentarkistusta_2026-10-03.md` -tiedoston luku 11 vastaa liitetyn 283-sivuisen v9-1-masterin lukua, kun taittomerkit normalisoidaan. Sen 24 leipätekstikappaleesta 20 on uudessa tekstissä sanatarkasti; neljän asiatekstikappaleen täsmennykset on eritelty. Kaikki alkuperäiset kappaleet ovat myös säilymiskartan vertailutekstissä.
+
+**Korjattu poisjättö:** uudemman julkaisuversioluvun mukana oli ensimmäisestä luonnoksesta jäänyt pois Diegon kalaöljyn henkilökohtainen 50 millilitran käytäntö. Alkuperäinen Diego-kappale on nyt palautettu kokonaisena, myös sen oma rajaus, ettei kyse ole yleisestä annossuosituksesta. Älä poista kokemuksen yksityiskohtaa uudelleen vain siksi, ettei tuotekoostumusta ole varmennettu; älä myöskään muuta kokemusta muiden koirien annosteluohjeeksi.
+
+How 1994:n rahoitus- ja sidonnaisuuslausumat, Hall 2006:n aiemmin avoimeksi jäänyt disclosure sekä NRC 2006:n täsmäsivu jäävät auditoinnin avoimiksi kohdiksi. Luvun lähdetietoja ei väitetä kokonaan suljetuiksi.
+
+Seuraava aihe on **luku 12: kala ja merenelävät**. Kokoa sen koko alkuperäinen teksti ja vertaa myös luvun 9 laajaan rasva- ja kala-aineistoon. Säilytä kaikki kokemukset, esimerkit, perustelut ja tutkimustulkinnat; merkitse mahdolliset siirrot. Älä aloita valmiita tarkastusversioita uudelleen lyhyistä pohjista.
+
+Luvun 10 kaurapuurokertomus sai kirjoittajalta myönteisen palautteen. Kiintymys- ja menetysosuuden sekä Diego-päätöstekstin aiempi lukitus pysyy voimassa. Alkuperäisiä mastereita ja nykyistä julkaisumasteria ei ole muutettu. Kirjoittaja hyväksyy luvut ennen lukitusta; seuraavan tarkastusluvun tekeminen on sallittua.
+
+## Edellinen jatkomerkintä: luku 10
 
 Luvusta 10, hiilihydraatit, kasvikset ja kuitu, on tehty säilyttävä toimituskopio ja 11-sivuinen A5-tarkastuskappale. **Tila: tarkastusversio, ei lukitus.**
 

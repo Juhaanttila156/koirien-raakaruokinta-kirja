@@ -128,3 +128,16 @@ Tämä lisäys koskee hiilihydraatteja, kasviksia ja kuitua. Se täydentää rek
 | L10-O3 NRC 2006, Nutrient Requirements of Dogs and Cats | Ei varmennettu tällä kierroksella. | Ei varmennettu tällä kierroksella. | Koota koiran ja kissan ravinnontarpeita koskeva tutkimustieto. | Alkuperäisen käsikirjoituksen taustalähde; ei uutta yksinomaista väitettä sen varaan. Täsmäsivu avoinna. |
 | L10-O4 [Ruokavirasto: Raakamaito](https://www.ruokavirasto.fi/elintarvikkeet/ohjeita-kuluttajille/turvallisen-kayton-ohjeet/raakamaito/) | Viranomaisen elintarviketurvallisuusohje; ei yksittäinen rahoitettu koirakoe. | Ruokavirasto julkaisijana. | Neuvoa raakamaidon turvallisessa käytössä ja kertoa mikrobiologisista riskeistä. | Verkkosivu tarkistettu 19.10.2026. Ei koiran ripulin hoitotehon lähde. |
 
+## Luvun 11 täydennys 19.10.2026
+
+Vitamiinit, kivennäisaineet ja lisäravinteet. Aiemmat tiedot säilyvät. `Ei varmennettu` tarkoittaa, ettei asianomainen alkuperäislausuma ole ollut tarkistettavissa; se ei tarkoita rahoituksen puuttumista.
+
+| ID ja julkaisu | Rahoittaja ja muu tutkimustuki | Tilaaja / toimeksiantaja | Miksi tutkimus tehtiin? | Varmennuksen tila |
+| --- | --- | --- | --- | --- |
+| L11-A1 [Pedrinelli ym. 2021](https://doi.org/10.1186/s12917-021-03068-5) | Ei tutkimuskohtaista apurahaa. Kiitoksissa Grandfood / PremieR pet tutkimuskeskuksen rahoittajana, Biorigin Brazil laboratorioavusta sekä National Council for Scientific and Technological Development ensimmäisen kirjoittajan apurahasta. | Ei ilmoitettu. | Arvioida reseptien ainesosamäärän, lisien ja kasviperäisyyden yhteyttä ravintosisältöön. | Menetelmät, kiitokset, rahoitus ja sidonnaisuudet luettu kustantajan kokotekstistä. Tekijät ilmoittavat, ettei kilpailevia sidonnaisuuksia ole. Eri julkaisu kuin P008. |
+| L11-A2 [How, Hazewinkel & Mol 1994](https://doi.org/10.1006/gcen.1994.1154) | Ei varmennettu kokotekstistä. | Ei varmennettu. | Selvittää D-vitamiinin muodostumista koiran ja kissan ihonäytteissä UV-altistuksessa. | PubMedin ja kustantajan bibliografia ja tiivistelmä tarkistettu. Rahoitus-, kiitos- ja sidonnaisuuslausumat avoinna; yliopistoaffiliaatiosta ei päätellä rahoittajaa. |
+| L11-A3 [Aakre ym. 2021](https://doi.org/10.29219/fnr.v65.7584) | Institute of Marine Research. | Ei ilmoitettu. | Mitata Norjassa myytyjen levää sisältävien elintarvikkeiden ja ravintolisien jodipitoisuuksia. | Kustantajan PDF:n menetelmät sekä s. 12 rahoitus- ja sidonnaisuuslausumat tarkistettu. Tekijät ilmoittavat, ettei kilpailevia sidonnaisuuksia ole; tutkimuksen suunnittelu, analyysi, tulkinta ja kirjoittaminen ovat tekijöiden vastuulla. |
+
+Uudelleenkäytettävät tietueet: **P022** (Dillitzer 2011), **P023** (Choi 2023), luvun 9 auditoinnin **R9-02** (Hall 2006), **L10-O2** (FEDIAF 2025) ja **L10-O3** (NRC 2006). Hallin koko sidonnaisuuslausuman ja NRC:n täsmäsivun avoin tila säilyy.
+
+L10-O2:n tarkistus täydentyy tässä luvussa koirien ravintoainetaulukoilla ja koirien E-vitamiinia koskevalla perustelulla s. 27. Kissojen määrällistä kalaöljy–E-vitamiiniohjetta ei siirretä koirille. Kyse on toimialajärjestön ohjeesta, ei tämän luvun uudesta ruokintakokeesta.
