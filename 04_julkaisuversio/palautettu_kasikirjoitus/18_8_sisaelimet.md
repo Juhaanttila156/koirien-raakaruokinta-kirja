@@ -375,3 +375,20 @@ Lähteitä tässä osassa
 
 
 ---
+
+
+---
+
+## Päivätyt lähde- ja asiatarkennukset 20.10.2026
+
+### K02 — Liao-viitteen tunniste ei vastaa väitettyä tutkimusta
+
+Tässä osiossa esiintyvää vanhaa merkintää koskee sama korjaus K02 kuin osiossa «5 SIIRTYMINEN RAAKARUOKINTAAN». Korjauksen koko teksti on myös tämän kirjan korjausrekisterissä.
+
+### K03 — Vuoden 2020 luututkimuksen ensimmäinen tekijä ja rajaus
+
+Tässä osiossa esiintyvää vanhaa merkintää koskee sama korjaus K03 kuin osiossa «7 LUUT JA KALSIUM». Korjauksen koko teksti on myös tämän kirjan korjausrekisterissä.
+
+### K04 — Kuparihepatiittikatsauksen tekijät
+
+Canine Copper-Associated Hepatitis -katsauksen oikea tekijämerkintä on Dirksen ja Fieten (2017), Veterinary Clinics of North America: Small Animal Practice 47:631–644. Pelkkä Fieten ym. (2017) korjataan tätä katsausartikkelia tarkoitettaessa. DOI säilyy: [10.1016/j.cvsm.2016.11.011](https://doi.org/10.1016/j.cvsm.2016.11.011).

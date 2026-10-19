@@ -391,3 +391,16 @@ Trikiiniä voivat kantaa muun muassa villisika, karhu, ilves, mäyrä, majava ja
 ### LUVUN 22 LÄHTEET
 
 [Ruokavirasto 2026e – Usein kysyttyä lemmikkien ruoista ja niiden valvonnasta](https://www.ruokavirasto.fi/elaimet/rehut/tietoa-rehuista/lemmikkielainten-ruoka/usein-kysyttya-lemmikkien-ruoista-ja-niiden-valvonnasta/)
+
+
+---
+
+## Päivätyt lähde- ja asiatarkennukset 20.10.2026
+
+### K15 — Villisika, sianliha ja Aujeszkyn tauti
+
+Ruokaviraston Aujeszkyn tautia koskeva ohje neuvoo olemaan antamatta koirille raakaa sian tai villisian lihaa ja teurasjätettä. Negatiivinen trikiinitulos ei tutki Aujeszkyn virusta eikä tee villisian ruhonosasta yleisesti turvallista raakana. Suomen tuotantosikojen tautivapaa asema ja luonnonvaraisten villisikojen tilanne erotetaan toisistaan: villisioissa on todettu satunnaisia vasta-ainelöydöksiä. Lähde: [Ruokavirasto, Aujeszkyn tauti, päivitetty 25.5.2026](https://www.ruokavirasto.fi/elaimet/elainten-terveys-ja-elaintaudit/elaintaudit/usealle-elainlajille-yhteiset-taudit/aujeszkyn-tauti/).
+
+### K16 — Riistan tautitilanne: päivätty lisäys
+
+Suomessa todettiin afrikkalaista sikaruttoa luonnonvaraisissa villisioissa heinäkuussa 2026. Koira ei sairastu tähän sikojen tautiin, mutta voi kuljettaa virusta mekaanisesti. Riistan alkuperä, kuljetus ja alueelliset rajoitukset tarkistetaan aina ajantasaisesta viranomaistiedosta; kirjan yleinen riistaohje ei korvaa muuttuvia rajoituksia. Pakastaminen ei poista ASF-virusta luotettavasti. Lähteet: [Ruokavirasto, afrikkalainen sikarutto](https://www.ruokavirasto.fi/elaimet/elainten-terveys-ja-elaintaudit/elaintaudit/siat/afrikkalainen-sikarutto/) ja [usein kysytyt kysymykset](https://www.ruokavirasto.fi/elaimet/elainten-terveys-ja-elaintaudit/elaintaudit/siat/afrikkalainen-sikarutto/usein-kysyttya-afrikkalaisesta-sikarutosta/). Tarkistettu 20.10.2026.

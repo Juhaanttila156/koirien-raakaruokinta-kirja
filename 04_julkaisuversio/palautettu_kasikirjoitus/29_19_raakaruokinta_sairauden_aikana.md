@@ -173,3 +173,26 @@ Koiran etu ei sijaitse ruoan nimessä. Se näkyy siinä, saako koira tarpeeksi e
 5. Kuka laskee ja kuka seuraa? Hoitava eläinlääkäri määrittää kliiniset tavoitteet. Ravitsemukseen perehtynyt eläinlääkäri rakentaa tarvittaessa reseptin. Omistaja punnitsee ruoan ja kirjaa syömisen, oireet, painon ja lääkityksen.
 
 6. Milloin suunnitelma arvioidaan uudelleen? Kontrollipäivä, verikokeet, virtsakokeet, paino sekä kehon- ja lihaskunto sovitaan etukäteen. Hoitoruokavalio on seurattava hoito, ei pysyvä arvaus. (Freeman ym. 2011.)
+
+
+---
+
+## Päivätyt lähde- ja asiatarkennukset 20.10.2026
+
+### K08 — PLE: mitä Simpsonin ruokintakoe osoitti
+
+Simpsonin ym. (2023) artikkelin oikea nimi on Randomized controlled trial of hydrolyzed fish diets in dogs with chronic enteropathy. Tutkimuksessa oli 31 koiraa, joista kahdeksalla oli proteiinia menettävä enteropatia eli PLE. PLE-koirat saivat kahta erilaista hydrolysoitua kalaruokavaliota; tässä pienessä alaryhmässä ei ollut hydrolysoimatonta vertailuruokaa saanutta ryhmää, ja samanaikainen lääkitys oli mahdollinen. Tuloksia ei siksi pidä tulkita raakaruokinnan hyötykokeeksi eikä näytöksi hydrolysoidun kalan paremmuudesta kaikkiin muihin PLE-ruokavalioihin nähden. Ruokavaliohoito kuuluu kokonaisvaltaiseen, seurattuun hoitoon.
+
+Tutkimuksen rahoitti Farmina Pet Foods. Kenneth W. Simpson ilmoitti asiantuntijasidonnaisuuksia Farminaan ja Nestlé Purinaan. Lähde: [10.1111/jvim.16844](https://doi.org/10.1111/jvim.16844).
+
+### K09 — Munuaissairauden ajantasainen ohje
+
+IRIS julkaisi koirien kroonisen munuaissairauden hoitosuosituksista vuoden 2026 päivityksen. Kirjan IRIS 2023 -viittaukset ovat vanhempaan versioon; ajantasaisessa seurannassa käytetään vuoden 2026 ohjetta. Fosforin saanti ja hoitotavoitteet sovitetaan sairauden vaiheeseen ja kontrollituloksiin. Ruokavalion muuttaminen ei ole sama asia kuin proteiinin summittainen vähentäminen. Lähde: [IRIS Guidelines, koirien hoitosuositus 2026](https://www.iris-kidney.com/iris-guidelines-1).
+
+### K10 — Diabeteksen ruokintaohje on päivitetty vuonna 2026
+
+Koirien diabetesta koskeva uusin AAHA-ohje on vuoden 2026 koiraohje. Vuoden 2018 yhteisohje koirille ja kissoille säilyy historiallisena lähteenä. Uusi ohje korostaa insuliinihoitoa tukevaa, ravitsemuksellisesti täysipainoista ja ennustettavaa ruokintaa. Laihtuneella koiralla riittävän energian ja lihasmassan palauttaminen on keskeistä; runsaskuituinen laihdutusruoka ei ole kaikille sopiva ratkaisu. Lähde: [AAHA 2026, Dietary Management in Diabetic Dogs](https://www.aaha.org/resources/2026-aaha-diabetes-management-guidelines-for-dogs/section-6-dietary-management-in-diabetic-dogs/).
+
+### K11 — Kroonisen suolistosairauden vuoden 2026 konsensus
+
+Heilmannin ym. (2026) ACVIM-konsensus ja järjestelmällinen katsaus täydentävät kirjan suolisto-osuutta. Kliinisesti vakaalla koiralla suunniteltu, yksinomaisesti toteutettu ruokavaliokoe on keskeinen hoitovaihe. Suolisto-oireiden ruokakokeessa vähimmäisjakso voi olla kaksi viikkoa; tämä ei lyhennä iho-oireiden eliminaatiokokeen erillistä aikataulua. Vaikea PLE, huononeva yleiskunto tai huomattava ravitsemustilan heikkeneminen edellyttävät yksilöllistä hoitoa ja seurantaa, eivät pitkää kotona odottamista. Rasvan rajoittaminen arvioidaan erityisesti imusuoniperäisessä sairaudessa. Lähde: [10.1093/jvimsj/aalaf017](https://doi.org/10.1093/jvimsj/aalaf017).

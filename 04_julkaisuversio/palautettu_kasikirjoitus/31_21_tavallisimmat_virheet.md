@@ -257,3 +257,12 @@ Sama koskee kalaöljyä. Diego sai kokemukseni mukaan hänelle hyvin sopinutta, 
 ### LUVUN 16 LÄHTEET
 
 [FEDIAF 2025 – Nutritional Guidelines for Complete and Complementary Pet Food for Cats and Dogs](https://europeanpetfood.org/wp-content/uploads/2025/09/FEDIAF-Nutritional-Guidelines_2025-ONLINE.pdf)
+
+
+---
+
+## Päivätyt lähde- ja asiatarkennukset 20.10.2026
+
+### K07 — Finley-tutkimuksen PubMed-linkki
+
+Finleyn ym. (2007) Salmonella-eritystä käsittelevän tutkimuksen oikea PubMed-tunnus on 17310625. Tunnus 17436942 johtaa eri tutkimukseen. Oikea avoin artikkeli: The risk of salmonellae shedding by dogs fed Salmonella-contaminated commercial raw food diets, Canadian Veterinary Journal 48:69–75, [PMC1716752](https://pmc.ncbi.nlm.nih.gov/articles/PMC1716752/).

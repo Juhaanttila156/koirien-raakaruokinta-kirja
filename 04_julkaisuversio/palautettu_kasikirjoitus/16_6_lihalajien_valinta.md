@@ -69,3 +69,12 @@ Diegon pääraaka-aineen sopivuus ei perustunut vain sanaan peura. Tunsin lihan 
 ### Riista
 
 Diegon varsinainen pääruoka oli peura. Hirveä hän söi vain vähän. Peuranlihan aikana havaitsin hänen turkkinsa, silmiensä, vatsansa ja yleisen olemuksensa pysyvän erittäin hyvinä. Tämä on **JP:n ja Diegon henkilökohtainen kokemus**, ei väite peuran yleisestä parantavasta vaikutuksesta.
+
+
+---
+
+## Päivätyt lähde- ja asiatarkennukset 20.10.2026
+
+### K19 — Lihavalinnan täsmennys
+
+Sian- ja villisianlihaa koskevaa alkuperäistekstiä luetaan yhdessä riistaluvun Aujeszkyn tautia käsittelevän korjauksen K15 kanssa. Hygienia- ja sulatusohjeen ajantasainen täsmennys on K13. Nämä täydennykset eivät muuta kirjassa säilyvää kuvausta kirjoittajan omista ruokintavalinnoista.

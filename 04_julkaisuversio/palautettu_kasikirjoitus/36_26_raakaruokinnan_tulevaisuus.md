@@ -315,3 +315,12 @@ Surevalta ei tarvitse pyytää kokonaista kertomusta, jotta hänen vierellään 
 7. Hopf, D., Eckstein, M., Aguilar-Raab, C., Warth, M. & Ditzen, B. (2020). Neuroendocrine mechanisms of grief and bereavement: A systematic review and implications for future interventions. *Journal of Neuroendocrinology*, 32(8), e12887. Vertaisarvioitu systemaattinen katsaus, jonka surua koskeva näyttö käsittelee läheisen ihmisen menettämistä. [DOI](https://doi.org/10.1111/jne.12887).
 
 8. Uccheddu, S. ym. (2022). Domestic dogs (Canis familiaris) grieve over the loss of a conspecific. *Scientific Reports*, 12, 1920. Vertaisarvioitu kyselytutkimus koirakumppanin menetyksestä. [DOI](https://doi.org/10.1038/s41598-022-05669-y).
+
+
+---
+
+## Päivätyt lähde- ja asiatarkennukset 20.10.2026
+
+### K17 — Uusi tautivaara kuuluu prosessin arviointiin
+
+FDA edellytti vuonna 2025 säännön piiriin kuuluvilta yhdysvaltalaisilta kissa- ja koiranruoan valmistajilta H5N1-vaaran huomioimista, kun ruoassa käytetään kuumentamattomia siipikarja- tai nautaperäisiä aineksia. Tämä on esimerkki muuttuvan tautitiedon vaikutuksesta tuotannon vaaranarviointiin. Yhdysvaltain vaatimus ei ole Suomen lainsäädäntöä eikä kuvaa sellaisenaan suomalaisen tuotteen tartuntariskiä. Lähde: [FDA, H5N1 in Food Safety Plans](https://www.fda.gov/animal-veterinary/cvm-updates/cat-and-dog-food-manufacturers-required-consider-h5n1-food-safety-plans).

@@ -295,3 +295,16 @@ Diego oli dogo argentino ja painoi parhaimmillaan lähes 60 kilogrammaa. Suuren 
 FEDIAF. 2025. Nutritional Guidelines for Complete and Complementary Pet Food for Cats and Dogs. [FEDIAFin ravitsemussuositus 2025](https://europeanpetfood.org/wp-content/uploads/2025/09/FEDIAF-Nutritional-Guidelines_2025-ONLINE.pdf).
 
 Penell, J. C., Morgan, D. M., Watson, P., Carmichael, S. & Adams, V. J. 2019. Body weight at 10 years of age and change in body composition between 8 and 10 years of age were related to survival in a longitudinal study of 39 labradorinnoutaja retriever dogs. Acta Veterinaria Scandinavica 61: 42. DOI: [10.1186/s13028-019-0477-x](https://doi.org/10.1186/s13028-019-0477-x).
+
+
+---
+
+## Päivätyt lähde- ja asiatarkennukset 20.10.2026
+
+### K03 — Vuoden 2020 luututkimuksen ensimmäinen tekijä ja rajaus
+
+Tässä osiossa esiintyvää vanhaa merkintää koskee sama korjaus K03 kuin osiossa «7 LUUT JA KALSIUM». Korjauksen koko teksti on myös tämän kirjan korjausrekisterissä.
+
+### K09 — Munuaissairauden ajantasainen ohje
+
+IRIS julkaisi koirien kroonisen munuaissairauden hoitosuosituksista vuoden 2026 päivityksen. Kirjan IRIS 2023 -viittaukset ovat vanhempaan versioon; ajantasaisessa seurannassa käytetään vuoden 2026 ohjetta. Fosforin saanti ja hoitotavoitteet sovitetaan sairauden vaiheeseen ja kontrollituloksiin. Ruokavalion muuttaminen ei ole sama asia kuin proteiinin summittainen vähentäminen. Lähde: [IRIS Guidelines, koirien hoitosuositus 2026](https://www.iris-kidney.com/iris-guidelines-1).

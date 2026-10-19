@@ -247,3 +247,12 @@ WSAVA 2024 – Feeding treats to your dog
 ### 14 RUOKINTARUTIINI, SÄILYTYS JA MATKUSTAMINEN
 
 > **Vastaus minuutissa:** Hyvä resepti toimii vain, jos se voidaan toistaa arjessa. Punnitse, annostele, sulata ja tarjoa ruoka samalla selkeällä tavalla myös kiireessä ja matkalla.
+
+
+---
+
+## Päivätyt lähde- ja asiatarkennukset 20.10.2026
+
+### K20 — Arjen säilytysohjeen täsmennys
+
+Sulatusta ja uudelleenpakastamista koskee hygienialuvun korjaus K13 sekä liitteen A korjaus K14. Pakastimeen tehtävä varasto annostellaan ennen sulatusta; sulatettua raakaa lemmikkiruokaa ei pakasteta uudelleen.

@@ -1,3 +1,5 @@
+> **Viimeinen lähdekerros 20.10.2026:** alkuperäinen osio säilyy tiedoston alussa. Sen jälkeen ovat aikaisemmat täydennykset ja mahdolliset päivätyt korjaukset. Koko PDF on 436 sivua, osio-PDF:iä 53. [Korjausrekisteri](../../03_tutkimus/KORJAUSREKISTERI_2026-10-20.md) · [PDF-osiohakemisto](../../00_hallinta/LOPPUTARKISTUS_JA_PDF_OSIOT_2026-10-20.md).
+
 # Palautettu pitkä käsikirjoitus: kaikki osiot
 
 Tämä on alkuperäisen pitkän masterin koko tekstin säilyttävä työpohja. Jokaisen tiedoston alussa on alkuperäinen osio sanatarkasti; aiheeseen liittyvät myöhemmät lisäykset seuraavat sitä. Rinnakkaiset lukitut sanamuodot säilyvät näkyvissä. Vanhojen tiedostojen numerointia ei pidä tulkita uudeksi hyväksytyksi sisällysluetteloksi.

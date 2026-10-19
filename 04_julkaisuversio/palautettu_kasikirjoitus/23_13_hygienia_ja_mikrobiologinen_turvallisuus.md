@@ -105,3 +105,20 @@ Tässä osassa resepti viedään keittiöön, pakastimeen, ruokailupaikalle, mat
 ### 13 HYGIENIA JA MIKROBIOLOGINEN TURVALLISUUS
 
 > **Vastaus minuutissa:** Raaka ruoka ei ole steriiliä, eikä terveen koiran vahva ruoansulatuspuolustus poista kotitalouden ristikontaminaation riskiä. Tunnettu raaka-aine, katkeamaton kylmäketju, käsien ja välineiden pesu sekä riskiryhmien huomioiminen muodostavat turvallisen arjen.
+
+
+---
+
+## Päivätyt lähde- ja asiatarkennukset 20.10.2026
+
+### K01 — Kuitututkimuksen väärä DOI ja tekijä
+
+Tässä osiossa esiintyvää vanhaa merkintää koskee sama korjaus K01 kuin osiossa «10 HIILIHYDRAATIT, KASVIKSET JA KUITU». Korjauksen koko teksti on myös tämän kirjan korjausrekisterissä.
+
+### K06 — Ulostebakteereja käsittelevän tutkimuksen tekijä
+
+Presence of pathogenic bacteria in faeces from dogs fed raw meat-based diets or dry kibble on Runesvärdin ym. (2020) tutkimus, Veterinary Record 187:e71. DOI [10.1136/vr.105644](https://doi.org/10.1136/vr.105644) ei kuulu Nüesch-Inderbinenin ym. (2020) nimellä esitettyyn julkaisuun. Korjaus koskee tekijämerkintää ja julkaisutietoja; Nüesch-Inderbinenin muut, erilliset tutkimukset säilyvät.
+
+### K13 — Sulatus ja käsittely: täsmennys nykyiseen ohjeeseen
+
+Ruokaviraston 1.4.2026 päivitetty raakaruokaohje neuvoo käyttämään sulatetun raakaruoan nopeasti ja olemaan pakastamatta sitä uudelleen. Tämä täsmennys koskee myös kirjan liitteen A vanhempaa vastausta uudelleenpakastamisesta. Raakaruoka pidetään suljetussa astiassa erillään elintarvikkeista, kädet ja välineet puhdistetaan ja lasten pääsy ruokaan estetään. Oireeton koira tai siistin näköinen ruoka ei yksin osoita taudinaiheuttajien puuttumista. Lähde: [Ruokavirasto, Raakaruoka](https://www.ruokavirasto.fi/elaimet/rehut/tietoa-rehuista/lemmikkielainten-ruoka/koirien-ja-kissojen-ruoka/raakaruoka/).

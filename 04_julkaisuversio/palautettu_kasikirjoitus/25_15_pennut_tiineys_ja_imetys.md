@@ -297,3 +297,18 @@ Kokemus sai JP:n epäilemään, oliko loppuelämäksi esitetty ruokavalio Diegon
 11. Käytä jäljitettäviä raaka-aineita, ylläpidä kylmäketju ja erottele raa'an lihan työvälineet muusta keittiöstä.
 
 12. Hoida infektiot eläinlääkärin ohjeen mukaan. Ruokinta tukee hoitoa, mutta ei korvaa sitä.
+
+
+---
+
+## Päivätyt lähde- ja asiatarkennukset 20.10.2026
+
+### K05 — Kaksi Tryfonidou-tutkimusta erotetaan toisistaan
+
+Kalsiumin imeytymistä koskeva julkaisu on Tryfonidou, van den Broek, van den Brom ja Hazewinkel (2002): Intestinal calcium absorption in growing dogs is influenced by calcium intake and age but not by growth rate. Journal of Nutrition 132:3363–3368. DOI: [10.1093/jn/132.11.3363](https://doi.org/10.1093/jn/132.11.3363).
+
+Vuoden 2003 DOI 10.2527/2003.8161568x kuuluu eri julkaisuun: Hormonal regulation of calcium homeostasis in two breeds of dogs during growth at different rates. Kalsiumin imeytymistä kuvaavaa vuoden 2002 otsikkoa ei yhdistetä vuoden 2003 DOI:hin. Molemmat ovat koiratutkimuksia, mutta niitä käytetään niiden oman tutkimuskysymyksen mukaisesti.
+
+### K18 — Tiineyden energialaskelman sanamuoto
+
+Tiineysluvussa käytetyn kaavan 132 × paino^0,75 perusosaa ei nimetä perusaineenvaihdunnaksi. Se on kyseisen FEDIAF-arvion energiantarpeen lähtöosa. Perusaineenvaihdunta, lepoenergiantarve ja käytännön ylläpito- tai tiineysajan energiantarve ovat eri käsitteitä. Alkuperäisen 30 kilogramman esimerkin laskutoimitus, noin 1 692 + 780 = 2 472 kilokaloria vuorokaudessa, säilyy; korjaus koskee suureen nimeä. Lähde: FEDIAF 2025, taulukko VII-8b.

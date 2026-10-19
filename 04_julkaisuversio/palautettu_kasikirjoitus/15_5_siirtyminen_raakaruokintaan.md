@@ -153,3 +153,12 @@ Kun uuden ruokavalion rasva-, kuitu- tai proteiinikoostumus poikkeaa selvästi a
 Jos koiralle tulee oireita, niiden syytä ei pidä automaattisesti tulkita uuden ruoan vaikutukseksi. Mahdollisia muita selityksiä ovat esimerkiksi pilaantunut ruokaerä, vierasesine, loinen, infektio tai ruokinnasta riippumaton sairaus. Voimakkaissa, pitkittyvissä tai yleisvointia heikentävissä oireissa on hakeuduttava eläinlääkärin arvioon.
 
 *Toimituksellinen huomautus: palautettu vanhan lähdetekstin kaksi huomiota. Lopullinen sanamuoto ja tutkimusviitteet tarkistettava ennen hyväksyntää.*
+
+
+---
+
+## Päivätyt lähde- ja asiatarkennukset 20.10.2026
+
+### K02 — Liao-viitteen tunniste ei vastaa väitettyä tutkimusta
+
+Liao ym. (2023) -nimellä annettu DOI 10.3390/ani13081324 kuuluu Amelin, Braunin ja Krämerin eläinavusteista toimintaa käsittelevälle artikkelille. Se ei tue kirjan ruokinnanvaihtoa ja koiran suolistomikrobistoa koskevaa väitettä. Kuvattua Liao-julkaisua ei saatu varmennettua. Ruokinnan vaihdon jälkeisiä mikrobiston ja metaboliittien muutoksia käsittelevä, tunnistettu koiratutkimus on Lin ym. (2022): Longitudinal fecal microbiome and metabolite data demonstrate rapid shifts and subsequent stabilization after an abrupt dietary change in healthy adult dogs. DOI: [10.1186/s42523-022-00194-9](https://doi.org/10.1186/s42523-022-00194-9). Se tukee muutoksen olemassaoloa; se ei yksin määrää kaikille koirille sopivaa siirtymäaikataulua.

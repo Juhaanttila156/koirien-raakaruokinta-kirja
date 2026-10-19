@@ -203,3 +203,12 @@ Riista voi olla erinomainen raaka-aine, mutta eläinlaji, ruhonosa ja rasvaisuus
 ### 44. Todistavatko Diegon pitkä ikä tai DogRisk-tutkimukset raakaruokinnan paremmaksi?
 
 Eivät yksin. Diegon yli 13 vuoden elämä on arvokas pitkä kokemuskertomus, mutta yhden koiran elinikä ei erota ruokinnan vaikutusta perimästä, ympäristöstä, liikunnasta, hoidosta ja sattumasta. DogRiskin kysely- ja kohorttitulokset voivat osoittaa ruokintatekijöiden ja terveysmuuttujien välisiä yhteyksiä sekä perustella uusia tutkimuksia, mutta havainnoiva yhteys ei vielä osoita syytä. Kirjassa molemmat pidetään mukana: kokemus kertoo, mitä tapahtui Diegolle, ja tutkimus kertoo, kuinka pitkälle havaintoa voidaan yleistää. (Hemida ym. 2020, 2021a, 2021b, 2023; Vuori ym. 2023; katso luku 26.)
+
+
+---
+
+## Päivätyt lähde- ja asiatarkennukset 20.10.2026
+
+### K14 — Liitteen A uudelleenpakastusohjeen korjaus
+
+Sulatettua raakaa lemmikkiruokaa ei pakasteta uudelleen. Tämä korvaa alla alkuperäisessä tekstissä säilyvän, uudelleenpakastamisen tietyin ehdoin sallivan käytännön ohjeen. Peruste: Ruokaviraston 1.4.2026 päivitetty raakaruokaohje; katso myös hygienialuvun täsmennys K13.

@@ -233,3 +233,16 @@ Zhu, H. ym. 2006. Bacterial killing in gastric juice: effect of pH and pepsin on
 ### 25 MAHAHAPPO, RUOANSULATUS JA SUOLISTOMIKROBISTO
 
 > **Vastaus minuutissa:** Koiran mahalaukku voi olla hyvin hapan, mutta pH muuttuu aterian ja ajan mukana. Mahahappo on yksi puolustuskerros, ei takuu siitä, että pilaantunut tai vaarallisesti käsitelty ruoka olisi turvallista.
+
+
+---
+
+## Päivätyt lähde- ja asiatarkennukset 20.10.2026
+
+### K01 — Kuitututkimuksen väärä DOI ja tekijä
+
+Tässä osiossa esiintyvää vanhaa merkintää koskee sama korjaus K01 kuin osiossa «10 HIILIHYDRAATIT, KASVIKSET JA KUITU». Korjauksen koko teksti on myös tämän kirjan korjausrekisterissä.
+
+### K06 — Ulostebakteereja käsittelevän tutkimuksen tekijä
+
+Tässä osiossa esiintyvää vanhaa merkintää koskee sama korjaus K06 kuin osiossa «13 HYGIENIA JA MIKROBIOLOGINEN TURVALLISUUS». Korjauksen koko teksti on myös tämän kirjan korjausrekisterissä.

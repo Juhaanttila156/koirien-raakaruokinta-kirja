@@ -83,3 +83,12 @@ Vekun tarina kuuluu tähän kirjaan muistona koiran käyttäytymisestä, ei turv
 Tämä on **JP:n ja Diegon henkilökohtainen, tietoisesti toteutettu käytäntö**. Sitä ei pidä soveltaa yleiseksi suositukseksi. Toiselle koiralle vastaava luumäärä voi aiheuttaa kivuliaan ummetuksen, vaurion tai suolistotukoksen.
 
 Kivikova uloste ei ole tämän kirjan yleinen tavoite eikä anaalirauhasten hoito-ohje. Jos koira ponnistelee kivuliaasti, ei saa ulostettua tai sen yleisvointi muuttuu, tilanne arvioidaan eläinlääkärissä.
+
+
+---
+
+## Päivätyt lähde- ja asiatarkennukset 20.10.2026
+
+### K03 — Vuoden 2020 luututkimuksen ensimmäinen tekijä ja rajaus
+
+DOI 10.1371/journal.pone.0228146 kuuluu Pintolle, Lehrille, Pignonelle, Chainille ja Trevizanille (2020). Tekstissä esiintyvä Marx ym. (2020) korjataan tätä tutkimusta tarkoitettaessa muotoon Pinto ym. (2020). Vuoden 2016 Marx-tutkimus on eri julkaisu ja säilyy omana lähteenään. Vuoden 2020 koe käytti autoklavoituja naudanluita, 12 beaglea ja 14 vuorokauden seurantaa. Havaitut hammaskiven muutokset ja lyhyen seurannan vammat eivät osoita raakojen luiden pitkäaikaista turvallisuutta. Lähde: [Pinto ym. 2020](https://doi.org/10.1371/journal.pone.0228146).

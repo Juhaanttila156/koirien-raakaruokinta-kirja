@@ -230,3 +230,7 @@ Alkuperäisestä masterista ei ole poistettu mitään. Lisäaineiston teknisiä 
 | 50 — TAKAKANSITEKSTI – PITKÄ VERSIO | `e5c254ccf5e7f3a667a705a7225c1361679c4286577931e53573457458ed8fd7` |
 | 51 — TAKAKANSITEKSTI – LYHYT VERSIO | `0387292aa636faff610b06748eceafad0ff4dee3d74510ce6d499cc67e4f38ed` |
 | 52 — VIIMEINEN SIVU | `48b16414afe6c506d9d0d46661b5e5367255d0ff472f434c25a9e7d3e2136c7b` |
+
+## Saman yön jatkovaihe: lähdetarkennukset ja osio-PDF:t
+
+Edellä säilyy ensimmäisen palautusvaiheen raportti. Sen jälkeinen työkoonti on 103 414 sanaa ja 436 PDF-sivua. Alkuperäiset sekä kaikki edellisessä vaiheessa säilytetyt tekstit pysyvät mukana; muutos on lisäävä. [Viimeisen vaiheen säilyvyystarkistus](LOPPUTARKISTUS_JA_PDF_OSIOT_2026-10-20.md) ja [lähdetarkistuksen rajat](../03_tutkimus/KOKO_MASTERIN_LAHDETARKISTUS_2026-10-20.md) täydentävät tätä raporttia.

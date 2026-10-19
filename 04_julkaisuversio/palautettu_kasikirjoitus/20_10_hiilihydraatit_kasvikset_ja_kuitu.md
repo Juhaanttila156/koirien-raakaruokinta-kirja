@@ -171,3 +171,12 @@ National Research Council (NRC). 2006. Nutrient Requirements of Dogs and Cats. W
 Palmqvist, H., Höglund, K., Ringmark, S., Lundh, T. & Dicksved, J. 2023. Effects of whole-grain cereals on fecal microbiota and short-chain fatty acids in dogs: a comparison of rye, oats and wheat. Scientific Reports 13: 10920. DOI: https://doi.org/10.1038/s41598-023-37975-4
 
 Ruokavirasto. Raakamaito. Verkkosivu, tarkistettu 19.10.2026. https://www.ruokavirasto.fi/elintarvikkeet/ohjeita-kuluttajille/turvallisen-kayton-ohjeet/raakamaito/
+
+
+---
+
+## Päivätyt lähde- ja asiatarkennukset 20.10.2026
+
+### K01 — Kuitututkimuksen väärä DOI ja tekijä
+
+Kirjan Barry ym. (2008) -merkinnässä käytetty DOI 10.2527/jas.2007-0494 johtaa vasikoiden laktuloosia käsittelevään tutkimukseen (Fleige ym. 2009), ei tarkoitettuun koiratutkimukseen. Koirien fermentoituvia oligosakkarideja koskeva viite on Middelbos, Fastinger ja Fahey (2007): Evaluation of fermentable oligosaccharides in diets fed to dogs in comparison to fiber standards. Journal of Animal Science 85:3033–3044. DOI: [10.2527/jas.2007-0080](https://doi.org/10.2527/jas.2007-0080). Väärää DOI:ta ei käytetä tämän koiraväitteen todisteena.
