@@ -2,6 +2,10 @@
 
 Tämä kansio sisältää 16.10.2026 lukitun, lukijalle toimitetun julkaisuversion. Lähde- ja arkistokerrokset säilyvät muualla repositoriossa muuttamattomina.
 
+## Hyväksytty lisäys 19.10.2026
+
+JP Anttila hyväksyi ja lukitsi kirjoituksen [Koiran ja ihmisen kiintymys sekä kumppanin menettäminen](lukitut/Koiran_ja_ihmisen_kiintymys_ja_menetys.md) osaksi kirjaa. Tutkimusosuus on loppuosan alussa luvun 27 jälkeen, ja henkilökohtainen Diego-päätösteksti päättää loppusanat. Koko hyväksytty teksti ja lähteet säilytetään; sisältömuutokset edellyttävät JP Anttilan erillistä hyväksyntää. Lisäys sisältyy julkaisumasteriin ja toistettavaan koontiin. [Lukituspäätös ja säilymistarkistus](../00_hallinta/LUKITUS_KIINTYMYS_JA_MENETYS_2026-10-19.md).
+
 ## Aloita tästä
 
 - [Yhtenäinen julkaisumasteri](KOIRIEN_RAAKARUOKINTA_JULKAISUMASTER_v1.0.md)

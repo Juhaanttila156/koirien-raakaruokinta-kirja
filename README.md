@@ -4,7 +4,7 @@ Tämä repositorio on koirien raakaruokinta -kirjan itsenäinen GitHub-päärepo
 
 ## Julkaisuversio 1.0
 
-Lukijalle toimitettu 27 luvun julkaisuversio on koottu 16.10.2026.
+Lukijalle toimitettu 27 luvun julkaisuversio on koottu 16.10.2026. Loppuosaan on lisätty 19.10.2026 JP Anttilan hyväksymä ja lukitsema [kiintymys- ja menetysosuus sekä henkilökohtainen Diego-päätösteksti](04_julkaisuversio/lukitut/Koiran_ja_ihmisen_kiintymys_ja_menetys.md). Lisäys sisältyy alla olevaan julkaisumasteriin.
 
 - [Yhtenäinen julkaisumasteri](04_julkaisuversio/KOIRIEN_RAAKARUOKINTA_JULKAISUMASTER_v1.0.md)
 - [Julkaisuversion työtila ja käyttöohje](04_julkaisuversio/README.md)

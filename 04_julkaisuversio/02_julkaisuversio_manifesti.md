@@ -1,9 +1,10 @@
 # Julkaisuversio 1.0 – manifesti
 
-**Koontipäivä:** 16.10.2026  
+**Koontipäivä:** 19.10.2026  
 **Julkaisumasteri:** `KOIRIEN_RAAKARUOKINTA_JULKAISUMASTER_v1.0.md`  
-**Masterin sanamäärä:** 70279  
-**Lukuja:** 27
+**Masterin sanamäärä:** 72205  
+**Lukuja:** 27  
+**Loppuosan lisäys:** JP Anttilan 19.10.2026 hyväksymä ja lukitsema kiintymys- ja menetysosuus sekä henkilökohtainen Diego-päätösteksti.
 
 Julkaisumasteri muodostetaan alla olevista tiedostoista tässä järjestyksessä komennolla `python scripts/build_release.py`. Lukukohtaiset HTML-kommentit säilyttävät yhteyden muuttamattomaan lähdeaineistoon, mutta ne poistetaan lukijalle tarkoitetusta koontitiedostosta.
 
@@ -13,7 +14,7 @@ Julkaisumasteri muodostetaan alla olevista tiedostoista tässä järjestyksessä
 |---:|---|---:|---|---|
 | 1 | `00_nimiotiedot.md` | 24 | `737d6660f58d` | Lähde: 02_luvut_preview/00_nimiotiedot.md. Kielentarkistettu julkaisuversio 0.1, 16.10.2026. |
 | 2 | `00a_omistuskirjoitus.md` | 7 | `b74402455fe3` | Lähde: 02_luvut_preview/44_omistuskirjoitus.md. Kielentarkistettu julkaisuversio 0.2, 16.10.2026. Alkuperäinen lähdetiedosto säilyy muuttamattomana. |
-| 3 | `00b_sisallysluettelo.md` | 226 | `f38d4a69c2a4` | Julkaisuversiossa kirjoitettu tai koottu |
+| 3 | `00b_sisallysluettelo.md` | 233 | `829b49b143b7` | Julkaisuversiossa kirjoitettu tai koottu |
 | 4 | `01_lukijalle.md` | 103 | `e5764e51e421` | Lähde: 02_luvut_preview/01_lukijalle.md. Kielentarkistettu julkaisuversio 0.1, 16.10.2026. |
 | 5 | `02_alkusanat.md` | 222 | `d26049a4232a` | Lähde: 02_luvut_preview/02_alkusanat.md. Kielentarkistettu julkaisuversio 0.1, 16.10.2026. |
 | 6 | `03_jp_ja_diego.md` | 312 | `cf081af494ca` | Lähde: 02_luvut_preview/03_johdanto.md. Kielentarkistettu julkaisuversio 0.1, 16.10.2026. Kalaöljyn annostiedot on tarkistettava ennen julkaisua. |
@@ -54,19 +55,20 @@ Julkaisumasteri muodostetaan alla olevista tiedostoista tässä järjestyksessä
 | 41 | `54_26_mita_tutkimus_voi_kertoa_ja_mita_ei.md` | 2008 | `d5aebfacbc1b` | Lähde: 02_luvut_preview/35_25_mita_tutkimus_voi_kertoa.md. Kielentarkistettu ja uudelleen numeroitu julkaisuversio 0.2, 16.10.2026. Alkuperäinen lähdetiedosto säilyy muuttamattomana. |
 | 42 | `55_27_tulevaisuus_ja_elava_tietopohja.md` | 2041 | `3eb5081100db` | Lähde: 02_luvut_preview/36_26_raakaruokinnan_tulevaisuus.md. Kielentarkistettu ja uudelleen numeroitu julkaisuversio 0.2, 16.10.2026. Alkuperäinen lähdetiedosto säilyy muuttamattomana. |
 | 43 | `60_loppuosa.md` | 18 | `da820ef6304d` | Julkaisuversio 0.2, 16.10.2026. |
-| 44 | `61_mita_diego_opetti_minulle.md` | 1004 | `cdd532e50559` | Lähde: 02_luvut_preview/41_loppusanat.md. Kielentarkistettu julkaisuversio 0.2, 16.10.2026. Alkuperäinen lähdetiedosto säilyy muuttamattomana. |
-| 45 | `62_liite_a_usein_kysytyt_kysymykset.md` | 2052 | `a66bd44465dc` | Lähde: 02_luvut_preview/37_liite_a_usein_kysytyt_kysymykset.md. Kielentarkistettu julkaisuversio 0.2, 16.10.2026. Alkuperäinen lähdetiedosto säilyy muuttamattomana. |
-| 46 | `63_liite_b_malliviikot.md` | 1218 | `2004360cbe47` | Lähde: 02_luvut_preview/38_liite_b_malliviikot.md. Kielentarkistettu julkaisuversio 0.2, 16.10.2026. Alkuperäinen lähdetiedosto säilyy muuttamattomana. |
-| 47 | `64_liite_c_laskenta_ja_seurantalomakkeet.md` | 2148 | `0d5c056e098d` | Lähde: 02_luvut_preview/39_liite_c_laskenta_ja_seurantalomakkeet.md. Kielentarkistettu julkaisuversio 0.2, 16.10.2026. Alkuperäinen lähdetiedosto säilyy muuttamattomana. |
-| 48 | `65_liite_d_sanasto.md` | 1586 | `6950bb6adc23` | Lähde: 02_luvut_preview/40_liite_d_sanasto.md. Kielentarkistettu julkaisuversio 0.2, 16.10.2026. Alkuperäinen lähdetiedosto säilyy muuttamattomana. |
-| 49 | `66_lahteiden_kaytto.md` | 28 | `342e2e5e0a0d` | Lähde: 02_luvut_preview/48_lahteiden_kaytto.md. Kielentarkistettu julkaisuversio 0.2, 16.10.2026. Alkuperäinen lähdetiedosto säilyy muuttamattomana. |
-| 50 | `67_lahteet.md` | 6937 | `e67bf6466bda` | Lähde: 02_luvut_preview/42_lahteet.md. Kielentarkistettu julkaisuversio 0.2, 16.10.2026. Alkuperäinen lähdetiedosto säilyy muuttamattomana. |
-| 51 | `68_asiahakemisto.md` | 1086 | `cf9429824cf9` | Lähde: 02_luvut_preview/43_asiahakemisto.md. Kielentarkistettu julkaisuversio 0.2, 16.10.2026. Alkuperäinen lähdetiedosto säilyy muuttamattomana. |
-| 52 | `69_kiitokset.md` | 121 | `fc6be0293c14` | Lähde: 02_luvut_preview/45_kiitokset.md. Kielentarkistettu julkaisuversio 0.2, 16.10.2026. Alkuperäinen lähdetiedosto säilyy muuttamattomana. |
-| 53 | `70_kirjoittajasta.md` | 86 | `157660abaaa6` | Lähde: 02_luvut_preview/46_kirjoittajasta.md. Kielentarkistettu julkaisuversio 0.2, 16.10.2026. Alkuperäinen lähdetiedosto säilyy muuttamattomana. |
-| 54 | `71_tietoa_tasta_kirjasta.md` | 133 | `ccf9f84a7d65` | Lähde: 02_luvut_preview/47_tietoa_tasta_kirjasta.md. Kielentarkistettu julkaisuversio 0.2, 16.10.2026. Alkuperäinen lähdetiedosto säilyy muuttamattomana. |
-| 55 | `72_tekijanoikeussivu.md` | 82 | `b1dbd7da9c56` | Lähde: 02_luvut_preview/49_tekijanoikeussivu.md. Kielentarkistettu julkaisuversio 0.2, 16.10.2026. Alkuperäinen lähdetiedosto säilyy muuttamattomana. |
-| 56 | `82_viimeinen_sivu.md` | 11 | `9ee80cf1d7eb` | Lähde: 02_luvut_preview/52_viimeinen_sivu.md. Kielentarkistettu julkaisuversio 0.2, 16.10.2026. Alkuperäinen lähdetiedosto säilyy muuttamattomana. |
+| 44 | `60a_koiran_ja_ihmisen_kiintymys_ja_menetys.md` | 1353 | `f7f12faf555a` | Lähde: 04_julkaisuversio/lukitut/Koiran_ja_ihmisen_kiintymys_ja_menetys.md. JP Anttilan hyväksymä ja lukitsema 19.10.2026. Sanamuodot ja lähteet säilytetty. Sisältömuutokset edellyttävät JP Anttilan erillistä hyväksyntää. |
+| 45 | `61_mita_diego_opetti_minulle.md` | 1227 | `87c808b04ca7` | Lähde: 02_luvut_preview/41_loppusanat.md. Kielentarkistettu julkaisuversio 0.2, 16.10.2026. Alkuperäinen lähdetiedosto säilyy muuttamattomana. Loppuun lisätty 19.10.2026 JP Anttilan lukitsema päätösteksti tiedostosta 04_julkaisuversio/lukitut/Koiran_ja_ihmisen_kiintymys_ja_menetys.md; lisäyksen sanamuotoja ei muuteta ilman erillistä hyväksyntää. |
+| 46 | `62_liite_a_usein_kysytyt_kysymykset.md` | 2052 | `a66bd44465dc` | Lähde: 02_luvut_preview/37_liite_a_usein_kysytyt_kysymykset.md. Kielentarkistettu julkaisuversio 0.2, 16.10.2026. Alkuperäinen lähdetiedosto säilyy muuttamattomana. |
+| 47 | `63_liite_b_malliviikot.md` | 1218 | `2004360cbe47` | Lähde: 02_luvut_preview/38_liite_b_malliviikot.md. Kielentarkistettu julkaisuversio 0.2, 16.10.2026. Alkuperäinen lähdetiedosto säilyy muuttamattomana. |
+| 48 | `64_liite_c_laskenta_ja_seurantalomakkeet.md` | 2148 | `0d5c056e098d` | Lähde: 02_luvut_preview/39_liite_c_laskenta_ja_seurantalomakkeet.md. Kielentarkistettu julkaisuversio 0.2, 16.10.2026. Alkuperäinen lähdetiedosto säilyy muuttamattomana. |
+| 49 | `65_liite_d_sanasto.md` | 1586 | `6950bb6adc23` | Lähde: 02_luvut_preview/40_liite_d_sanasto.md. Kielentarkistettu julkaisuversio 0.2, 16.10.2026. Alkuperäinen lähdetiedosto säilyy muuttamattomana. |
+| 50 | `66_lahteiden_kaytto.md` | 28 | `342e2e5e0a0d` | Lähde: 02_luvut_preview/48_lahteiden_kaytto.md. Kielentarkistettu julkaisuversio 0.2, 16.10.2026. Alkuperäinen lähdetiedosto säilyy muuttamattomana. |
+| 51 | `67_lahteet.md` | 7280 | `09bee632abfb` | Lähde: 02_luvut_preview/42_lahteet.md. Kielentarkistettu julkaisuversio 0.2, 16.10.2026. Alkuperäinen lähdetiedosto säilyy muuttamattomana. |
+| 52 | `68_asiahakemisto.md` | 1086 | `cf9429824cf9` | Lähde: 02_luvut_preview/43_asiahakemisto.md. Kielentarkistettu julkaisuversio 0.2, 16.10.2026. Alkuperäinen lähdetiedosto säilyy muuttamattomana. |
+| 53 | `69_kiitokset.md` | 121 | `fc6be0293c14` | Lähde: 02_luvut_preview/45_kiitokset.md. Kielentarkistettu julkaisuversio 0.2, 16.10.2026. Alkuperäinen lähdetiedosto säilyy muuttamattomana. |
+| 54 | `70_kirjoittajasta.md` | 86 | `157660abaaa6` | Lähde: 02_luvut_preview/46_kirjoittajasta.md. Kielentarkistettu julkaisuversio 0.2, 16.10.2026. Alkuperäinen lähdetiedosto säilyy muuttamattomana. |
+| 55 | `71_tietoa_tasta_kirjasta.md` | 133 | `ccf9f84a7d65` | Lähde: 02_luvut_preview/47_tietoa_tasta_kirjasta.md. Kielentarkistettu julkaisuversio 0.2, 16.10.2026. Alkuperäinen lähdetiedosto säilyy muuttamattomana. |
+| 56 | `72_tekijanoikeussivu.md` | 82 | `b1dbd7da9c56` | Lähde: 02_luvut_preview/49_tekijanoikeussivu.md. Kielentarkistettu julkaisuversio 0.2, 16.10.2026. Alkuperäinen lähdetiedosto säilyy muuttamattomana. |
+| 57 | `82_viimeinen_sivu.md` | 11 | `9ee80cf1d7eb` | Lähde: 02_luvut_preview/52_viimeinen_sivu.md. Kielentarkistettu julkaisuversio 0.2, 16.10.2026. Alkuperäinen lähdetiedosto säilyy muuttamattomana. |
 
 ## Erillinen tuotantoaineisto
 

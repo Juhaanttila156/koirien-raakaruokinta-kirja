@@ -1,6 +1,6 @@
 # JULKAISUVERSION SISÄLLYSLUETTELO
 
-**Versio 1.0 – 16.10.2026**
+**Versio 1.0 – 16.10.2026; loppuosan hyväksytty lisäys 19.10.2026**
 
 Tämä on lukijalle tarkoitetun julkaisuversion lukittu järjestys. Lähdeaineiston `MASTER.md` ja `02_luvut_preview/` säilyvät erillisinä, muuttamattomina työ- ja arkistoversioina.
 
@@ -58,6 +58,7 @@ Tämä on lukijalle tarkoitetun julkaisuversion lukittu järjestys. Lähdeaineis
 
 ## LOPPUOSA
 
+- Koiran ja ihmisen kiintymys sekä kumppanin menettäminen
 - Mitä Diego opetti minulle
 - Usein kysytyt kysymykset
 - Malliviikot

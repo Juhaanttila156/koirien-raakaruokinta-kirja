@@ -54,6 +54,7 @@
 
 ## Loppuosa
 
+- Koiran ja ihmisen kiintymys sekä kumppanin menettäminen
 - Loppusanat: Mitä Diego opetti minulle
 - Liite A: Usein kysytyt kysymykset
 - Liite B: Malliviikot

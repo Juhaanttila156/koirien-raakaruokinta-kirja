@@ -56,6 +56,7 @@ ORDER = [
     "54_26_mita_tutkimus_voi_kertoa_ja_mita_ei.md",
     "55_27_tulevaisuus_ja_elava_tietopohja.md",
     "60_loppuosa.md",
+    "60a_koiran_ja_ihmisen_kiintymys_ja_menetys.md",
     "61_mita_diego_opetti_minulle.md",
     "62_liite_a_usein_kysytyt_kysymykset.md",
     "63_liite_b_malliviikot.md",
@@ -145,10 +146,11 @@ def build_manifest() -> None:
 
     content = f"""# Julkaisuversio 1.0 – manifesti
 
-**Koontipäivä:** 16.10.2026  
+**Koontipäivä:** 19.10.2026  
 **Julkaisumasteri:** `KOIRIEN_RAAKARUOKINTA_JULKAISUMASTER_v1.0.md`  
 **Masterin sanamäärä:** {total_words}  
-**Lukuja:** 27
+**Lukuja:** 27  
+**Loppuosan lisäys:** JP Anttilan 19.10.2026 hyväksymä ja lukitsema kiintymys- ja menetysosuus sekä henkilökohtainen Diego-päätösteksti.
 
 Julkaisumasteri muodostetaan alla olevista tiedostoista tässä järjestyksessä komennolla `python scripts/build_release.py`. Lukukohtaiset HTML-kommentit säilyttävät yhteyden muuttamattomaan lähdeaineistoon, mutta ne poistetaan lukijalle tarkoitetusta koontitiedostosta.
 

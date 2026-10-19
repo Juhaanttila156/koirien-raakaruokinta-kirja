@@ -421,3 +421,23 @@ Razmaitė, V., Pileckas, V., Šiukščius, A. & Juškienė, V. 2020. Fatty Acid 
 Ruokavirasto. 2026. Usein kysyttyä lemmikkien ruoista ja niiden valvonnasta. Päivitetty 8.5.2026 — https://www.ruokavirasto.fi/elaimet/rehut/tietoa-rehuista/lemmikkielainten-ruoka/usein-kysyttya-lemmikkien-ruoista-ja-niiden-valvonnasta/.
 
 Sandri, M., Dal Monego, S., Conte, G., Sgorlon, S. & Stefanon, B. 2017. Raw meat based diet influences faecal microbiome and end products of fermentation in healthy dogs. BMC Veterinary Research 13: 65. DOI: 10.1186/s12917-017-0981-z — https://doi.org/10.1186/s12917-017-0981-z.
+
+## Kiintymystä ja menetystä käsittelevän osuuden lähteet
+
+Numerot 1–8 viittaavat loppuosan kirjoitukseen *Koiran ja ihmisen kiintymys sekä kumppanin menettäminen*.
+
+1. Horn, L., Huber, L. & Range, F. (2013). The Importance of the Secure Base Effect for Domestic Dogs – Evidence from a Manipulative Problem-Solving Task. *PLOS ONE*, 8(5), e65296. Vertaisarvioitu kokeellinen tutkimus. [DOI](https://doi.org/10.1371/journal.pone.0065296). Julkaisussa ilmoitetaan Royal Caninin Clever Dog Labille antamat lahjoitukset; tutkimuksen aihe oli kiintymyskäyttäytyminen, ei ruokavalioiden vertailu.
+
+2. Nagasawa, M. ym. (2015). Oxytocin-gaze positive loop and the coevolution of human-dog bonds. *Science*, 348(6232), 333–336. Vertaisarvioitu alkuperäistutkimus. [DOI](https://doi.org/10.1126/science.1261022).
+
+3. Kekecs, Z. ym. (2016). Commentary: Oxytocin-gaze positive loop and the coevolution of human–dog bonds. *Frontiers in Neuroscience*, 10, 155. Vertaisarvioitu metodologinen kommentaari ja aineiston uudelleenanalyysi. [DOI](https://doi.org/10.3389/fnins.2016.00155).
+
+4. Sundman, A.-S. ym. (2019). Long-term stress levels are synchronized in dogs and their owners. *Scientific Reports*, 9, 7391. Vertaisarvioitu havainnoiva tutkimus. [DOI](https://doi.org/10.1038/s41598-019-43851-x). Artikkeliin on julkaistu [tekijöiden korjaus vuonna 2020](https://doi.org/10.1038/s41598-020-74204-8).
+
+5. Cleary, M. ym. (2022; verkkojulkaisu 2021). Grieving the loss of a pet: A qualitative systematic review. *Death Studies*, 46(9), 2167–2178. Vertaisarvioitu systemaattinen katsaus laadullisiin tutkimuksiin. [DOI](https://doi.org/10.1080/07481187.2021.1901799).
+
+6. Freed, P. J., Yanagihara, T. K., Hirsch, J. & Mann, J. J. (2009). Neural Mechanisms of Grief Regulation. *Biological Psychiatry*, 66(1), 33–40. Vertaisarvioitu aivokuvantamistutkimus lemmikkinsä menettäneillä ihmisillä. [DOI](https://doi.org/10.1016/j.biopsych.2009.01.019).
+
+7. Hopf, D., Eckstein, M., Aguilar-Raab, C., Warth, M. & Ditzen, B. (2020). Neuroendocrine mechanisms of grief and bereavement: A systematic review and implications for future interventions. *Journal of Neuroendocrinology*, 32(8), e12887. Vertaisarvioitu systemaattinen katsaus, jonka surua koskeva näyttö käsittelee läheisen ihmisen menettämistä. [DOI](https://doi.org/10.1111/jne.12887).
+
+8. Uccheddu, S. ym. (2022). Domestic dogs (Canis familiaris) grieve over the loss of a conspecific. *Scientific Reports*, 12, 1920. Vertaisarvioitu kyselytutkimus koirakumppanin menetyksestä. [DOI](https://doi.org/10.1038/s41598-022-05669-y).

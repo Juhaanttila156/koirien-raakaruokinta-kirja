@@ -1,4 +1,4 @@
-<!-- Lähde: 02_luvut_preview/41_loppusanat.md. Kielentarkistettu julkaisuversio 0.2, 16.10.2026. Alkuperäinen lähdetiedosto säilyy muuttamattomana. -->
+<!-- Lähde: 02_luvut_preview/41_loppusanat.md. Kielentarkistettu julkaisuversio 0.2, 16.10.2026. Alkuperäinen lähdetiedosto säilyy muuttamattomana. Loppuun lisätty 19.10.2026 JP Anttilan lukitsema päätösteksti tiedostosta 04_julkaisuversio/lukitut/Koiran_ja_ihmisen_kiintymys_ja_menetys.md; lisäyksen sanamuotoja ei muuteta ilman erillistä hyväksyntää. -->
 
 # LOPPUSANAT
 
@@ -79,3 +79,21 @@ Jos tämä kirja auttaa kysymään yhden paremman kysymyksen, korjaamaan yhden p
 Diego kulkee tämän kirjan mukana alusta loppuun, koska hän on sen sydän. Tutkimus auttaa ymmärtämään, mitä koira tarvitsee. Diego muistuttaa, miksi sillä on merkitystä.
 
 Tämä kirja on Diegon muistolle, opettajalleni.
+
+## Päätösteksti loppusanoihin
+
+Kun koiran kanssa jakaa elämänsä, yhteys rakentuu vähitellen. Päivistä tulee vuosia, ja niiden sisään mahtuu niin paljon tavallista yhdessäoloa, ettei kaikkea osaa enää erottaa yksittäisiksi muistoiksi. Tuttu katse. Lähteminen yhdessä. Lepo saman katon alla. Tieto siitä, että toinen on siinä.
+
+Menetyksen jälkeen juuri tavallinen voi tuntua kipeältä. Päivässä on edelleen samoja hetkiä, mutta niiden sisältä puuttuu tuttu kumppani. Kaipaus voi tulla kesken lauseen, ja silloin sanat voivat loppua.
+
+Silloinkin suhteen merkitys saa jäädä näkyviin. Kaikkea ei tarvitse pystyä kertomaan. Yhteinen elämä on ollut totta myös niiltä osin, joille ei löydy sanoja.
+
+Diego oli minun kumppanini. Hänen kanssaan eläminen opetti minua katsomaan koiraa tarkemmin, kantamaan vastuuta ja ymmärtämään, kuinka läheiseksi kahden eri lajin välinen suhde voi kasvaa. Siksi hänen paikkansa tässä kirjassa on henkilökohtainen. Kun kirjoitan huolenpidosta, kirjoitan myös siitä, mitä yhteinen elämä hänen kanssaan minulle merkitsi.
+
+Tämä kirja on yksi tapa antaa sille yhteiselle elämälle paikka. Toivon, että sen lukija pysähtyy oman koiransa äärelle: huomaa sen tarpeet, oppii tuntemaan sen ja antaa arvoa niille tavallisille hetkille, joita he saavat jakaa.
+
+Jos olet jo menettänyt oman koirasi, saat muistaa sitä omalla tavallasi. Sinun ei tarvitse löytää kaunista loppulausetta tai tehdä surustasi valmista kertomusta. Myös keskeneräinen lause voi kertoa siitä, kuinka tärkeä toinen oli.
+
+Diego, sinä olet osa minun elämäntarinaani. Tämä kirja kantaa mukanaan sitä, mitä opin eläessäni sinun kanssasi.
+
+Kiitos yhteisestä elämästä.
