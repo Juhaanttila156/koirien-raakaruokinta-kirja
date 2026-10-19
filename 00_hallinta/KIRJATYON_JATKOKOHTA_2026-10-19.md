@@ -1,3 +1,5 @@
+> **Voimassa oleva työpohja 20.10.2026:** [koko alkuperäisen pitkän masterin palautuskoonti](../04_julkaisuversio/KOIRIEN_RAAKARUOKINTA_PITKA_MASTER_PALAUTETTU_2026-10-20.md). Kaikki 53 alkuperäistä tekstiosiota säilyvät kokonaisina. [Kirjoittajan sitova säilyttämispäätös](../00_hallinta/LUKITUS_ALKUPERAISEN_PITKAN_MASTERIN_SAILYTTAMINEN_2026-10-20.md) ja kaikki aiemmat lukitukset ovat voimassa. [Uusin jatkokohta](../00_hallinta/KIRJATYON_JATKOKOHTA_2026-10-20.md). Alla säilyy aiempi tilannekuva ja historia; lyhyempää runkoa ei käytetä uuden kirjatyön lähtökohtana.
+
 # Kirjatyön jatkokohta 19.10.2026
 
 ## Uusin jatkokohta: alkuperäisen masterin luku 12, kala ja merenelävät
